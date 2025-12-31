@@ -27,22 +27,32 @@ git add server.lock
 git commit -m "lock: %COMPUTERNAME% iniciou o servidor"
 git push
 
-
-REM --- inicia servidor ---
+REM --- inicia servidor e grava log ---
 
 set WEBHOOK_URL=https://discord.com/api/webhooks/1455941349835542783/coQxn5rWwNDQ4Qz1iD0s3_dYld2Fajg6lIvAG1bBwHgs0i3ToQL989KGE3KcgM3L5HR6
 
-set MSG=▶️ Iniciando servidor...
-echo %MSG%
+set LOGFILE=%CD%\server.log
+if exist "%LOGFILE%" del "%LOGFILE%"
 
-curl -H "Content-Type: application/json" ^
-  -d "{\"content\":\"%MSG%\"}" ^
+set MSG=▶️ Iniciando servidor...
+curl -H "Content-Type: application/json; charset=utf-8" ^
+  --data-binary "{\"content\":\"%MSG%\"}" ^
   "%WEBHOOK_URL%"
 
-start "Minecraft Server" cmd /k call run.bat
+REM roda em outra janela, mas loga a saída num arquivo
+start "Minecraft Server" cmd /c "call run.bat >> \"%LOGFILE%\" 2>&1"
 
-set MSG=🟢 O servidor está rodando
+REM --- espera até o servidor ficar pronto ---
+echo ⏳ Aguardando inicialização (procurando "Done (")...
 
-curl -H "Content-Type: application/json" ^
-  -d "{\"content\":\"%MSG%\"}" ^
+:wait_ready
+findstr /C:"Done (" "%LOGFILE%" >nul 2>&1
+if errorlevel 1 (
+  timeout /t 2 /nobreak >nul
+  goto wait_ready
+)
+
+set MSG=🟢 O servidor está rodando (inicialização concluída)
+curl -H "Content-Type: application/json; charset=utf-8" ^
+  --data-binary "{\"content\":\"%MSG%\"}" ^
   "%WEBHOOK_URL%"
