@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 setlocal enabledelayedexpansion
 
 REM --- verifica lock ---
@@ -29,3 +30,10 @@ git push
 REM --- inicia servidor ---
 echo ▶️ Iniciando servidor...
 call run.bat
+
+set WEBHOOK_URL=https://discord.com/api/webhooks/1455941349835542783/coQxn5rWwNDQ4Qz1iD0s3_dYld2Fajg6lIvAG1bBwHgs0i3ToQL989KGE3KcgM3L5HR6
+set MSG=🟢 O servidor está rodando
+
+curl -H "Content-Type: application/json" ^
+  -d "{\"content\":\"%MSG%\"}" ^
+  "%WEBHOOK_URL%"
