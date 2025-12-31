@@ -39,11 +39,17 @@ curl -H "Content-Type: application/json; charset=utf-8" ^
   --data-binary "{\"content\":\"%MSG%\"}" ^
   "%WEBHOOK_URL%"
 
-REM roda em outra janela, mas loga a saída num arquivo
-start "Minecraft Server" cmd /c "call run.bat >> \"%LOGFILE%\" 2>&1"
+REM roda em outra janela e redireciona saída para o log
+start "Minecraft Server" /D "%CD%" cmd /c call "%CD%\run.bat" ^>^> "%LOGFILE%" 2^>^&1
 
 REM --- espera até o servidor ficar pronto ---
 echo ⏳ Aguardando inicialização (procurando "Done (")...
+
+:wait_log
+if not exist "%LOGFILE%" (
+  timeout /t 1 /nobreak >nul
+  goto wait_log
+)
 
 :wait_ready
 findstr /C:"Done (" "%LOGFILE%" >nul 2>&1
