@@ -58,7 +58,7 @@ if errorlevel 1 (
   goto wait_ready
 )
 
-set MSG=🟢 O servidor está rodando (inicialização concluída)
+set MSG=🟢 O servidor está rodando
 curl -H "Content-Type: application/json; charset=utf-8" ^
   --data-binary "{\"content\":\"%MSG%\"}" ^
   "%WEBHOOK_URL%"
