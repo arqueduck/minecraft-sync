@@ -1,0 +1,12 @@
+{
+  "group": "gateway_pearls",
+  "displayName": {
+    "translate": "Red Pearl Bag"
+  },
+  "lootTable": "treasurebags:bags/red",
+  "rarity": "common",
+  "bagColor": "#B02E26",
+  "bagOverlayColor": "#FFFFFF",
+  "bagStringColor": "#FFFFFF",
+  "dropsFromGroups": []
+}

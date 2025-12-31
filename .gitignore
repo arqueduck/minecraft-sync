@@ -1,0 +1,4 @@
+logs/
+crash-reports/
+*.log
+*.tmp

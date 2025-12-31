@@ -1,0 +1,16 @@
+{
+  "type": "silentgear:simple_trait",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "weapon"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.confetti"
+  },
+  "description": {
+    "translate": "trait.silentgear.confetti.desc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:polar_bear",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:cod"
+  },
+  "offset": 0,
+  "scale": 1
+}

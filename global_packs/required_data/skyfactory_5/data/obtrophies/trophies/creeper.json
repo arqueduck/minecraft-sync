@@ -1,0 +1,15 @@
+{
+  "entity": "minecraft:creeper",
+  "behavior": {
+    "type": "obtrophies:explosion",
+    "destructive": false,
+    "power": 2
+  },
+  "offset": 0,
+  "scale": 1,
+  "variants": [
+    {
+      "powered": "false"
+    }
+  ]
+}

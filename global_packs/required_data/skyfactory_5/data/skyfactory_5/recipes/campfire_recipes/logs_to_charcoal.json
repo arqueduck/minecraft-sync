@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": "minecraft:charcoal",
+  "cookingtime": 200
+}

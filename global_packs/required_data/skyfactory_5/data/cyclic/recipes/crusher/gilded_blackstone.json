@@ -1,0 +1,19 @@
+{
+  "type": "cyclic:crusher",
+  "input": {
+    "item": "minecraft:gilded_blackstone"
+  },
+  "energy": {
+    "ticks": 100,
+    "rfpertick": 10
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 7
+  },
+  "percent": 15,
+  "bonus": {
+    "item": "minecraft:netherite_scrap",
+    "count": 1
+  }
+}

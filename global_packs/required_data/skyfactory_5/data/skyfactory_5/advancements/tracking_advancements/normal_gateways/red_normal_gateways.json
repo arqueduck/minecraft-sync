@@ -1,0 +1,107 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:normal/red_vein_creeper\"}"
+    },
+    "title": "Red Normal Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/normal_gateways/purple_normal_gateways",
+  "criteria": {
+    "cluck_shroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/cluckshroom\"}"
+          }
+        ]
+      }
+    },
+    "mooshroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/mooshroom\"}"
+          }
+        ]
+      }
+    },
+    "parrot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/parrot\"}"
+          }
+        ]
+      }
+    },
+    "red_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/red_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "red_chu_chu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/red_chu_chu\"}"
+          }
+        ]
+      }
+    },
+    "salmon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/salmon\"}"
+          }
+        ]
+      }
+    },
+    "strider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/strider\"}"
+          }
+        ]
+      }
+    },
+    "wandering_winemaker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/wandering_winemaker\"}"
+          }
+        ]
+      }
+    }
+  }
+}

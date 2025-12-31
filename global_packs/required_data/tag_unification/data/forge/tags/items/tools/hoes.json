@@ -1,0 +1,14 @@
+{
+  "values": [
+    "immersiveengineering:hoe_steel",
+    "pickletweaks:flint_hoe",
+    "pickletweaks:emerald_hoe",
+    "mysticalagriculture:inferium_hoe",
+    "mysticalagriculture:prudentium_hoe",
+    "mysticalagriculture:tertium_hoe",
+    "mysticalagriculture:imperium_hoe",
+    "mysticalagriculture:supremium_hoe",
+    "mysticalagriculture:awakened_supremium_hoe"
+  ],
+  "replace": true
+}

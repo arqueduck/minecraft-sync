@@ -1,0 +1,193 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:brown_concrete_powder"
+    },
+    "title": "Brown Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.brown.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/root",
+  "criteria": {
+    "obtain_dirt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:dirt"]
+          }
+        ]
+      }
+    },
+    "obtain_leather": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:leather"]
+          }
+        ]
+      }
+    },
+    "brown_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:brown_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "brown_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:brown_crop_essence"]
+          }
+        ]
+      }
+    },
+    "ancient_debris": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:ancient_debris"]
+          }
+        ]
+      }
+    },
+    "netherite_scrap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:netherite_scrap"]
+          }
+        ]
+      }
+    },
+    "leather_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:leather_boots"]
+          }
+        ]
+      }
+    },
+    "saddle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:saddle"]
+          }
+        ]
+      }
+    },
+    "rabbit_foot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:rabbit_foot"]
+          }
+        ]
+      }
+    },
+    "rabbit_hide": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:rabbit_hide"]
+          }
+        ]
+      }
+    },
+    "potato": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:potato"]
+          }
+        ]
+      }
+    },
+    "baked_potato": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:baked_potato"]
+          }
+        ]
+      }
+    },
+    "block_of_jerky": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_jerky"]
+          }
+        ]
+      }
+    },
+    "potato_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:potato_block"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obtain_dirt",
+      "obtain_leather",
+      "brown_essence",
+      "brown_essence_seeds",
+      "ancient_debris",
+      "netherite_scrap",
+      "leather_boots",
+      "saddle",
+      "rabbit_foot",
+      "rabbit_hide",
+      "potato",
+      "baked_potato",
+      "block_of_jerky",
+      "potato_block"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/brown_stage"
+  }
+}

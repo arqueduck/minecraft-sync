@@ -1,0 +1,96 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:normal/yellow_vein_creeper\"}"
+    },
+    "title": "Yellow Normal Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/normal_gateways/white_normal_gateways",
+  "criteria": {
+    "bee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/bee\"}"
+          }
+        ]
+      }
+    },
+    "camel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/camel\"}"
+          }
+        ]
+      }
+    },
+    "cream_cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/cream_cow\"}"
+          }
+        ]
+      }
+    },
+    "gold_chu_chu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/gold_chu_chu\"}"
+          }
+        ]
+      }
+    },
+    "moobloom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/moobloom\"}"
+          }
+        ]
+      }
+    },
+    "ocelot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/ocelot\"}"
+          }
+        ]
+      }
+    },
+    "yellow_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/yellow_vein_creeper\"}"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_terracotta"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:host_armor_trim_smithing_template"
+    }
+  ]
+}

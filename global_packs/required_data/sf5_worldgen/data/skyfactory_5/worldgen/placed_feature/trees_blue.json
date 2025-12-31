@@ -1,0 +1,35 @@
+{
+  "feature": "colouredstuff:tree_blue",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 256
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "height": {
+        "min_inclusive": {
+          "absolute": 64
+        },
+        "max_inclusive": {
+          "absolute": 384
+        },
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:height_range"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "offset": [0, -1, 0],
+        "blocks": ["sf5_things:block_of_blue_dye"]
+      }
+    }
+  ]
+}

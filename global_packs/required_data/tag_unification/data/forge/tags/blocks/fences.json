@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#forge:fences/nether_brick",
+    "#forge:fences/wooden",
+    "ars_nouveau:archwood_fence"
+  ],
+  "replace": true
+}

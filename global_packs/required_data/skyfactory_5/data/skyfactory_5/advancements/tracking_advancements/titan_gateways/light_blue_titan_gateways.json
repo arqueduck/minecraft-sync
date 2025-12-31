@@ -1,0 +1,85 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:titan/light_blue_vein_creeper\"}"
+    },
+    "title": "Light Blue Titan Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/titan_gateways/root",
+  "criteria": {
+    "allay": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/allay\"}"
+          }
+        ]
+      }
+    },
+    "dolphin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/dolphin\"}"
+          }
+        ]
+      }
+    },
+    "fairy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/fairy\"}"
+          }
+        ]
+      }
+    },
+    "light_blue_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/light_blue_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "tuna": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/tuna\"}"
+          }
+        ]
+      }
+    },
+    "vex": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/vex\"}"
+          }
+        ]
+      }
+    }
+  }
+}

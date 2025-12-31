@@ -1,0 +1,20 @@
+{
+  "type": "thermal:brewer",
+  "ingredients": [
+    {
+      "tag": "minecraft:coals"
+    },
+    {
+      "fluid": "colouredstuff:water_black",
+      "amount": 1000
+    }
+  ],
+  "result": [
+    {
+      "fluid": "thermal:crude_oil",
+      "amount": 1000
+    }
+  ],
+  "experience": 0.1,
+  "energy": 1600
+}

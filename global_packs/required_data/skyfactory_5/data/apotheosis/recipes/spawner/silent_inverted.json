@@ -1,0 +1,22 @@
+{
+  "type": "apotheosis:spawner_modifier",
+  "conditions": [
+    {
+      "type": "apotheosis:module",
+      "module": "spawner"
+    }
+  ],
+  "mainhand": {
+    "item": "cyclic:soundproofing"
+  },
+  "offhand": {
+    "item": "supplementaries:soap"
+  },
+  "consumes_offhand": false,
+  "stat_changes": [
+    {
+      "id": "silent",
+      "value": false
+    }
+  ]
+}

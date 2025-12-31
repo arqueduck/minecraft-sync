@@ -1,0 +1,15 @@
+{
+  "entity": "minecraft:fox",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:sweet_berries"
+  },
+  "offset": 0,
+  "scale": 1,
+  "variants": [
+    {
+      "Type": "red"
+    }
+  ]
+}

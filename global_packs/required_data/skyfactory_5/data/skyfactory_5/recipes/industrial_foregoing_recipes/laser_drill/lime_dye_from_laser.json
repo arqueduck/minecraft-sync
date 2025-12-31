@@ -1,0 +1,19 @@
+{
+  "type": "industrialforegoing:laser_drill_ore",
+  "catalyst": {
+    "item": "industrialforegoing:laser_lens5"
+  },
+  "output": {
+    "item": "sf5_things:block_of_lime_dye"
+  },
+  "pointer": 0,
+  "rarity": [
+    {
+      "blacklist": {},
+      "depth_max": 420,
+      "depth_min": -64,
+      "weight": 0,
+      "whitelist": {}
+    }
+  ]
+}

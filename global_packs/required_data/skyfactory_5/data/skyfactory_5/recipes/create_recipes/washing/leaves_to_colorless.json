@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "skyfactory_5:color_leaves"
+    }
+  ],
+  "results": [
+    {
+      "item": "colouredstuff:leaves_none"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "backgroundColor": "#003153",
+  "borderColor": ["#ffffff", "#ffffff", "#ffffff", "#ffffff"],
+  "boxBorderColor": "#ffffff",
+  "textShadow": false,
+  "titleColor": "#FFFFFF",
+  "normalColor": "#FFC107",
+  "infoColor": "#198754",
+  "successColor": "#198754",
+  "warningColor": "#FFC107",
+  "dangerColor": "#DC3545",
+  "failureColor": "#AB296A",
+  "autoEnable": true,
+  "modNameStyle": {
+    "italic": false
+  },
+  "bottomProgressNormalColor": "#198754",
+  "bottomProgressFailureColor": "#DC3545",
+  "squareBorder": false
+}

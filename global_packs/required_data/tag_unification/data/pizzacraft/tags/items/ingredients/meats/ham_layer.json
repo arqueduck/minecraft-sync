@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "pizzacraft:ham",
+    "minecraft:porkchop",
+    "minecraft:cooked_porkchop",
+    "forcecraft:raw_bacon",
+    "forcecraft:cooked_bacon"
+  ]
+}

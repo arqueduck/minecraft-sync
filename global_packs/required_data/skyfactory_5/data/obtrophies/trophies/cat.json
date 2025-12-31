@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:cat",
+  "offset": 0,
+  "scale": 1.25,
+  "variants": [
+    {
+      "VariantID": "minecraft:jellie"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "Enable": true,
+  "LightBlock": [
+    {
+      "block": "colored_torches:lime_torch",
+      "r": 57,
+      "g": 240,
+      "b": 14,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:red_torch",
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:blue_torch",
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:black_torch",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:brown_torch",
+      "r": 89,
+      "g": 56,
+      "b": 31,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:cyan_torch",
+      "r": 48,
+      "g": 225,
+      "b": 185,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:gray_torch",
+      "r": 51,
+      "g": 51,
+      "b": 51,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:green_torch",
+      "r": 22,
+      "g": 95,
+      "b": 22,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:light_blue_torch",
+      "r": 143,
+      "g": 211,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:light_gray_torch",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:magenta_torch",
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:orange_torch",
+      "r": 251,
+      "g": 107,
+      "b": 29,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:pink_torch",
+      "r": 255,
+      "g": 100,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:purple_torch",
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:white_torch",
+      "r": 75,
+      "g": 75,
+      "b": 75,
+      "a": 25,
+      "radius": 14
+    },
+    {
+      "block": "colored_torches:yellow_torch",
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 25,
+      "radius": 14
+    }
+  ],
+  "LightItem": [
+    {
+      "item_id": "colored_torches:green_torch",
+      "r": 22,
+      "g": 95,
+      "b": 22,
+      "a": 50,
+      "radius": 14
+    }
+  ],
+  "Bloom": [],
+  "ColorReference": {},
+  "BuildIn": false
+}

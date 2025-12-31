@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "tag": "forge:gunpowder"
+    },
+    {
+      "item": "sf5_things:block_of_grass_clippings"
+    },
+    [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ]
+  ],
+  "result": {
+    "count": 3,
+    "item": "thermal:earth_charge"
+  }
+}

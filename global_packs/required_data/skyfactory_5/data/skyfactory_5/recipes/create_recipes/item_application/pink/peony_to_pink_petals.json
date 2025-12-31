@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:peony"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:pink_petals" }]
+}

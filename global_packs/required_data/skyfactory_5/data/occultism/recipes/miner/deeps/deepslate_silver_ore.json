@@ -1,0 +1,10 @@
+{
+  "type": "occultism:miner",
+  "ingredient": {
+    "tag": "occultism:miners/deeps"
+  },
+  "result": {
+    "item": "thermal:deepslate_silver_ore"
+  },
+  "weight": 381
+}

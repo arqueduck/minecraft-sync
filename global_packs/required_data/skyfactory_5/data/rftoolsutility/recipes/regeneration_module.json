@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:golden_apple"
+    },
+    "S": {
+      "item": "forcecraft:mooshroom_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:regeneration_module"
+  },
+  "show_notification": false
+}

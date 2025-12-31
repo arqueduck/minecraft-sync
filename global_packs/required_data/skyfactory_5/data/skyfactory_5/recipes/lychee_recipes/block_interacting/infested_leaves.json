@@ -1,0 +1,15 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "place",
+      "block": "exnihilosequentia:infesting_leaves"
+    }
+  ],
+  "item_in": {
+    "item": "exnihilosequentia:silkworm"
+  },
+  "block_in": {
+    "tag": "skyfactory_5:color_leaves"
+  }
+}

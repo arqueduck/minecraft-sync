@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    },
+    {
+      "item": "pumpkinspice:latte"
+    }
+  ],
+  "results": [
+    {
+      "item": "sf5_things:block_of_pumpkin_spice_latte"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sentry_armor_trim_smithing_template"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+
+[printer]
+	#The maximum amount of energy the printer can store.
+	#Range: > -2147483648
+	maxEnergy = 32000
+	#The amount of energy the printer consumes per tick.
+	#Range: > -2147483648
+	energyPerTick = 20
+	#The amount of ticks the printer takes to process a recipe.
+	#Range: > -2147483648
+	processingTicks = 40
+
+[blender]
+	#The maximum amount of energy the blender can store.
+	#Range: > -2147483648
+	maxEnergy = 32000
+	#The amount of energy the blender consumes per tick.
+	#Range: > -2147483648
+	energyPerTick = 20
+	#The amount of ticks the blender takes to process a recipe.
+	#Range: > -2147483648
+	processingTicks = 40
+

@@ -1,0 +1,67 @@
+{
+  "entity": "minecraft:wither_skeleton",
+  "variants": [],
+  "name": "entity.minecraft.wither_skeleton",
+  "name_color": "#1d1c21",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 2048,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:black_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.wither_skeleton",
+  "fabricator_drops": [
+    {
+      "item": "bhc:wither_bone",
+      "count": 4
+    },
+    {
+      "item": "minecraft:coal",
+      "count": 4
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    {
+      "item": "limbs:wither_skeleton_torso",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:wither_skeleton_right_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:wither_skeleton_right_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:wither_skeleton_left_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:wither_skeleton_left_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:wither_skeleton_head",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

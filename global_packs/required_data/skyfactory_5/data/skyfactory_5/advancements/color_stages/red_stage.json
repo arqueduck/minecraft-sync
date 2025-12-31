@@ -1,0 +1,205 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_concrete_powder"
+    },
+    "title": "Red Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.red.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/purple_stage",
+  "criteria": {
+    "spider_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:spider_eye"]
+          }
+        ]
+      }
+    },
+    "melon_slice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:melon_slice"]
+          }
+        ]
+      }
+    },
+    "apple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:apple"]
+          }
+        ]
+      }
+    },
+    "salmon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:salmon"]
+          }
+        ]
+      }
+    },
+    "beetroot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:beetroot"]
+          }
+        ]
+      }
+    },
+    "sweet_berries": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sweet_berries"]
+          }
+        ]
+      }
+    },
+    "poppy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:poppy"]
+          }
+        ]
+      }
+    },
+    "red_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:red_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "red_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:red_crop_essence"]
+          }
+        ]
+      }
+    },
+    "tomato": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:tomato"]
+          }
+        ]
+      }
+    },
+    "fermented_spider_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:fermented_spider_eye"]
+          }
+        ]
+      }
+    },
+    "beetroot_soup": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:beetroot_soup"]
+          }
+        ]
+      }
+    },
+    "nether_wart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:nether_wart"]
+          }
+        ]
+      }
+    },
+    "red_baubly_heart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["bhc:red_heart"]
+          }
+        ]
+      }
+    },
+    "block_of_ketchup": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_ketchup"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spider_eye",
+      "melon_slice",
+      "apple",
+      "salmon",
+      "beetroot",
+      "sweet_berries",
+      "poppy",
+      "red_essence",
+      "red_essence_seeds",
+      "tomato",
+      "fermented_spider_eye",
+      "beetroot_soup",
+      "nether_wart",
+      "red_baubly_heart",
+      "block_of_ketchup"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/red_stage"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "values": [
+    "#forge:armors/helmets",
+    "#forge:armors/chestplates",
+    "#forge:armors/leggings",
+    "#forge:armors/boots",
+    "immersiveengineering:armor_steel_helmet",
+    "immersiveengineering:armor_faraday_helmet",
+    "immersiveengineering:armor_steel_chestplate",
+    "immersiveengineering:armor_faraday_chestplate",
+    "immersiveengineering:armor_steel_leggings",
+    "immersiveengineering:armor_faraday_leggings",
+    "immersiveengineering:armor_steel_boots",
+    "immersiveengineering:armor_faraday_boots",
+    "ars_nouveau:sorcerer_robes",
+    "ars_nouveau:arcanist_robes",
+    "ars_nouveau:battlemage_robes",
+    "ars_nouveau:sorcerer_boots",
+    "ars_nouveau:arcanist_boots",
+    "ars_nouveau:battlemage_boots",
+    "ars_nouveau:sorcerer_leggings",
+    "ars_nouveau:arcanist_leggings",
+    "ars_nouveau:battlemage_leggings",
+    "ars_nouveau:sorcerer_hood",
+    "ars_nouveau:arcanist_hood",
+    "ars_nouveau:battlemage_hood"
+  ],
+  "replace": true
+}

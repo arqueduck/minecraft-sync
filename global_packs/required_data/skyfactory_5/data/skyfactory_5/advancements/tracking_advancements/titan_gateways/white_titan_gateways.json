@@ -1,0 +1,217 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:titan/white_vein_creeper\"}"
+    },
+    "title": "White Titan Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/titan_gateways/root",
+  "criteria": {
+    "albino_cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/albino_cow\"}"
+          }
+        ]
+      }
+    },
+    "baby_ghast": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/baby_ghast\"}"
+          }
+        ]
+      }
+    },
+    "chicken": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/chicken\"}"
+          }
+        ]
+      }
+    },
+    "energetic_sheep": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/energetic_sheep\"}"
+          }
+        ]
+      }
+    },
+    "ghast": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/ghast\"}"
+          }
+        ]
+      }
+    },
+    "goat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/goat\"}"
+          }
+        ]
+      }
+    },
+    "horned_sheep": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/horned_sheep\"}"
+          }
+        ]
+      }
+    },
+    "llama": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/llama\"}"
+          }
+        ]
+      }
+    },
+    "melon_golem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/melon_golem\"}"
+          }
+        ]
+      }
+    },
+    "opalescent_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/opalescent_eye\"}"
+          }
+        ]
+      }
+    },
+    "panda": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/panda\"}"
+          }
+        ]
+      }
+    },
+    "polar_bear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/polar_bear\"}"
+          }
+        ]
+      }
+    },
+    "sheep": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/sheep\"}"
+          }
+        ]
+      }
+    },
+    "skeleton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/skeleton\"}"
+          }
+        ]
+      }
+    },
+    "skeleton_horse": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/skeleton_horse\"}"
+          }
+        ]
+      }
+    },
+    "skeleton_wolf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/skeleton_wolf\"}"
+          }
+        ]
+      }
+    },
+    "snow_golem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/snow_golem\"}"
+          }
+        ]
+      }
+    },
+    "white_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/white_vein_creeper\"}"
+          }
+        ]
+      }
+    }
+  }
+}

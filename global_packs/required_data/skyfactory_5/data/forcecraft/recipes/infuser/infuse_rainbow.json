@@ -1,0 +1,12 @@
+{
+  "type": "forcecraft:infuser",
+  "ingredient": {
+    "item": "sf5_things:rgb_dye"
+  },
+  "center": {
+    "item": "forcecraft:force_shears"
+  },
+  "tier": 2,
+  "time": 20,
+  "result": "forcecraft:rainbow"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "thermal:electrum_plate"
+    },
+    {
+      "item": "immersiveengineering:mold_wire"
+    }
+  ],
+  "result": [
+    {
+      "item": "immersiveengineering:wire_electrum",
+      "count": 2
+    }
+  ],
+  "energy": 1000
+}

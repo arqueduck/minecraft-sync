@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:birch_log"
+    },
+    {
+      "tag": "skyfactory_5:tool_axes"
+    }
+  ],
+  "results": [
+    { "item": "minecraft:stripped_birch_log" },
+    { "item": "silentgear:template_board", "count": 4 }
+  ]
+}

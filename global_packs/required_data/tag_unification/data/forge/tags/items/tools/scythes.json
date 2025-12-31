@@ -1,0 +1,20 @@
+{
+  "values": [
+    "pickletweaks:wooden_scythe",
+    "pickletweaks:stone_scythe",
+    "pickletweaks:iron_scythe",
+    "pickletweaks:golden_scythe",
+    "pickletweaks:diamond_scythe",
+    "pickletweaks:flint_scythe",
+    "pickletweaks:emerald_scythe",
+    "pickletweaks:netherite_scythe",
+    "mysticalagriculture:diamond_scythe",
+    "mysticalagriculture:inferium_scythe",
+    "mysticalagriculture:prudentium_scythe",
+    "mysticalagriculture:tertium_scythe",
+    "mysticalagriculture:imperium_scythe",
+    "mysticalagriculture:supremium_scythe",
+    "mysticalagriculture:awakened_supremium_scythe"
+  ],
+  "replace": true
+}

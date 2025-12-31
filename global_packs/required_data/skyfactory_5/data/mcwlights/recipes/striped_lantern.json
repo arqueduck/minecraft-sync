@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["INI"],
+  "key": {
+    "N": {
+      "tag": "skyfactory_5:torches"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "mcwlights:striped_lantern",
+    "count": 1
+  }
+}

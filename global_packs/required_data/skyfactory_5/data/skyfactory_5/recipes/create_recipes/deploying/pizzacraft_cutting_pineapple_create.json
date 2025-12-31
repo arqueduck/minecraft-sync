@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "pizzacraft:pineapple"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "results": [
+    {
+      "item": "pizzacraft:pineapple_slice",
+      "count": 1
+    }
+  ]
+}

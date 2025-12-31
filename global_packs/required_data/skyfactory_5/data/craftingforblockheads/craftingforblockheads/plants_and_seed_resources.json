@@ -1,0 +1,63 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {
+    "vanilla_composter_present": {
+      "type": "workshop_has",
+      "block": "minecraft:composter"
+    },
+    "colored_crafting_table_present": {
+      "type": "any_of",
+      "conditions": [
+        {
+          "type": "workshop_core",
+          "tag": "skyfactory_5:colored_crafting_tables"
+        },
+        {
+          "type": "workshop_core",
+          "block": "colouredstuff:crafting_table_rainbow"
+        }
+      ]
+    }
+  },
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:plants_and_seed_resources": {
+      "name": "Farming Items",
+      "icon": {
+        "item": "exnihilosequentia:grass_seeds"
+      },
+      "includes": [
+        { "item": "exnihilosequentia:grass_seeds" },
+        { "item": "minecraft:sugar_cane" },
+        { "item": "minecraft:bamboo" },
+        { "item": "minecraft:kelp" },
+        { "item": "exnihilosequentia:mycelium_spores" },
+        { "item": "exnihilosequentia:crimson_nylium_spores" },
+        { "item": "exnihilosequentia:warped_nylium_spores" },
+        { "item": "sushigocrafting:cucumber_seeds" },
+        { "item": "thermal:corn_seeds" },
+        { "item": "immersiveengineering:seed" },
+        { "item": "thermal:onion_seeds" },
+        { "item": "thermal:bell_pepper_seeds" },
+        { "item": "thermal:eggplant_seeds" },
+        { "item": "thermal:tomato_seeds" },
+        { "item": "thermal:flax_seeds" },
+        { "item": "thermal:sadiroot_seeds" },
+        { "item": "minecraft:pumpkin_seeds" },
+        { "item": "thermal:amaranth_seeds" },
+        { "item": "thermal:strawberry_seeds" },
+        { "item": "thermal:barley_seeds" },
+        { "item": "thermal:radish_seeds" },
+        { "item": "thermal:rice_seeds" },
+        { "item": "thermal:spinach_seeds" },
+        { "item": "thermal:green_bean_seeds" },
+        { "item": "thermal:peanut_seeds" },
+        { "item": "minecraft:glow_lichen" }
+      ],
+      "soft_requirements": ["vanilla_composter_present"],
+      "hard_requirements": ["colored_crafting_table_present"],
+      "priority": 99996
+    }
+  }
+}

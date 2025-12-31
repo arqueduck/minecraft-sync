@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "cyclic:eye_redstone",
+      "required": false
+    }
+  ],
+  "replace": true
+}

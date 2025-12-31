@@ -1,0 +1,129 @@
+{
+  "display": {
+    "icon": {
+      "item": "obtrophies:trophy",
+      "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:gray\"}}"
+    },
+    "title": "Gray Trophies!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/trophies/root",
+  "criteria": {
+    "Abyssologer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"monsterplus:abyssologer\"}}"
+          }
+        ]
+      }
+    },
+    "Bouldering Zombie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:bouldering_zombie\"}}"
+          }
+        ]
+      }
+    },
+    "Cat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:cat\"}}"
+          }
+        ]
+      }
+    },
+    "Evoker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:evoker\"}}"
+          }
+        ]
+      }
+    },
+    "Gray Vein Creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:gray\"}}"
+          }
+        ]
+      }
+    },
+    "Illusioner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:illusioner\"}}"
+          }
+        ]
+      }
+    },
+    "Pillager": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:pillager\"}}"
+          }
+        ]
+      }
+    },
+    "Ravager": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ravager\"}}"
+          }
+        ]
+      }
+    },
+    "Silverfish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:silverfish\"}}"
+          }
+        ]
+      }
+    },
+    "Vindicator": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:vindicator\"}}"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:dune_armor_trim_smithing_template",
+      "count": 1
+    }
+  ],
+  "energy": 1000
+}

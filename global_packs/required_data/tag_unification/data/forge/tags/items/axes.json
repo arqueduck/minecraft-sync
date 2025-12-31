@@ -1,0 +1,10 @@
+{
+  "values": [
+    "silentgear:axe",
+    "silentgear:saw",
+    "silentgear:machete",
+    "silentgear:mattock",
+    "silentgear:paxel"
+  ],
+  "replace": true
+}

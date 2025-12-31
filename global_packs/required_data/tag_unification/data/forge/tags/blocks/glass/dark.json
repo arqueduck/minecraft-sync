@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:tinted_glass",
+    {
+      "id": "cyclic:dark_glass",
+      "required": false
+    },
+    {
+      "id": "cyclic:dark_glass_connected",
+      "required": false
+    }
+  ],
+  "replace": true
+}

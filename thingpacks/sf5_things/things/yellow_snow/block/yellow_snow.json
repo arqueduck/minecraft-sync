@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:snow_block",
+  "material": "minecraft:snow_block",
+  "type": "minecraft:plain",
+  "sound_type": "minecraft:powder_snow",
+  "explosion_resistance": 1,
+  "destroy_time": 0.75,
+  "replaceable": false,
+  "item": {
+    "group": "decorations"
+  }
+}

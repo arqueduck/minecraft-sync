@@ -1,0 +1,11 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "colouredstuff:water_yellow_block",
+  "target_block": "minecraft:snow_block",
+  "post": [
+    {
+      "type": "place",
+      "block": "yellow_snow:yellow_snow"
+    }
+  ]
+}

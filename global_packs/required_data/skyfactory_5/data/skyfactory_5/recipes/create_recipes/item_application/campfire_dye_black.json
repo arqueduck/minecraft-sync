@@ -1,0 +1,12 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "tintedcampfires:black_campfire"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "results": [{ "item": "minecraft:campfire" }]
+}

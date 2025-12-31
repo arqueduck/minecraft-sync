@@ -1,0 +1,9 @@
+{
+  "values": [
+    "silentgear:dagger",
+    "silentgear:katana",
+    "silentgear:machete",
+    "silentgear:sword"
+  ],
+  "replace": true
+}

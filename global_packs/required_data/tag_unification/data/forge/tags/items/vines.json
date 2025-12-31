@@ -1,0 +1,27 @@
+{
+  "values": [
+    "minecraft:vine",
+    "minecraft:weeping_vines",
+    "minecraft:twisting_vines",
+    {
+      "id": "tconstruct:sky_slime_vine",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_slime_vine",
+      "required": false
+    },
+    "minecraft:vine",
+    "minecraft:weeping_vines",
+    "minecraft:twisting_vines",
+    {
+      "id": "tconstruct:sky_slime_vine",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_slime_vine",
+      "required": false
+    }
+  ],
+  "replace": true
+}

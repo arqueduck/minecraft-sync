@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "minecraft:bone",
+      "count": 12
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 64
+    }
+  ],
+  "enchantment": "minecraft:projectile_protection"
+}

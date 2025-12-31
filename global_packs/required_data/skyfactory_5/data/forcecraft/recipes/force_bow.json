@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" #S", "#NS", " #S"],
+  "key": {
+    "N": [
+      {
+        "tag": "forge:nuggets/force"
+      }
+    ],
+    "#": [
+      {
+        "tag": "forge:rods"
+      }
+    ],
+    "S": [
+      {
+        "tag": "forge:string"
+      }
+    ]
+  },
+  "result": {
+    "item": "forcecraft:force_bow"
+  }
+}

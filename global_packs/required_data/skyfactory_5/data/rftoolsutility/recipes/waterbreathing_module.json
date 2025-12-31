@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "EPE", "fEf"],
+  "key": {
+    "E": {
+      "item": "rftoolsbase:infused_enderpearl"
+    },
+    "P": {
+      "item": "rftoolsutility:moduleplus_template"
+    },
+    "f": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "forcecraft:dolphin_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:waterbreathing_module"
+  },
+  "show_notification": false
+}

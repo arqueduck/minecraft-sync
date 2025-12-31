@@ -1,0 +1,165 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {
+    "none_crafting_table_present": {
+      "type": "any_of",
+      "conditions": [
+        {
+          "type": "workshop_has",
+          "block": "colouredstuff:crafting_table_none"
+        },
+        {
+          "type": "workshop_has",
+          "block": "colouredstuff:crafting_table_rainbow"
+        }
+      ]
+    }
+  },
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:colorless_crafting_table": {
+      "name": "Colorless Recipes",
+      "icon": {
+        "item": "colouredstuff:crafting_table_none"
+      },
+      "includes": [
+        {
+          "item": "exnihilocoloratus:none_crucible"
+        },
+        {
+          "item": "exnihilocoloratus:none_barrel"
+        },
+        {
+          "item": "colouredstuff:crafting_table_none"
+        },
+        {
+          "item": "colouredstuff:planks_none"
+        },
+        {
+          "item": "colouredstuff:slab_planks_none"
+        },
+        {
+          "item": "colouredstuff:stairs_planks_none"
+        },
+        {
+          "item": "colouredstuff:wall_planks_none"
+        },
+        {
+          "item": "colouredstuff:fence_planks_none"
+        },
+        {
+          "item": "colouredstuff:gate_planks_none"
+        },
+        {
+          "item": "minecraft:stick"
+        },
+        {
+          "item": "woodenbucket:wooden_bucket"
+        },
+        {
+          "item": "exnihilosequentia:stone_barrel"
+        },
+        {
+          "item": "sophisticatedstorage:chest",
+          "nbt": "{accentColor:6710886,mainColor:9539985}"
+        },
+        {
+          "item": "cyclic:hopper"
+        },
+        {
+          "item": "craftingstation:crafting_station"
+        },
+        {
+          "item": "craftingstation:crafting_station_slab"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_1",
+          "nbt": "{accentColor:6710886,mainColor:9539985}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_2",
+          "nbt": "{accentColor:6710886,mainColor:9539985}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_3",
+          "nbt": "{accentColor:6710886,mainColor:9539985}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_4",
+          "nbt": "{accentColor:6710886,mainColor:9539985}"
+        }
+      ],
+      "excludes": [
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_leggings"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_horse_armor"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_helmet"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_chestplate"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_boots"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_axe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/string_from_bow"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_axe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_axe"
+        },
+        {
+          "recipe": "immersiveengineering:crafting/lead_white"
+        }
+      ],
+      "hard_requirements": ["none_crafting_table_present"],
+      "priority": 100000
+    }
+  }
+}

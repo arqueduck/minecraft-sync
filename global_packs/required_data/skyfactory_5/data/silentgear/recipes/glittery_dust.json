@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "/": {
+      "tag": "forge:dyes/pink"
+    },
+    "b": {
+      "item": "silentgear:nether_banana"
+    },
+    "o": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "pattern": ["o/o", "#b#", "o/o"],
+  "result": {
+    "count": 8,
+    "item": "silentgear:glittery_dust"
+  },
+  "show_notification": true
+}

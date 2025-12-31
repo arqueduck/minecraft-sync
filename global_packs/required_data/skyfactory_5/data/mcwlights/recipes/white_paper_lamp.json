@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PPP", "PTP", "PPP"],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "T": {
+      "tag": "skyfactory_5:torches"
+    }
+  },
+  "result": {
+    "item": "mcwlights:white_paper_lamp",
+    "count": 1
+  }
+}

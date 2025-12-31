@@ -1,0 +1,91 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 1,
+    "categories": ["rock"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.basalt"
+  },
+  "stats": {
+    "main": {
+      "durability": 137.0,
+      "armor_durability": 4.0,
+      "enchantment_value": 6.0,
+      "rarity": 7.0,
+      "charging_value": 0.7,
+      "harvest_level": 1.0,
+      "harvest_speed": 4.0,
+      "melee_damage": 1.0,
+      "attack_speed": 0.0,
+      "attack_speed/axe": -0.2,
+      "attack_speed/hoe": -1.0,
+      "ranged_damage": 0.0,
+      "ranged_speed": -0.1,
+      "projectile_speed": 1.0,
+      "projectile_accuracy": 0.8,
+      "armor": 6.0,
+      "armor/helmet": 1.0,
+      "armor/chestplate": 3.0,
+      "armor/leggings": 1.0,
+      "armor/boots": 1.0
+    },
+    "rod": {
+      "harvest_speed": {
+        "mul2": 0.1
+      },
+      "melee_damage": {
+        "mul2": -0.1
+      }
+    }
+  },
+  "traits": {
+    "main": [],
+    "rod": []
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#4F4B4F"
+      },
+      {
+        "texture": "silentgear:main_splotches",
+        "color": "#32333D"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#4F4B4F"
+      }
+    ],
+    "main/armor": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#4F4B4F"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_lc",
+        "color": "#4F4B4F"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#4F4B4F"
+      }
+    ]
+  }
+}

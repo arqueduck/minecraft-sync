@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 102400,
+  "input": { "tag": "forge:ores/nickel" },
+  "results": [
+    { "base_ingredient": { "tag": "forge:ingots/nickel" }, "count": 2 }
+  ],
+  "slag": { "item": "thermal:slag" },
+  "time": 200
+}

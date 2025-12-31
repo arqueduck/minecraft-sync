@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:grass",
+  "material": "minecraft:grass",
+  "type": "minecraft:plain",
+  "sound_type": "minecraft:moss_carpet",
+  "explosion_resistance": 1,
+  "destroy_time": 0.75,
+  "replaceable": false,
+  "item": {
+    "group": "decorations"
+  }
+}

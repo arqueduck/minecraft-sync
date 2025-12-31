@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:zombie_villager",
+  "offset": 0,
+  "scale": 1,
+  "variants": [
+    {
+      "profession": "minecraft:nitwit"
+    }
+  ]
+}

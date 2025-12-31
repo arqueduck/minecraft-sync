@@ -1,0 +1,18 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "quartz_creeper",
+  "target": {
+    "tag": "forge:netherrack"
+  },
+  "ore": {
+    "block": "minecraft:nether_quartz_ore",
+    "bonus": "minecraft:quartz_block",
+    "bonusChance": 25.0
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:quartz_creeper"
+    }
+  ]
+}

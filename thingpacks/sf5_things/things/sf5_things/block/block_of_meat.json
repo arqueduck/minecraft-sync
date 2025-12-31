@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:slime_block",
+  "material": "minecraft:slime_block",
+  "type": "minecraft:plain",
+  "sound_type": "minecraft:slime_block",
+  "explosion_resistance": 1,
+  "destroy_time": 0.75,
+  "replaceable": false,
+  "item": {
+    "group": "decorations"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity.monsterplus.abyssologer": "Eremita dell'Abisso",
+  "entity.monsterplus.crystal_spikes": "Spunzoni di Cristallo",
+  "entity.monsterplus.glow_skeleton": "Scheletro Risplendente",
+  "entity.monsterplus.lava_squid": "Calamaro di Fuoco",
+  "entity.monsterplus.mother_lava_squid": "Calamaro di Fuoco Madre",
+  "entity.monsterplus.opalescent_eye": "Occhio Opalescente",
+  "entity.monsterplus.purple_fireball": "Palla di Fuoco Abissale",
+  "entity.monsterplus.spectral_skeleton": "Sgherro Spettrale",
+  "entity.monsterplus.swamp_zombie": "Mostro della Palude",
+  "item.monsterplus.abyssologer_spawn_egg": "Uovo di Eremita dell'Abisso",
+  "item.monsterplus.darkstar": "Darkstar",
+  "item.monsterplus.glow_skeleton_spawn_egg": "Uovo di Scheletro Risplendente",
+  "item.monsterplus.lava_squid_spawn_egg": "Uovo di Calamaro di Fuoco",
+  "item.monsterplus.mother_lava_squid_spawn_egg": "Uovo di Calamaro di Fuoco Madre",
+  "item.monsterplus.opalescent_eye_spawn_egg": "Uovo di Occhio Opalescente",
+  "item.monsterplus.spectral_skeleton_spawn_egg": "Uovo di Sgherro Spettrale",
+  "item.monsterplus.swamp_zombie_spawn_egg": "Uovo di Mostro della Palude"
+}

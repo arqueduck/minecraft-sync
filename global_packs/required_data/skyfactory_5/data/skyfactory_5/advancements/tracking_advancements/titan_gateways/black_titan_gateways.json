@@ -1,0 +1,140 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:titan/black_vein_creeper\"}"
+    },
+    "title": "Black Titan Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/titan_gateways/root",
+  "criteria": {
+    "adelie_penguin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/adelie_penguin\"}"
+          }
+        ]
+      }
+    },
+    "black_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/black_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "cave_spider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/cave_spider\"}"
+          }
+        ]
+      }
+    },
+    "ender_dragon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/ender_dragon\"}"
+          }
+        ]
+      }
+    },
+    "ender_tot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/ender_tot\"}"
+          }
+        ]
+      }
+    },
+    "enderman": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/enderman\"}"
+          }
+        ]
+      }
+    },
+    "spider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/spider\"}"
+          }
+        ]
+      }
+    },
+    "umbra_cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/umbra_cow\"}"
+          }
+        ]
+      }
+    },
+    "wither": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/wither\"}"
+          }
+        ]
+      }
+    },
+    "wither_skeleton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/wither_skeleton\"}"
+          }
+        ]
+      }
+    },
+    "wither_skeleton_wolf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/wither_skeleton_wolf\"}"
+          }
+        ]
+      }
+    }
+  }
+}

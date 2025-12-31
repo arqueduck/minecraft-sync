@@ -1,0 +1,16 @@
+{
+  "type": "forcecraft:infuser",
+  "ingredient": {
+    "tag": "minecraft:coals"
+  },
+  "center": {
+    "item": "forcecraft:upgrade_core"
+  },
+  "tier": 4,
+  "time": 60,
+  "output": {
+    "item": "forcecraft:heat_core",
+    "count": 1
+  },
+  "result": "forcecraft:item"
+}

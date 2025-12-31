@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "skyfactory_5:experience_items"
+    },
+    "X": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": ["XXX", "XBX", "XXX"],
+  "result": {
+    "item": "mob_grinding_utils:solid_xp_mould_baby"
+  },
+  "show_notification": true
+}

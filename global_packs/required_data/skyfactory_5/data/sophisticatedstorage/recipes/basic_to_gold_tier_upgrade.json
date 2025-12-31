@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:basic_to_gold_tier_upgrade"
+    }
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": ["GGG", "GPG", "GGG"],
+  "result": {
+    "item": "sophisticatedstorage:basic_to_gold_tier_upgrade"
+  }
+}

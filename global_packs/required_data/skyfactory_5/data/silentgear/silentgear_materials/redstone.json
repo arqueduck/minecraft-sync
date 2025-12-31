@@ -1,0 +1,64 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["gem", "dust"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.redstone"
+  },
+  "stats": {
+    "tip": {
+      "harvest_speed": {
+        "mul2": 0.2
+      },
+      "melee_damage": {
+        "add": 2.0
+      },
+      "attack_speed": {
+        "add": 0.5
+      },
+      "ranged_damage": {
+        "add": 2.0
+      },
+      "rarity": {
+        "add": 10.0
+      }
+    }
+  },
+  "model": {
+    "tip/all": [
+      {
+        "texture": "silentgear:tip_smooth",
+        "color": "#BB0000"
+      }
+    ],
+    "tip/part": [
+      {
+        "texture": "silentgear:tip_base"
+      },
+      {
+        "texture": "silentgear:tip",
+        "color": "#BB0000"
+      },
+      {
+        "texture": "silentgear:tip_shine"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:dust",
+        "color": "#BB0000"
+      }
+    ]
+  }
+}

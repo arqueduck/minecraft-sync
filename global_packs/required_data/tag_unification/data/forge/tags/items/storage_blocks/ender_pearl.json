@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "cyclic:eye_teleport",
+      "required": false
+    }
+  ],
+  "replace": true
+}

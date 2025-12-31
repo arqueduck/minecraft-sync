@@ -1,0 +1,145 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:magenta_concrete_powder"
+    },
+    "title": "Magenta Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.magenta.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/lime_stage",
+  "criteria": {
+    "allium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:allium"]
+          }
+        ]
+      }
+    },
+    "allium_bush": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["overweight_farming:allium_bush"]
+          }
+        ]
+      }
+    },
+    "peeled_overweight_onion_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["overweight_farming:peeled_overweight_onion_block"]
+          }
+        ]
+      }
+    },
+    "overweight_onion_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["overweight_farming:overweight_onion_block"]
+          }
+        ]
+      }
+    },
+    "onion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:onion"]
+          }
+        ]
+      }
+    },
+    "onion_slice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["pizzacraft:onion_slice"]
+          }
+        ]
+      }
+    },
+    "source_gem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["ars_nouveau:source_gem"]
+          }
+        ]
+      }
+    },
+    "magenta_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:magenta_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "magenta_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:magenta_crop_essence"]
+          }
+        ]
+      }
+    },
+    "block_of_blooming_onion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_blooming_onion"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "allium",
+      "allium_bush",
+      "peeled_overweight_onion_block",
+      "overweight_onion_block",
+      "onion",
+      "onion_slice",
+      "source_gem",
+      "magenta_essence",
+      "magenta_essence_seeds",
+      "block_of_blooming_onion"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/magenta_stage"
+  }
+}

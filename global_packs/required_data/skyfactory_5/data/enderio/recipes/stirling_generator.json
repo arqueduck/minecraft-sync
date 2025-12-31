@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:stone_bricks"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "G": {
+      "tag": "forge:gears/stone"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "pattern": ["BBB", "BFB", "GPG"],
+  "result": {
+    "item": "enderio:stirling_generator"
+  },
+  "show_notification": true
+}

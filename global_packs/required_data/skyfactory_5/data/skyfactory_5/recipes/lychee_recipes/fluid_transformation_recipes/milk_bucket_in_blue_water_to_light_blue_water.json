@@ -1,0 +1,64 @@
+{
+  "type": "lychee:item_inside",
+  "item_in": {
+    "item": "minecraft:milk_bucket"
+  },
+  "block_in": {
+    "blocks": ["colouredstuff:water_blue_block"]
+  },
+  "post": [
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.227 0.702 0.855 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.227 0.702 0.855 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.227 0.702 0.855 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.227 0.702 0.855 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.227 0.702 0.855 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "place",
+      "block": "colouredstuff:water_light_blue_block"
+    },
+    {
+      "type": "drop_item",
+      "item": "minecraft:bucket"
+    }
+  ]
+}

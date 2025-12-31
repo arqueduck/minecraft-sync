@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": {
+    "count": 4,
+    "item": "enderio:powdered_coal"
+  }
+}

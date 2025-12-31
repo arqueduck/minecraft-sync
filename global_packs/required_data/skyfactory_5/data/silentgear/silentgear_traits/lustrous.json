@@ -1,0 +1,16 @@
+{
+  "type": "silentgear:simple_trait",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "harvest_tool"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.lustrous"
+  },
+  "description": {
+    "translate": "trait.silentgear.lustrous.desc"
+  }
+}

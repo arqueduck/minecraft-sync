@@ -1,0 +1,17 @@
+{
+  "advancement": "forcecraft:tier1/tier",
+  "category": "forcecraft:tier_1",
+  "icon": "colouredstuff:log_yellow",
+  "name": "info.forcecraft.book.lumberjack.entry.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "info.forcecraft.book.lumberjack_info.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "colouredstuff:log_yellow"
+    }
+  ],
+  "secret": true
+}

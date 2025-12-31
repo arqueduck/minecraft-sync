@@ -1,0 +1,12 @@
+{
+  "values": [
+    "industrialforegoing:essence",
+    "cofh_core:experience",
+    "sophisticatedcore:xp_still",
+    "mob_grinding_utils:fluid_xp",
+    "cyclic:xpjuice",
+    "enderio:flowing_xp_juice",
+    "enderio:xp_juice"
+  ],
+  "replace": true
+}

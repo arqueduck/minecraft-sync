@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:torch",
+    "occultism:spirit_torch",
+    "colored_torches:black_torch",
+    "colored_torches:blue_torch",
+    "colored_torches:brown_torch",
+    "colored_torches:cyan_torch",
+    "colored_torches:gray_torch",
+    "colored_torches:green_torch",
+    "colored_torches:light_blue_torch",
+    "colored_torches:light_gray_torch",
+    "colored_torches:lime_torch",
+    "colored_torches:magenta_torch",
+    "colored_torches:orange_torch",
+    "colored_torches:pink_torch",
+    "colored_torches:purple_torch",
+    "colored_torches:red_torch",
+    "colored_torches:white_torch",
+    "colored_torches:yellow_torch"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:normal/purple_vein_creeper\"}"
+    },
+    "title": "Purple Normal Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/normal_gateways/root",
+  "criteria": {
+    "bone_spider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/bone_spider\"}"
+          }
+        ]
+      }
+    },
+    "endermite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/endermite\"}"
+          }
+        ]
+      }
+    },
+    "purple_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/purple_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "shulker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/shulker\"}"
+          }
+        ]
+      }
+    }
+  }
+}

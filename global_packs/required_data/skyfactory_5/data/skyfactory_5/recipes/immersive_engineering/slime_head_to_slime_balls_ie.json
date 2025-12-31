@@ -1,0 +1,9 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": { "item": "heads:slime_head" },
+  "result": { "count": 4, "item": "minecraft:slime_ball" },
+  "secondaries": [
+    { "chance": 0.33, "output": { "item": "minecraft:slime_ball" } }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:husk",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:feather"
+  },
+  "offset": 0,
+  "scale": 1
+}

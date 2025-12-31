@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sf5_things:block/block_of_blooming_onion"
+  }
+}

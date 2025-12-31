@@ -1,0 +1,88 @@
+[
+  {
+    "type": "structure",
+    "key": "none",
+    "rarity": "common",
+    "create": 5000,
+    "maintain": 500,
+    "ticks": 5,
+    "worldgen": true,
+    "dimlet": true,
+    "essence": {
+      "item": "minecraft:wool"
+    }
+  },
+  {
+    "type": "structure",
+    "key": "default",
+    "rarity": "common",
+    "create": 5000,
+    "maintain": 500,
+    "ticks": 5,
+    "worldgen": true,
+    "dimlet": true,
+    "essence": {
+      "item": "minecraft:stone"
+    }
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:mineshaft",
+    "rarity": "common",
+    "create": 3000,
+    "maintain": 5000,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:fortress",
+    "rarity": "common",
+    "create": 2000,
+    "maintain": 2000,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:end_city",
+    "rarity": "common",
+    "create": 8000,
+    "maintain": 8000,
+    "ticks": 300,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:nether_fossil",
+    "rarity": "common",
+    "create": 5000,
+    "maintain": 1000,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:bastion_remnant",
+    "rarity": "common",
+    "create": 5000,
+    "maintain": 1000,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "structure",
+    "key": "minecraft:pillager_outpost",
+    "rarity": "uncommon",
+    "create": 2500,
+    "maintain": 500,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

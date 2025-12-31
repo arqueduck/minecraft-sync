@@ -1,0 +1,31 @@
+{
+  "type": "silentgear:stat_modifier",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "tool"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.eroded"
+  },
+  "description": {
+    "translate": "trait.silentgear.eroded.desc"
+  },
+  "cancels_with": ["silentgear:jagged"],
+  "stats": [
+    {
+      "name": "silentgear:melee_damage",
+      "value": -0.15,
+      "factor_damage": true,
+      "factor_value": true
+    },
+    {
+      "name": "silentgear:harvest_speed",
+      "value": 0.15,
+      "factor_damage": true,
+      "factor_value": true
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "pizzacraft:onion_slice",
+    "thermal:onion",
+    "sf5_things:block_of_blooming_onion"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "values": [
+    "botania:manasteel_leggings",
+    "botania:manaweave_leggings",
+    "botania:elementium_leggings",
+    "botania:terrasteel_leggings",
+    "minecraft:leather_leggings",
+    "minecraft:chainmail_leggings",
+    "minecraft:iron_leggings",
+    "minecraft:golden_leggings",
+    "minecraft:diamond_leggings",
+    "minecraft:netherite_leggings",
+    "immersiveengineering:armor_steel_leggings",
+    "immersiveengineering:armor_faraday_leggings",
+    "ars_nouveau:sorcerer_leggings",
+    "ars_nouveau:arcanist_leggings",
+    "ars_nouveau:battlemage_leggings",
+    "mysticalagriculture:inferium_leggings",
+    "mysticalagriculture:prudentium_leggings",
+    "mysticalagriculture:tertium_leggings",
+    "mysticalagriculture:imperium_leggings",
+    "mysticalagriculture:supremium_leggings",
+    "mysticalagriculture:awakened_supremium_leggings"
+  ],
+  "replace": true
+}

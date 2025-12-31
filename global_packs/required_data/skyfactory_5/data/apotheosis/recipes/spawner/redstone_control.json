@@ -1,0 +1,18 @@
+{
+  "type": "apotheosis:spawner_modifier",
+  "conditions": [
+    {
+      "type": "apotheosis:module",
+      "module": "spawner"
+    }
+  ],
+  "mainhand": {
+    "item": "ars_nouveau:redstone_relay"
+  },
+  "stat_changes": [
+    {
+      "id": "redstone_control",
+      "value": true
+    }
+  ]
+}

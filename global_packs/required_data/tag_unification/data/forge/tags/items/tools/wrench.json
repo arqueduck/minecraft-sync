@@ -1,0 +1,26 @@
+{
+  "values": [
+    "laserio:laser_wrench",
+    "supplementaries:wrench",
+    "littlelogistics:conductors_wrench",
+    "thermal:wrench",
+    {
+      "id": "cyclic:cable_wrench",
+      "required": false
+    },
+    "biggerreactors:wrench",
+    "create:wrench",
+    "ae2:certus_quartz_wrench",
+    "ae2:nether_quartz_wrench",
+    "ae2:network_tool",
+    "ae2:certus_quartz_wrench",
+    "ae2:nether_quartz_wrench",
+    "ae2:network_tool",
+    {
+      "id": "immersiveengineering:hammer",
+      "required": false
+    },
+    "enderio:yeta_wrench"
+  ],
+  "replace": true
+}

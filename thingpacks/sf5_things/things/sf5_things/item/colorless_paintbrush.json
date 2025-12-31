@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:brush",
+  "type": "minecraft:plain",
+  "max_stack_size": 1,
+  "group": "decorations",
+  "burn_duration": 20
+}

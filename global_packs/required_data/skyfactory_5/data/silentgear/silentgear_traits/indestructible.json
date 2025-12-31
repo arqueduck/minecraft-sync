@@ -1,0 +1,15 @@
+{
+  "type": "silentgear:simple_trait",
+  "max_level": 1,
+  "name": {
+    "translate": "trait.silentgear.indestructible"
+  },
+  "description": {
+    "translate": "trait.silentgear.indestructible.desc"
+  },
+  "extra_wiki_lines": [
+    {
+      "text": "  - The damage (durability lost) of the item will remain the same as when the trait was added"
+    }
+  ]
+}

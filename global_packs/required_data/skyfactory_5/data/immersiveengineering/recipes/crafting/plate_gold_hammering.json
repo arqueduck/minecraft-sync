@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "forge:ingots/gold" },
+    { "item": "immersiveengineering:hammer" }
+  ],
+  "result": { "item": "thermal:gold_plate" }
+}

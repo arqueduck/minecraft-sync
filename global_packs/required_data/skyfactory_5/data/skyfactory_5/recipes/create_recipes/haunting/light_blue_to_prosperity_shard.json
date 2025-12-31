@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    }
+  ]
+}

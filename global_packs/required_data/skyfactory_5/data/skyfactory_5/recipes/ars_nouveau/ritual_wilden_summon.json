@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "colouredstuff:log_magenta"
+    },
+    {
+      "tag": "ars_nouveau:wilden_drop"
+    },
+    {
+      "tag": "ars_nouveau:wilden_drop"
+    },
+    {
+      "tag": "ars_nouveau:wilden_drop"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_wilden_summon"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "immersiveengineering:hammer_crushing",
+  "input": { "tag": "forge:ores/lead" },
+  "result": { "item": "thermal:lead_dust" }
+}

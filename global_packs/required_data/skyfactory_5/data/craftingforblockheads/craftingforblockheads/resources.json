@@ -1,0 +1,154 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {},
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:sf5_resources": {
+      "name": "Resources",
+      "icon": {
+        "item": "minecraft:iron_ingot"
+      },
+      "includes": [
+        {
+          "item": "minecraft:ender_pearl"
+        },
+        {
+          "item": "minecraft:raw_iron"
+        },
+        {
+          "item": "minecraft:raw_gold"
+        },
+        {
+          "item": "minecraft:raw_copper"
+        },
+        {
+          "item": "minecraft:amethyst_shard"
+        },
+        {
+          "item": "create:raw_zinc"
+        },
+        {
+          "item": "minecraft:coal"
+        },
+        {
+          "item": "minecraft:redstone"
+        },
+        {
+          "item": "minecraft:lapis_lazuli"
+        },
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "minecraft:emerald"
+        },
+        {
+          "item": "create:raw_zinc"
+        },
+        {
+          "item": "minecraft:quartz"
+        },
+        {
+          "item": "immersiveengineering:raw_aluminum"
+        },
+        {
+          "item": "thermal:raw_lead"
+        },
+        {
+          "item": "thermal:raw_silver"
+        },
+        {
+          "item": "thermal:raw_nickel"
+        },
+        {
+          "item": "immersiveengineering:raw_uranium"
+        },
+        {
+          "item": "thermal:raw_tin"
+        },
+        {
+          "item": "ae2:sky_dust"
+        },
+        {
+          "item": "ae2:certus_quartz_crystal"
+        },
+        {
+          "item": "draconicevolution:draconium_dust"
+        },
+        {
+          "item": "forcecraft:force_gem"
+        }
+      ],
+      "excludes": [
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_leggings"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_horse_armor"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_helmet"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_chestplate"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_boots"
+        },
+        {
+          "recipe": "forcecraft:transmutation/diamond_from_axe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/string_from_bow"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_wooden_axe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_sword"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_shovel"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_pickaxe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_hoe"
+        },
+        {
+          "recipe": "forcecraft:transmutation/stick_from_stone_axe"
+        },
+        {
+          "recipe": "immersiveengineering:crafting/lead_white"
+        }
+      ],
+      "priority": 99999
+    }
+  }
+}

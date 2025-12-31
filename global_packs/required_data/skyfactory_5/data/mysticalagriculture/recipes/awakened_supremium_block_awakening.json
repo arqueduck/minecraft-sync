@@ -1,0 +1,41 @@
+{
+  "type": "mysticalagriculture:awakening",
+  "essences": [
+    {
+      "item": "mysticalagriculture:light_blue_crop_essence",
+      "count": 10
+    },
+    {
+      "item": "mysticalagriculture:brown_crop_essence",
+      "count": 10
+    },
+    {
+      "item": "mysticalagriculture:blue_crop_essence",
+      "count": 10
+    },
+    {
+      "item": "mysticalagriculture:orange_crop_essence",
+      "count": 10
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:supremium_block"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    },
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    },
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    },
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:awakened_supremium_block"
+  }
+}

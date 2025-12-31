@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Light Blue Loot Bag",
+  "color": "#8fd3ff",
+  "rarity": "COMMON",
+  "output": {
+    "table": "treasurebags:bags/light_blue"
+  }
+}

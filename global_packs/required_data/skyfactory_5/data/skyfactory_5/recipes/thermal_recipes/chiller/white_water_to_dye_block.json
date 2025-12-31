@@ -1,0 +1,13 @@
+{
+  "type": "thermal:chiller",
+  "ingredient": {
+    "fluid": "colouredstuff:water_white",
+    "amount": 1000
+  },
+  "result": [
+    {
+      "item": "sf5_things:block_of_white_dye"
+    }
+  ],
+  "energy": 8000
+}

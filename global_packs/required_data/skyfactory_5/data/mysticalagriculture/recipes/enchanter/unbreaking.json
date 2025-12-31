@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian",
+      "count": 12
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 64
+    }
+  ],
+  "enchantment": "minecraft:unbreaking"
+}

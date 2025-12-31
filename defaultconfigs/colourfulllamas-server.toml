@@ -1,0 +1,5 @@
+["Colourful Llamas"]
+# Enable the shearing of LLamas.  Default: true
+enableShearing = true
+# Allow Llama spit to do different damage types.  Default: false
+enableSpitEffects = false

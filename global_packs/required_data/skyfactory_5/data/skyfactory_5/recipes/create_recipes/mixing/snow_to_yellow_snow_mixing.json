@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_yellow",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "yellow_snow:yellow_snow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "silentgear:compound_part",
+  "gear_type": "sickle",
+  "part_type": "silentgear:main",
+  "crafting_item": {
+    "item": "silentgear:sickle_blade"
+  },
+  "name": {
+    "translate": "part.silentgear.sickle_blade"
+  },
+  "stats": {
+    "melee_damage": {
+      "add": 1.0
+    },
+    "attack_speed": {
+      "add": -1.8
+    },
+    "silentgear:durability": {
+      "add": 100
+    },
+    "repair_efficiency": 1.0
+  }
+}

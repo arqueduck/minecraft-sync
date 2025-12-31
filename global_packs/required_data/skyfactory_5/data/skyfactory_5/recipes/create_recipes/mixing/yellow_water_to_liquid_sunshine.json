@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:sunflower"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_yellow",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "fluid": "enderio:liquid_sunshine",
+      "amount": 1000
+    }
+  ]
+}

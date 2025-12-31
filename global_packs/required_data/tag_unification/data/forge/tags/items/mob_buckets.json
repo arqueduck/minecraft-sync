@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:pufferfish_bucket",
+    "minecraft:salmon_bucket",
+    "minecraft:cod_bucket",
+    "minecraft:tropical_fish_bucket",
+    "minecraft:axolotl_bucket",
+    "sushigocrafting:tuna_bucket",
+    "sushigocrafting:shrimp_bucket",
+    "earthmobsmod:tropical_slime_bucket"
+  ],
+  "replace": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "tag": "forge:gems/emerald"
+  },
+  "result": {
+    "count": 1,
+    "item": "thermal:emerald_dust"
+  }
+}

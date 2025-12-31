@@ -1,0 +1,11 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "colouredstuff:water_light_blue_block",
+  "target_block": "minecraft:sand",
+  "post": [
+    {
+      "type": "place",
+      "block": "sf5_things:block_of_light_blue_dye"
+    }
+  ]
+}

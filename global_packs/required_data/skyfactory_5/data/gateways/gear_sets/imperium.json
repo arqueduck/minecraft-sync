@@ -1,0 +1,43 @@
+{
+  "weight": 0,
+  "quality": 0,
+  "tags": [],
+  "mainhands": [
+    {
+      "weight": 1,
+      "stack": {
+        "item": "mysticalagriculture:imperium_sword"
+      },
+      "drop_chance": 0
+    }
+  ],
+  "offhands": [],
+  "helmets": [],
+  "chestplates": [
+    {
+      "weight": 1,
+      "stack": {
+        "item": "mysticalagriculture:imperium_chestplate"
+      },
+      "drop_chance": 0
+    }
+  ],
+  "leggings": [
+    {
+      "weight": 1,
+      "stack": {
+        "item": "mysticalagriculture:imperium_leggings"
+      },
+      "drop_chance": 0
+    }
+  ],
+  "boots": [
+    {
+      "weight": 1,
+      "stack": {
+        "item": "mysticalagriculture:imperium_boots"
+      },
+      "drop_chance": 0
+    }
+  ]
+}

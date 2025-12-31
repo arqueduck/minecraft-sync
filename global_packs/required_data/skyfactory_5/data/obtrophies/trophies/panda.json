@@ -1,0 +1,16 @@
+{
+  "entity": "minecraft:panda",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:bamboo"
+  },
+  "offset": 0,
+  "scale": 0.75,
+  "variants": [
+    {
+      "HiddenGene": "weak",
+      "MainGene": "weak"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:beanie"
+    },
+    "title": "21-40",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/1_20",
+  "criteria": {
+    "beanie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beanie"] }]
+      }
+    },
+    "beanieeaster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beanieeaster"] }]
+      }
+    },
+    "beaniefestive": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beaniefestive"] }]
+      }
+    },
+    "beaniejuly": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beaniejuly"] }]
+      }
+    },
+    "beaniergb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beaniergb"] }]
+      }
+    },
+    "beaniespooky": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beaniespooky"] }]
+      }
+    },
+    "beehat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beehat"] }]
+      }
+    },
+    "beret_ribbon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:beret_ribbon"] }]
+      }
+    },
+    "bicorne": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bicorne"] }]
+      }
+    },
+    "bigbrain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bigbrain"] }]
+      }
+    },
+    "bigcrown": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bigcrown"] }]
+      }
+    },
+    "bigeyes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bigeyes"] }]
+      }
+    },
+    "bigribbon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bigribbon"] }]
+      }
+    },
+    "bigstevehead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bigstevehead"] }]
+      }
+    },
+    "bluefireeye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bluefireeye"] }]
+      }
+    },
+    "bowler": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bowler"] }]
+      }
+    },
+    "breadhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:breadhat"] }]
+      }
+    },
+    "brownbrick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:brownbrick"] }]
+      }
+    },
+    "bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bucket"] }]
+      }
+    },
+    "bunnyhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:bunnyhat"] }]
+      }
+    }
+  }
+}

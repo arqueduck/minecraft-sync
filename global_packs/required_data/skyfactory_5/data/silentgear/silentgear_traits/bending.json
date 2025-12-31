@@ -1,0 +1,13 @@
+{
+  "type": "silentgear:durability",
+  "max_level": 5,
+  "name": {
+    "translate": "trait.silentgear.bending"
+  },
+  "description": {
+    "translate": "trait.silentgear.bending.desc"
+  },
+  "cancels_with": ["silentgear:flexible"],
+  "effect_scale": -1,
+  "activation_chance": 0.075
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:lily_pad"
+    }
+  ]
+}

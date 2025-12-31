@@ -1,0 +1,96 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 1,
+    "categories": ["rock"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "type": "silentlib:exclusion",
+      "value": {
+        "tag": "forge:sandstone"
+      },
+      "exclusions": [
+        {
+          "item": "minecraft:red_sandstone"
+        },
+        {
+          "item": "minecraft:chiseled_red_sandstone"
+        },
+        {
+          "item": "minecraft:cut_red_sandstone"
+        },
+        {
+          "item": "minecraft:smooth_red_sandstone"
+        }
+      ]
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.sandstone"
+  },
+  "stats": {
+    "main": {
+      "durability": 117.0,
+      "armor_durability": 6.0,
+      "enchantment_value": 7.0,
+      "rarity": 7.0,
+      "charging_value": 0.7,
+      "repair_value": -0.1,
+      "harvest_level": 1.0,
+      "harvest_speed": 4.0,
+      "melee_damage": 1.0,
+      "attack_speed": 0.1,
+      "attack_speed/axe": -0.1,
+      "attack_speed/hoe": -1.0,
+      "ranged_damage": 0.0,
+      "ranged_speed": -0.1,
+      "projectile_speed": 1.0,
+      "projectile_accuracy": 0.8,
+      "armor": 5.0,
+      "armor/helmet": 1.0,
+      "armor/chestplate": 2.0,
+      "armor/leggings": 1.0,
+      "armor/boots": 1.0
+    },
+    "rod": {}
+  },
+  "traits": {
+    "rod": [
+      {
+        "name": "silentgear:brittle",
+        "level": 1
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#E3DBB0"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#E3DBB0"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_lc",
+        "color": "#E3DBB0"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#E3DBB0"
+      }
+    ]
+  }
+}

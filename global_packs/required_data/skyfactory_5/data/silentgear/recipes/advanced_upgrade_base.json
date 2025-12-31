@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "/": {
+      "tag": "forge:dyes/pink"
+    },
+    "D": {
+      "tag": "forge:dyes/blue"
+    },
+    "G": {
+      "tag": "forge:nuggets/gold"
+    },
+    "U": {
+      "item": "silentgear:upgrade_base"
+    }
+  },
+  "pattern": ["///", "DUD", "GGG"],
+  "result": {
+    "item": "silentgear:advanced_upgrade_base"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:hoglin",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:leather"
+  },
+  "offset": 0,
+  "scale": 0.85
+}

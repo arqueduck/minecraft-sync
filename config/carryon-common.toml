@@ -1,0 +1,81 @@
+
+[settings]
+	#General Settings
+	#Maximum distance from where Blocks and Entities can be picked up
+	#Range: 0.0 ~ 1.7976931348623157E308
+	maxDistance = 2.0
+	#Max width of entities that can be picked up in survival mode
+	#Range: 0.0 ~ 10.0
+	maxEntityWidth = 1.5
+	#Max height of entities that can be picked up in survival mode
+	#Range: 0.0 ~ 10.0
+	maxEntityHeight = 2.5
+	#Slowness multiplier for blocks
+	#Range: 0.0 ~ 1.7976931348623157E308
+	blockSlownessMultiplier = 1.0
+	#Slowness multiplier for entities
+	#Range: 0.0 ~ 1.7976931348623157E308
+	entitySlownessMultiplier = 1.0
+	#Maximum stack limit for entities
+	#Range: > 1
+	maxEntityStackLimit = 10
+	#More complex Tile Entities slow down the player more
+	heavyTiles = true
+	#Allow all blocks to be picked up, not just Tile Entites. White/Blacklist will still be respected.
+	pickupAllBlocks = false
+	#Whether Blocks and Entities slow the creative player down when carried
+	slownessInCreative = false
+	#Whether hostile mobs should be able to picked up in survival mode
+	pickupHostileMobs = false
+	#Larger Entities slow down the player more
+	heavyEntities = true
+	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
+	allowBabies = false
+	#Use Whitelist instead of Blacklist for Blocks
+	useWhitelistBlocks = false
+	#Use Whitelist instead of Blacklist for Entities
+	useWhitelistEntities = false
+	#Use Whitelist instead of Blacklist for Stacking
+	useWhitelistStacking = false
+	#Whether the player can hit blocks and entities while carrying or not
+	hitWhileCarrying = false
+	#Whether the player drops the carried object when hit or not
+	dropCarriedWhenHit = false
+	#Use custom Pickup Scripts. Having this set to false, will not allow you to run scripts, but will increase your performance
+	useScripts = false
+	#Allows entities to be stacked on top of each other
+	stackableEntities = true
+	#Whether entities' size matters when stacking or not. This means that larger entities cannot be stacked on smaller ones
+	entitySizeMattersStacking = true
+	#Usually all the block state information is retained when placing a block that was picked up. But some information is changed to a modified property, like rotation or orientation. In this list, add additional properties that should NOT be saved and instead be updated when placed. Format: modid:block[propertyname]. Note: You don't need to add an entry for every subtype of a same block. For example, we only add an entry for one type of slab, but the change is applied to all slabs.
+	placementStateExceptions = ["minecraft:chest[type]", "minecraft:stone_button[face]", "minecraft:vine[north,east,south,west,up]", "minecraft:creeper_head[rotation]", "minecraft:glow_lichen[north,east,south,west,up,down]", "minecraft:oak_sign[rotation]", "minecraft:oak_trapdoor[half]"]
+	#Whether Players can be picked up. Creative players can't be picked up in Survival Mode
+	pickupPlayers = true
+	#Whether players in Survival Mode can pick up unbreakable blocks. Creative players always can.
+	pickupUnbreakableBlocks = false
+
+[whitelist]
+	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
+	#Entities that CAN be picked up (useWhitelistEntities must be true)
+	allowedEntities = []
+	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
+	allowedBlocks = []
+	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
+	allowedStacking = []
+
+[blacklist]
+	#Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
+	#Blocks that cannot be picked up
+	forbiddenTiles = ["#forge:immovable", "#forge:relocation_not_supported", "advancementtrophies:trophy", "animania:block_invisiblock", "animania:block_trough", "aquamunda:tank", "astralsorcery:*", "betterstorage:*", "bigreactors:*", "botania:*", "colossalchests:*", "contact:*", "cookingforblockheads:cabinet", "cookingforblockheads:cooking_table", "cookingforblockheads:corner", "cookingforblockheads:counter", "cookingforblockheads:cow_jar", "cookingforblockheads:fridge", "cookingforblockheads:fruit_basket", "cookingforblockheads:milk_jar", "cookingforblockheads:oven", "cookingforblockheads:sink", "cookingforblockheads:toaster", "craftingforblockheads:*", "create:*", "embers:alchemy_pedestal", "embers:block_furnace", "embers:boiler", "embers:catalzyer", "embers:combustor", "embers:crystal_cell", "embers:ember_activator", "embers:ember_bore", "embers:field_chart", "embers:heat_coil", "embers:inferno_forge", "embers:large_tank", "embers:mixer", "enderstorage:*", "exsartagine:*", "forestry:*", "forgemultipartcbe:*", "framedblocks:*", "ftbquests:*", "ic2:*", "iceandfire:*", "immersiveengineering:*", "industrialforegoing:*", "integrateddynamics:cable", "lootbags:*", "magic_doorknob:*", "magneticraft:container", "magneticraft:grinder", "magneticraft:hydraulic_press", "magneticraft:multiblock_gap", "magneticraft:oil_heater", "magneticraft:pumpjack", "magneticraft:refinery", "magneticraft:shelving_unit", "magneticraft:sieve", "magneticraft:solar_mirror", "magneticraft:solar_panel", "magneticraft:solar_tower", "magneticraft:steam_engine", "malisisdoors:*", "mcmultipart:*", "mekanismgenerators:heat_generator", "mekanismgenerators:wind_generator", "minecolonies:*", "minecraft:*_bed", "minecraft:*_door", "minecraft:big_dripleaf_stem", "minecraft:cake", "minecraft:end_gateway", "minecraft:end_portal", "minecraft:large_fern", "minecraft:lilac", "minecraft:nether_portal", "minecraft:peony", "minecraft:piston_head", "minecraft:rose_bush", "minecraft:sunflower", "minecraft:tall_grass", "minecraft:tall_seagrass", "minecraft:waterlily", "mna:filler_block", "opencomputers:*", "powah:*", "practicallogistics2:*", "quark:colored_bed_*", "refinedstorage:*", "rftools:creative_screen", "rftools:screen", "rustic:*", "securitycraft:*", "skyresources:*", "storagedrawers:framingtable", "tconstruct:*", "thaumcraft:golem_builder", "thaumcraft:infernal_furnace", "thaumcraft:infusion_matrix", "thaumcraft:pillar*", "thaumcraft:placeholder*", "thaumcraft:thaumatorium*", "waystones:*", "wearablebackpacks:*", "abyssalcraft:energypedestal", "abyssalcraft:rendingpedestal", "abyssalcraft:ritualpedestal:*", "abyssalcraft:tieredenergypedestal:*", "advancedmortars:*", "animalcrops:*", "appliedenergistics2:*", "astikoor:*", "bdsandm:*", "betterwithaddons:inverted_gearbox", "betterwithmods:bellows:*", "betterwithmods:hand_crank", "betterwithmods:saw", "betterwithmods:stone_moulding", "betterwithmods:stone_siding", "betterwithmods:wood_moulding", "betterwithmods:wood_siding", "betterwithmods:wooden_gearbox", "bibliocraft:*", "bloodmagic:*", "buildcraft:*", "buildcraftcore:*", "buildcraftsilicon:*", "buildcrafttransport:*", "ceramics:channel", "ceramics:clay_barrel:1", "ceramics:clay_barrel_stained_extension:*", "ceramics:porcelain_barrel_extension:*", "compactmachines3:*", "cookingforblockheads:*", "cyclic:*", "cyclicmagic:*", "darkutils:ender_hopper", "darkutils:ender_pearl_hopper", "embers:alchemy_tablet", "embers:catalyzer", "enderutilities:storage_0:4", "enderutilities:storage_0:5", "enderutilities:storage_0:6", "environmentaltech:*", "extraplanets:advanced_launch_pad:*", "farmingforblockheads:market", "forgemultipartcbe:multipart_block", "galacticraftcore:landing_pad:*", "galacticraftcore:rocket_workbench:*", "horsepower:*", "immcraft:sticks:*", "immersivepetroleum:*", "immersivetech:*", "improvedbackpacks:*", "jp.crafterkina.pipes:*", "matteroverdrive:android_station", "matteroverdrive:charging_station", "matteroverdrive:contract_market", "matteroverdrive:decomposer", "matteroverdrive:fusion_reactor_coil", "matteroverdrive:fusion_reactor_controller", "matteroverdrive:fusion_reactor_io", "matteroverdrive:gravitational_anomaly", "matteroverdrive:gravitational_stabilizer", "matteroverdrive:heavy_matter_pipe", "matteroverdrive:inscriber", "matteroverdrive:matter_analyzer", "matteroverdrive:matter_pipe", "matteroverdrive:matter_recycler", "matteroverdrive:network_pipe", "matteroverdrive:network_router", "matteroverdrive:network_switch", "matteroverdrive:pattern_monitor", "matteroverdrive:pattern_storage", "matteroverdrive:replicator", "matteroverdrive:solar_panel", "matteroverdrive:spacetime_accelerator", "matteroverdrive:star_map", "matteroverdrive:transporter", "matteroverdrive:weapon_station", "mcmultipart:multipart", "mekanism:boundingblock", "mekanism:cardboardbox:*", "mekanism:transmitter", "mekanism:transmitter:*", "mekanism:transmitter:1", "mekanism:transmitter:2", "mekanism:transmitter:3", "mekanism:transmitter:4", "mekanism:transmitter:5", "mekanism:transmitter:6", "minecraft:acacia_door", "minecraft:bed", "minecraft:birch_door", "minecraft:brewing_stand", "minecraft:dark_oak_door", "minecraft:double_plant", "minecraft:iron_door", "minecraft:jungle_door", "minecraft:sign", "minecraft:spruce_door", "minecraft:wooden_door", "mob_grinding_utils:absorption_hopper", "modularmachinery:*", "multistorage:*", "mystcraft:*", "nex:tile_urn_sorrow", "nuclearcraft:fusion_core", "nuclearcraft:fusion_dummy_core", "nuclearcraft:fusion_dummy_side", "nuclearcraft:fusion_dummy_top", "overloaded:*", "parabox:*", "pneumaticcraft:*", "poweradapters:mj", "practicallogistics2:advancedholographicdisplay", "practicallogistics2:displayscreen", "practicallogistics2:holographicdisplay", "practicallogistics2:largedisplayscreen", "practicallogistics2:minidisplay", "primal_tech:charcoal_hopper", "primal_tech:stone_grill", "primal_tech:wooden_basin", "primal_tech:wooden_hopper", "primal_tech:work_stump", "primal_tech:work_stump_upgraded", "progressiontweaks:fire_pit_lit", "progressiontweaks:fire_pit_unlit", "quark:glass_item_frame", "realfilingcabinet:*", "rebornstorage:*", "rftools:*", "rftoolspower:*", "rustic:apiary", "rustic:barrel", "rustic:brewing_barrel", "rustic:cabinet", "rustic:condenser", "rustic:condenser_advanced", "rustic:crushing_tub", "rustic:evaporating_basin", "rustic:retort", "rustic:retort_advanced", "rustic:vase", "slabmachines:*", "soot:mixer", "stevescarts:*", "storagedrawers:*", "storagedrawersextra:*", "storagenetwork:*", "sync:*", "tconstruct:fancy_frame", "tconstruct:fancy_frame:2", "tconstruct:fancy_frame:3", "tconstruct:fancy_frame:4", "tconstruct:fancy_frame:5", "tconstruct:fancy_frame:6", "tconstruct:seared_furnace_controller", "tconstruct:smeltery_controller", "tconstruct:tinker_tank_controller", "totemic:*", "translocators:translocator_part", "translocators:translocator_part:1", "twilightforest:moonworm", "vc:*", "weirdinggadget:*", "xnet:netcable:*", "sophisticatedbackpacks:backpack", "sophisticatedbackpacks:copper_backpack", "sophisticatedbackpacks:iron_backpack", "sophisticatedbackpacks:gold_backpack", "sophisticatedbackpacks:diamond_backpack", "sophisticatedbackpacks:netherite_backpack", "wormhole:*", "biggerreactors:*", "magic_mirror:*", "sophisticatedstorage:chest", "sophisticatedstorage:copper_chest", "sophisticatedstorage:iron_chest", "sophisticatedstorage:gold_chest", "sophisticatedstorage:diamond_chest", "sophisticatedstorage:netherite_chest", "enderio:energy_conduit", "enderio:fluid_conduit", "enderio:pressurized_fluid_conduit", "enderio:ender_fluid_conduit", "enderio:redstone_conduit", "enderio:item_conduit", "enderio:dense_me_conduit", "enderio:me_conduit", "refurbished_furniture:*", "draconicevolution:*", "vinery:apple_press", "sushigocrafting:*"]
+	#Entities that cannot be picked up
+	forbiddenEntities = ["minecraft:end_crystal", "minecraft:ender_dragon", "minecraft:ghast", "minecraft:shulker", "minecraft:leash_knot", "minecraft:armor_stand", "minecraft:item_frame", "minecraft:painting", "minecraft:shulker_bullet", "animania:hamster", "animania:ferret*", "animania:hedgehog*", "animania:cart", "animania:wagon", "mynko:*", "pixelmon:*", "mocreatures:*", "quark:totem", "vehicle:*", "securitycraft:*", "taterzens:npc", "easy_npc:*", "bodiesbodies:dead_body", "luggage:*", "littlelogistics:*"]
+	#Entities that cannot have other entities stacked on top of them
+	forbiddenStacking = ["minecraft:horse"]
+
+[customPickupConditions]
+	#Custom Pickup Conditions. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Custom-Pickup-Condition-Config
+	#Custom Pickup Conditions for Blocks
+	customPickupConditionsBlocks = []
+	#Custom Pickup Conditions for Entities
+	customPickupConditionsEntities = []
+

@@ -1,0 +1,337 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    "title": "Cyan Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.cyan.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/brown_stage",
+  "criteria": {
+    "warped_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:warped_stem"]
+          }
+        ]
+      }
+    },
+    "stripped_warped_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:stripped_warped_stem"]
+          }
+        ]
+      }
+    },
+    "oxidized_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:oxidized_copper"]
+          }
+        ]
+      }
+    },
+    "warped_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:warped_planks"]
+          }
+        ]
+      }
+    },
+    "warped_wart_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:warped_wart_block"]
+          }
+        ]
+      }
+    },
+    "ender_pearl": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:ender_pearl"]
+          }
+        ]
+      }
+    },
+    "cyan_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:cyan_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "cyan_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:cyan_crop_essence"]
+          }
+        ]
+      }
+    },
+    "pitcher_plant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:pitcher_plant"]
+          }
+        ]
+      }
+    },
+    "recovery_compass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:recovery_compass"]
+          }
+        ]
+      }
+    },
+    "sculk_catalyst": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sculk_catalyst"]
+          }
+        ]
+      }
+    },
+    "glow_ink_sac": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:glow_ink_sac"]
+          }
+        ]
+      }
+    },
+    "calibrated_sculk_sensor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:calibrated_sculk_sensor"]
+          }
+        ]
+      }
+    },
+    "sculk_sensor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sculk_sensor"]
+          }
+        ]
+      }
+    },
+    "sculk_shrieker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sculk_shrieker"]
+          }
+        ]
+      }
+    },
+    "sculk_vein": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sculk_vein"]
+          }
+        ]
+      }
+    },
+    "sculk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sculk"]
+          }
+        ]
+      }
+    },
+    "echo_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:echo_shard"]
+          }
+        ]
+      }
+    },
+    "prismarine_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:prismarine_bricks"]
+          }
+        ]
+      }
+    },
+    "prismarine_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:prismarine_brick_stairs"]
+          }
+        ]
+      }
+    },
+    "prismarine_brick_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:prismarine_brick_slab"]
+          }
+        ]
+      }
+    },
+    "prismarine_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:prismarine_shard"]
+          }
+        ]
+      }
+    },
+    "prismarine_crystals": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:prismarine_crystals"]
+          }
+        ]
+      }
+    },
+    "sadiroot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:sadiroot"]
+          }
+        ]
+      }
+    },
+    "apatite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:apatite"]
+          }
+        ]
+      }
+    },
+    "block_of_bubble_wrap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_bubble_wrap"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "warped_stem",
+      "stripped_warped_stem",
+      "oxidized_copper",
+      "warped_planks",
+      "warped_wart_block",
+      "ender_pearl",
+      "cyan_essence",
+      "cyan_essence_seeds",
+      "pitcher_plant",
+      "recovery_compass",
+      "sculk_catalyst",
+      "glow_ink_sac",
+      "calibrated_sculk_sensor",
+      "sculk_sensor",
+      "sculk_shrieker",
+      "sculk_vein",
+      "sculk",
+      "echo_shard",
+      "prismarine_bricks",
+      "prismarine_brick_stairs",
+      "prismarine_brick_slab",
+      "prismarine_shard",
+      "prismarine_crystals",
+      "sadiroot",
+      "apatite",
+      "block_of_bubble_wrap"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/cyan_stage"
+  }
+}

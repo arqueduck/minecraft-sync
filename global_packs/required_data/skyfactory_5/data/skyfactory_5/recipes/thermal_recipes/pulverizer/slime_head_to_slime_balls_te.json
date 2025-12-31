@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "heads:slime_head"
+  },
+  "result": [
+    {
+      "item": "minecraft:slime_ball",
+      "chance": 4.33
+    }
+  ],
+  "experience": 0.1
+}

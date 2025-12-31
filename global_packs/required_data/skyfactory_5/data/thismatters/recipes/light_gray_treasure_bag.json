@@ -1,0 +1,11 @@
+{
+  "type": "thismatters:organic_matter_compression",
+  "compressingtime": 900,
+  "ingredient": {
+    "item": "minecraft:light_gray_dye"
+  },
+  "result": {
+    "item": "lootbags:loot_bag",
+    "nbt": "{Color:13882323,Loot:\"skyfactory_5:loot_bags/light_gray_loot_bag\",Name:\"Light Gray Loot Bag\",Type:\"COMMON\"}"
+  }
+}

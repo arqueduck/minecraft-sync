@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:egg",
+    "minecraft:turtle_egg",
+    "minecraft:egg",
+    "earthmobsmod:smelly_egg",
+    "earthmobsmod:duck_egg",
+    "earthmobsmod:fancy_egg"
+  ],
+  "replace": true
+}

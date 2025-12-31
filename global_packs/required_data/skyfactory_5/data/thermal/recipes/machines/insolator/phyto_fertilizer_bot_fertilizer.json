@@ -1,0 +1,11 @@
+{
+  "type": "thermal:insolator_catalyst",
+  "ingredient": {
+    "item": "botania:fertilizer"
+  },
+  "primary_mod": 1.4,
+  "secondary_mod": 2.4,
+  "energy_mod": 0.75,
+  "min_chance": 0.1,
+  "use_chance": 0.5
+}

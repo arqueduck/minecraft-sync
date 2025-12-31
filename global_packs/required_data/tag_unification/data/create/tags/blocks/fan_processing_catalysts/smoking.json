@@ -1,0 +1,24 @@
+{
+  "values": [
+    "create:blaze_burner",
+    "create:lit_blaze_burner",
+    "minecraft:fire",
+    "minecraft:campfire",
+    "tintedcampfires:black_campfire",
+    "tintedcampfires:blue_campfire",
+    "tintedcampfires:brown_campfire",
+    "tintedcampfires:green_campfire",
+    "tintedcampfires:red_campfire",
+    "tintedcampfires:white_campfire",
+    "tintedcampfires:yellow_campfire",
+    "tintedcampfires:light_blue_campfire",
+    "tintedcampfires:light_gray_campfire",
+    "tintedcampfires:lime_campfire",
+    "tintedcampfires:magenta_campfire",
+    "tintedcampfires:orange_campfire",
+    "tintedcampfires:pink_campfire",
+    "tintedcampfires:cyan_campfire",
+    "tintedcampfires:gray_campfire",
+    "tintedcampfires:purple_campfire"
+  ]
+}

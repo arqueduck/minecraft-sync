@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:soulium_dust",
+      "count": 8
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 64
+    }
+  ],
+  "enchantment": "mysticalagriculture:soul_siphoner"
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "sushigocrafting",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "sushigocrafting:shrimp",
+  "variants": [],
+  "name": "entity.sushigocrafting.shrimp",
+  "name_color": "#f38caa",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:pink_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.shrimp",
+  "fabricator_drops": [
+    {
+      "item": "sushigocrafting:shrimp",
+      "count": 4,
+      "nbt": "{Amount:2}"
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

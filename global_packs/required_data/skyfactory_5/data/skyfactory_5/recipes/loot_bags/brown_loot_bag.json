@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Brown Loot Bag",
+  "color": "#964B00",
+  "rarity": "COMMON",
+  "output": {
+    "table": "treasurebags:bags/brown"
+  }
+}

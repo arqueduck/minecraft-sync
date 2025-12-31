@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": { "item": "minecraft:gilded_blackstone" },
+  "result": {
+    "base_ingredient": { "item": "minecraft:gold_nugget" },
+    "count": 7
+  },
+  "secondaries": [
+    { "chance": 0.5, "output": { "item": "minecraft:gold_nugget" } },
+    { "chance": 0.15, "output": { "item": "minecraft:netherite_scrap" } }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "thermal:pulverizer_catalyst",
+  "ingredient": {
+    "item": "thermal:machine_pulverizer"
+  },
+  "primary_mod": 1.75,
+  "secondary_mod": 0.66,
+  "energy_mod": 1.25,
+  "min_chance": 0.2,
+  "use_chance": 0.0125
+}

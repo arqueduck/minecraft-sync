@@ -1,0 +1,506 @@
+# Command Settings
+[commands]
+
+[commands.general]
+# Command messages show to all players on server.
+msgAllPlayers = false
+# Sets all command to be this permission level.
+# Range: 0 ~ 4
+cmdPermissionsLevel = 2
+# Commands show a message in chat.
+msgShow = true
+
+# InventoryBomb Command Settings
+[commands.InventoryBomb]
+# Item that will replace all inventory slots with after items are dropped
+inventoryBombItem = "minecraft:dead_bush"
+
+# DisconnectPlayer Command Settings
+[commands.DisconnectPlayer]
+# Message to show when disconnected
+disconnectMsg = " and had a Dark PANIC moment and some how left the server."
+
+# PlayerNudger Command Settings
+[commands.PlayerNudger]
+
+[commands.PlayerNudger.North]
+# Chance for playernudger command to nudge North
+# Range: 0 ~ 100
+North_Chance = 4
+# Strength of playernudger command nudging North
+# Range: 0.0 ~ 10.0
+North_Strength = 0.7
+
+[commands.PlayerNudger.NorthEast]
+# Chance for playernudger command to nudge Northeast
+# Range: 0 ~ 100
+Northeast_Chance = 2
+# Strength of playernudger command nudging Northeast
+# Range: 0.0 ~ 10.0
+Northeast_Strength = 0.7
+
+[commands.PlayerNudger.East]
+# Chance for playernudger command to nudge East
+# Range: 0 ~ 100
+East_Chance = 4
+# Strength of playernudger command nudging East
+# Range: 0.0 ~ 10.0
+East_Strength = 0.7
+
+[commands.PlayerNudger.SouthEast]
+# Chance for playernudger command to nudge Southeast
+# Range: 0 ~ 100
+SouthEast_Chance = 2
+# Strength of playernudger command nudging Southeast
+# Range: 0.0 ~ 10.0
+SouthEast_Strength = 0.7
+
+[commands.PlayerNudger.South]
+# Chance for playernudger command to nudge South
+# Range: 0 ~ 100
+South_Chance = 4
+# Strength of playernudger command nudging South
+# Range: 0.0 ~ 10.0
+South_Strength = 0.7
+
+[commands.PlayerNudger.SouthWest]
+# Chance for playernudger command to nudge Southwest
+# Range: 0 ~ 100
+SouthWest_Chance = 2
+# Strength of playernudger command nudging Southwest
+# Range: 0.0 ~ 10.0
+SouthWest_Strength = 0.7
+
+[commands.PlayerNudger.West]
+# Chance for playernudger command to nudge West
+# Range: 0 ~ 100
+West_Chance = 4
+# Strength of playernudger command nudging West
+# Range: 0.0 ~ 10.0
+West_Strength = 0.7
+
+[commands.PlayerNudger.NorthWest]
+# Chance for playernudger command to nudge Northwest
+# Range: 0 ~ 100
+NorthWest_Chance = 2
+# Strength of playernudger command nudging Northwest
+# Range: 0.0 ~ 10.0
+NorthWest_Strength = 0.7
+
+[commands.PlayerNudger.Up]
+# Chance for playernudger command to nudge Up
+# Range: 0 ~ 100
+Up_Chance = 1
+# Strength of playernudger command nudging Up
+# Range: 0.0 ~ 10.0
+Up_Strength = 0.7
+
+[commands.PlayerNudger.Down]
+# Chance for playernudger command to nudge Down
+# Range: 0 ~ 100
+Down_Chance = 0
+# Strength of playernudger command nudging Down
+# Range: 0.0 ~ 10.0
+Down_Strength = 0.7
+
+[commands.PlayerNudger.PlayerFacingDirections]
+# Multiplier to increase the chance to nudge where the player is looking
+# Range: 0 ~ 100
+Forward_Multiplier = 1
+# Multiplier to increase the chance to nudge opposite where the player is looking
+# Range: 0 ~ 100
+Backward_Multiplier = 1
+# Multiplier to increase the chance to nudge the player to the left
+# Range: 0 ~ 100
+Left_Multiplier = 1
+# Multiplier to increase the chance to nudge the player to the right
+# Range: 0 ~ 100
+Right_Multiplier = 1
+
+# RandomTeleport Command Settings
+[commands.RandomTeleport]
+
+[commands.RandomTeleport."X Axis"]
+# Miniumum X offset from original X level. (i.e. 10 means when teleported will be at least 10 blocks along the X axis from original position)
+# Range: 0 ~ 100000
+randomTeleportXMin = 100
+# Maximum X offset from original X level. (i.e. 100 means when teleported will be less than 100 blocks away on the X axis from original position)
+# Range: 0 ~ 100000
+randomTeleportXMax = 1000
+
+[commands.RandomTeleport."Y Axis"]
+# Miniumum Y offset from original Y level. (i.e. 10 means when teleported will be at least 10 blocks higher or lower than original position)
+# Range: 0 ~ 30000000
+randomTeleportYMin = 0
+# Maximum Y offset from original Y level. (i.e. 100 means when teleported will be less than 100 blocks higher or lower than original position)
+# Range: 0 ~ 30000000
+randomTeleportYMax = 320
+
+[commands.RandomTeleport."Z Axis"]
+# Miniumum Z offset from original X level. (i.e. 10 means when teleported will be at least 10 blocks along the Z axis from original position)
+# Range: 0 ~ 100000
+randomTeleportZMin = 100
+# Maximum Z offset from original X level. (i.e. 100 means when teleported will be less than 100 blocks away on the Z axis from original position)
+# Range: 0 ~ 100000
+randomTeleportZMax = 1000
+
+# QuickHide Command Settings
+[commands.QuickHide]
+# List of random options that can be chosen when using quickhide command
+QuickHideList = [
+  "minecraft:dead_bush,quick hide in these bushes!",
+  "minecraft:wheat,quick hide in the wheat field!",
+  "minecraft:feather,quick act like a chicken!",
+  "minecraft:painting,quick blend into the wall!"
+]
+
+# SummonMount Command Settings
+[commands.SummonMount]
+# List of Classifications for SummonMount command to INCLUDE from possible entities. Use "ANY" for all.
+SummonMountClass = [
+  "ambient",
+  "creature",
+  "water_creature",
+  "water_ambient",
+  "monster"
+]
+# List of entities for SummonMount command to EXCLUDE from possible entities
+SummonMount = [
+  "draconicevolution:draconic_guardian",
+  "minecraft:wither",
+  "minecraft:ender_dragon",
+  "ae2:tiny_tnt_primed",
+  "ars_nouveau:ally_vex",
+  "ars_nouveau:amethyst_golem",
+  "ars_nouveau:an_lightning",
+  "ars_nouveau:animated_block",
+  "ars_nouveau:animated_head",
+  "ars_nouveau:arcing_spell_proj",
+  "ars_nouveau:blazing_weald_walker",
+  "ars_nouveau:bookwyrm",
+  "ars_nouveau:cascading_weald_walker",
+  "ars_nouveau:drygmy",
+  "ars_nouveau:dummy",
+  "ars_nouveau:enchanted_falling_block",
+  "ars_nouveau:enchanted_head_block",
+  "ars_nouveau:enchanted_mage_block",
+  "ars_nouveau:familiar_amethyst_golem",
+  "ars_nouveau:familiar_bookwyrm",
+  "ars_nouveau:familiar_drygmy",
+  "ars_nouveau:familiar_starbuncle",
+  "ars_nouveau:familiar_whirlisprig",
+  "ars_nouveau:familiar_wixie",
+  "ars_nouveau:fangs",
+  "ars_nouveau:flourishing_weald_walker",
+  "ars_nouveau:flying_item",
+  "ars_nouveau:follow_proj",
+  "ars_nouveau:gift_starby",
+  "ars_nouveau:homing_spell_proj",
+  "ars_nouveau:lily",
+  "ars_nouveau:linger",
+  "ars_nouveau:orbit",
+  "ars_nouveau:ritual",
+  "ars_nouveau:scryer_camera",
+  "ars_nouveau:spell_arrow",
+  "ars_nouveau:spell_proj",
+  "ars_nouveau:spike",
+  "ars_nouveau:starbuncle",
+  "ars_nouveau:summon_horse",
+  "ars_nouveau:summon_skeleton",
+  "ars_nouveau:summon_wolf",
+  "ars_nouveau:vexing_weald_walker",
+  "ars_nouveau:wall",
+  "ars_nouveau:whirlisprig",
+  "ars_nouveau:wilden_boss",
+  "ars_nouveau:wilden_guardian",
+  "ars_nouveau:wilden_hunter",
+  "ars_nouveau:wilden_stalker",
+  "ars_nouveau:wixie",
+  "bagus_lib:mini_bagu",
+  "cfm:seat",
+  "cofh_core:electric_field",
+  "cofh_core:frost_field",
+  "cofh_core:knife",
+  "create:carriage_contraption",
+  "create:contraption",
+  "create:crafting_blueprint",
+  "create:gantry_contraption",
+  "create:potato_projectile",
+  "create:seat",
+  "create:stationary_contraption",
+  "create:super_glue",
+  "create_enchantment_industry:hyper_experience_bottle",
+  "create_enchantment_industry:hyper_experience_orb",
+  "createbigcannons:ap_autocannon",
+  "createbigcannons:ap_shell",
+  "createbigcannons:ap_shot",
+  "createbigcannons:bag_of_grapeshot",
+  "createbigcannons:cannon_carriage",
+  "createbigcannons:drop_mortar_shell",
+  "createbigcannons:flak_autocannon",
+  "createbigcannons:fluid_blob",
+  "createbigcannons:fluid_shell",
+  "createbigcannons:grapeshot",
+  "createbigcannons:he_shell",
+  "createbigcannons:machine_gun_bullet",
+  "createbigcannons:mortar_stone",
+  "createbigcannons:pitch_contraption",
+  "createbigcannons:shot",
+  "createbigcannons:shrapnel",
+  "createbigcannons:shrapnel_shell",
+  "createbigcannons:smoke_emitter",
+  "createbigcannons:smoke_shell",
+  "createbigcannons:traffic_cone",
+  "cyclic:boomerang_carry",
+  "cyclic:boomerang_damage",
+  "cyclic:boomerang_stun",
+  "cyclic:conveyor_item",
+  "cyclic:darkfire_bolt",
+  "cyclic:dungeon",
+  "cyclic:ender_fishing",
+  "cyclic:eye",
+  "cyclic:fire_bolt",
+  "cyclic:lightning_bolt",
+  "cyclic:magic_missile",
+  "cyclic:magic_net",
+  "cyclic:snow_bolt",
+  "cyclic:stone_bolt",
+  "cyclic:torch_bolt",
+  "dimpaintings:dimensional_painting",
+  "doapi:chair",
+  "earthmobsmod:bone_shard",
+  "earthmobsmod:duck_egg",
+  "earthmobsmod:fancy_egg",
+  "earthmobsmod:smelly_egg",
+  "earthmobsmod:stray_bone_shard",
+  "enderio:painted_sand",
+  "endertrigon:baby_ender_dragon",
+  "endertrigon:dragon_flame",
+  "fairylights:fastener",
+  "forcecraft:fairy",
+  "forcecraft:force_arrow",
+  "forcecraft:force_flask",
+  "friendsandfoes:glare",
+  "friendsandfoes:ice_chunk",
+  "friendsandfoes:iceologer",
+  "friendsandfoes:wildfire",
+  "gateways:endless_gateway",
+  "gateways:normal_gateway",
+  "ghastcow:ghast_cow",
+  "glow_sticks:glow_stick",
+  "immersive_paintings:glow_graffiti",
+  "immersive_paintings:glow_painting",
+  "immersive_paintings:graffiti",
+  "immersive_paintings:painting",
+  "immersiveengineering:bulwark",
+  "immersiveengineering:cart_metalbarrel",
+  "immersiveengineering:cart_reinforcedcrate",
+  "immersiveengineering:cart_woodenbarrel",
+  "immersiveengineering:cart_woodencrate",
+  "immersiveengineering:chemthrower_shot",
+  "immersiveengineering:commando",
+  "immersiveengineering:explosive",
+  "immersiveengineering:fluorescent_tube",
+  "immersiveengineering:fusilier",
+  "immersiveengineering:railgun_shot",
+  "immersiveengineering:revolver_shot",
+  "immersiveengineering:revolver_shot_flare",
+  "immersiveengineering:revolver_shot_homing",
+  "immersiveengineering:revolver_shot_wolfpack",
+  "immersiveengineering:sawblade",
+  "immersiveengineering:skyline_hook",
+  "industrialforegoing:infinity_nuke",
+  "industrialforegoing:launcher_projectile_entity",
+  "industrialforegoing:trident_entity",
+  "insanelib:area_effect_cloud_3d",
+  "interiors:big_seat",
+  "littlecontraptions:contraption_barge",
+  "littlelogistics:barge",
+  "littlelogistics:barrel_barge",
+  "littlelogistics:barrel_car",
+  "littlelogistics:chest_car",
+  "littlelogistics:chunk_loader_barge",
+  "littlelogistics:chunk_loader_car",
+  "littlelogistics:energy_locomotive",
+  "littlelogistics:energy_tug",
+  "littlelogistics:fishing_barge",
+  "littlelogistics:fluid_barge",
+  "littlelogistics:fluid_car",
+  "littlelogistics:seater_barge",
+  "littlelogistics:seater_car",
+  "littlelogistics:steam_locomotive",
+  "littlelogistics:tug",
+  "littlelogistics:vacuum_barge",
+  "luphieclutteredmod:imperial_and_pastel_chair_entity",
+  "luphieclutteredmod:log_bed_seating_entity",
+  "luphieclutteredmod:log_set_seating_entity",
+  "luphieclutteredmod:lovely_love_seats_entity",
+  "luphieclutteredmod:luphie_armchair_entity",
+  "luphieclutteredmod:mushroom_bed_seat_entity",
+  "luphieclutteredmod:pastel_chair_entity",
+  "luphieclutteredmod:rovers_stool_entity",
+  "luphieclutteredmod:unliving_chair_entity",
+  "minecraft:area_effect_cloud",
+  "minecraft:armor_stand",
+  "minecraft:arrow",
+  "minecraft:block_display",
+  "minecraft:boat",
+  "minecraft:chest_boat",
+  "minecraft:chest_minecart",
+  "minecraft:command_block_minecart",
+  "minecraft:dragon_fireball",
+  "minecraft:egg",
+  "minecraft:end_crystal",
+  "minecraft:ender_pearl",
+  "minecraft:evoker_fangs",
+  "minecraft:experience_bottle",
+  "minecraft:experience_orb",
+  "minecraft:eye_of_ender",
+  "minecraft:falling_block",
+  "minecraft:fireball",
+  "minecraft:firework_rocket",
+  "minecraft:fishing_bobber",
+  "minecraft:furnace_minecart",
+  "minecraft:glow_item_frame",
+  "minecraft:goat",
+  "minecraft:hopper_minecart",
+  "minecraft:interaction",
+  "minecraft:item",
+  "minecraft:item_display",
+  "minecraft:item_frame",
+  "minecraft:leash_knot",
+  "minecraft:lightning_bolt",
+  "minecraft:llama_spit",
+  "minecraft:marker",
+  "minecraft:minecart",
+  "minecraft:painting",
+  "minecraft:player",
+  "minecraft:potion",
+  "minecraft:shulker_bullet",
+  "minecraft:small_fireball",
+  "minecraft:snowball",
+  "minecraft:spawner_minecart",
+  "minecraft:spectral_arrow",
+  "minecraft:text_display",
+  "minecraft:tnt",
+  "minecraft:tnt_minecart",
+  "minecraft:trident",
+  "minecraft:wither_skull",
+  "monsterplus:bloody_slash",
+  "monsterplus:crystal_arrow",
+  "monsterplus:crystal_clump",
+  "monsterplus:crystal_spikes",
+  "monsterplus:mother_lava_squid",
+  "monsterplus:purple_fireball",
+  "monsterplus:spike_countdown",
+  "naturesaura:effect_inhibitor",
+  "naturesaura:light_projectile",
+  "naturesaura:mover_cart",
+  "naturesaura:structure_finder",
+  "overweight_farming:overweight_apple_falling_block",
+  "railways:benchcart",
+  "railways:conductor",
+  "railways:jukeboxcart",
+  "shetiphiancore:gui_item",
+  "silentgear:arrow",
+  "silentgear:fishing_hook",
+  "silentgear:slingshot_projectile",
+  "simplehats:hatdisplay",
+  "sophisticatedbackpacks:everlasting_backpack_item",
+  "spelled:spell",
+  "supplementaries:bomb",
+  "supplementaries:brick_projectile",
+  "supplementaries:dispenser_minecart",
+  "supplementaries:falling_ash",
+  "supplementaries:falling_lantern",
+  "supplementaries:falling_sack",
+  "supplementaries:falling_urn",
+  "supplementaries:hat_stand",
+  "supplementaries:pearl_marker",
+  "supplementaries:red_merchant",
+  "supplementaries:rope_arrow",
+  "supplementaries:slingshot_projectile",
+  "terraform:boat",
+  "terraform:chest_boat",
+  "thermal:basalz_projectile",
+  "thermal:blitz_projectile",
+  "thermal:blizz_projectile",
+  "thermal:earth_grenade",
+  "thermal:earth_tnt",
+  "thermal:earth_tnt_minecart",
+  "thermal:ender_grenade",
+  "thermal:ender_tnt",
+  "thermal:ender_tnt_minecart",
+  "thermal:energy_minecart",
+  "thermal:explosive_grenade",
+  "thermal:fire_grenade",
+  "thermal:fire_tnt",
+  "thermal:fire_tnt_minecart",
+  "thermal:florb",
+  "thermal:fluid_minecart",
+  "thermal:glowstone_grenade",
+  "thermal:glowstone_tnt",
+  "thermal:glowstone_tnt_minecart",
+  "thermal:ice_grenade",
+  "thermal:ice_tnt",
+  "thermal:ice_tnt_minecart",
+  "thermal:lightning_grenade",
+  "thermal:lightning_tnt",
+  "thermal:lightning_tnt_minecart",
+  "thermal:nuke_grenade",
+  "thermal:nuke_tnt",
+  "thermal:nuke_tnt_minecart",
+  "thermal:phyto_grenade",
+  "thermal:phyto_tnt",
+  "thermal:phyto_tnt_minecart",
+  "thermal:redstone_grenade",
+  "thermal:redstone_tnt",
+  "thermal:redstone_tnt_minecart",
+  "thermal:rubberwood_boat",
+  "thermal:rubberwood_chest_boat",
+  "thermal:slime_grenade",
+  "thermal:slime_tnt",
+  "thermal:slime_tnt_minecart",
+  "thermal:underwater_minecart",
+  "vinery:chair",
+  "xercapaint:canvas",
+  "xercapaint:easel"
+]
+# Custom name for SummonMount entities.
+summonMountCustomName = true
+# Try to summon entity already tamed.
+summonMountTamed = true
+
+# SummonRider Command Settings
+[commands.SummonRider]
+# List of Classifications for SummonRide command to INCLUDE from possible entities. Use "ANY" for all.
+SummonRiderClass = ["ambient", "creature", "water_creature", "water_ambient"]
+
+# DisplayDeathBoard Command Settings
+[commands.DisplayDeathBoard]
+# List of strings to put at the end based on position. Ranks without a separate value will use whatever the last value is
+DisplayDeathBoard = [" rip"]
+
+# RandomGift Command Settings
+[commands.RandomGift]
+# List of items (resource location,amount,weighted chance) to be chosen for RandomGift command to choose from
+RandomGift = ["minecraft:diamond,1,1", "minecraft:feather,64,99"]
+
+# RandomTeleportDirection Command Settings
+[commands.RandomTeleportDirection]
+# Teleports user in a random direction with the given amount as distance from their original spot
+# Range: 0 ~ 100000
+RandomTeleportDirection = 1000
+# Miniumum Y offset from original Y level. (i.e. 10 means when teleported will be at least 10 blocks higher or lower than original position
+# Range: 0 ~ 30000000
+randomTeleportdDirectionYMin = 0
+# Maximum Y offset from original Y level. (i.e. 100 means when teleported will be less than 100 blocks higher or lower than original position
+# Range: 0 ~ 30000000
+randomTeleportYDirectionMax = 320
+
+# RandomEnchanting Command Settings
+[commands.RandomEnchanting]
+# List of enchantment(s) for RandomEnchanting command to EXCLUDE from possible enchantments (i.e. minecraft:vanishing_curse)
+RandomEnchantingExclude = []
+# Force random enchantment on even if normally cannot go on item.
+randomEnchantForce = true

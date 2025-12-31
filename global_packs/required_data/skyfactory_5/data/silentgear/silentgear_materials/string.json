@@ -1,0 +1,83 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 1,
+    "categories": ["organic", "fiber"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "type": "silentlib:exclusion",
+      "value": {
+        "tag": "forge:string"
+      },
+      "exclusions": [
+        {
+          "item": "silentgear:flax_string"
+        },
+        {
+          "item": "silentgear:fluffy_string"
+        },
+        {
+          "item": "silentgear:sinew_fiber"
+        }
+      ]
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.string"
+  },
+  "stats": {
+    "binding": {
+      "repair_efficiency": {
+        "mul1": 0.05
+      }
+    },
+    "cord": {
+      "ranged_speed": {
+        "mul1": 0.1
+      }
+    }
+  },
+  "traits": {
+    "binding": [
+      {
+        "name": "silentgear:flexible",
+        "level": 1
+      }
+    ]
+  },
+  "model": {
+    "binding/all": [
+      {
+        "texture": "silentgear:binding_generic"
+      }
+    ],
+    "binding/part": [
+      {
+        "texture": "silentgear:binding"
+      }
+    ],
+    "cord/all": [
+      {
+        "texture": "silentgear:bowstring_string"
+      },
+      {
+        "texture": "silentgear:arrow"
+      }
+    ],
+    "cord/part": [
+      {
+        "texture": "silentgear:bowstring"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:cloth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "Enable": true,
+  "LightBlock": [
+    {
+      "block": "tintedcampfires:lime_campfire",
+      "r": 57,
+      "g": 240,
+      "b": 14,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:red_campfire",
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:blue_campfire",
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:black_campfire",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:brown_campfire",
+      "r": 89,
+      "g": 56,
+      "b": 31,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:cyan_campfire",
+      "r": 48,
+      "g": 225,
+      "b": 185,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:gray_campfire",
+      "r": 51,
+      "g": 51,
+      "b": 51,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:green_campfire",
+      "r": 22,
+      "g": 95,
+      "b": 22,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:light_blue_campfire",
+      "r": 143,
+      "g": 211,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:light_gray_campfire",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:magenta_campfire",
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:orange_campfire",
+      "r": 251,
+      "g": 107,
+      "b": 29,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:pink_campfire",
+      "r": 255,
+      "g": 100,
+      "b": 255,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:purple_campfire",
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 50,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:white_campfire",
+      "r": 75,
+      "g": 75,
+      "b": 75,
+      "a": 25,
+      "radius": 14
+    },
+    {
+      "block": "tintedcampfires:yellow_campfire",
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 25,
+      "radius": 14
+    }
+  ],
+  "LightItem": [],
+  "Bloom": [],
+  "ColorReference": {},
+  "BuildIn": false
+}

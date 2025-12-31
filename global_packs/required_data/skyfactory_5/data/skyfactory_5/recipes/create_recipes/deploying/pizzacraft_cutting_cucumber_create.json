@@ -1,0 +1,19 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "sushigocrafting:cucumber"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "results": [
+    {
+      "item": "sushigocrafting:cucumber_slices",
+      "nbt": "{Amount:80}",
+      "count": 1
+    }
+  ]
+}

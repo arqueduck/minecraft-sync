@@ -1,0 +1,9 @@
+{
+  "type": "thismatters:matter_recipe",
+  "ingredients": [
+    {
+      "item": "gateways:gate_pearl"
+    }
+  ],
+  "matter": 25
+}

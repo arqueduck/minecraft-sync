@@ -1,0 +1,51 @@
+{
+  "conditions": [
+    {
+      "modid": "monsterplus",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "monsterplus:glow_skeleton",
+  "variants": [],
+  "name": "entity.monsterplus.glow_skeleton",
+  "name_color": "#169c9d",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:cyan_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.glow_skeleton",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:bone",
+      "count": 4
+    },
+    {
+      "item": "minecraft:arrow",
+      "count": 4
+    },
+    {
+      "item": "minecraft:spectral_arrow",
+      "count": 2
+    },
+    {
+      "item": "minecraft:glow_ink_sac",
+      "count": 2
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "item": "yellow_snow:yellow_snow"
+    },
+    {
+      "item": "yellow_snow:yellow_snow"
+    }
+  ],
+  "energy": {
+    "rfpertick": 20,
+    "ticks": 60
+  },
+  "result": {
+    "fluid": "colouredstuff:water_yellow",
+    "count": 1000
+  }
+}

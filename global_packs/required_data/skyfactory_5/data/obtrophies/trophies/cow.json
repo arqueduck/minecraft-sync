@@ -1,0 +1,15 @@
+{
+  "entity": "minecraft:cow",
+  "behavior": {
+    "type": "obtrophies:right_click_item",
+    "execute_behavior": {
+      "type": "obtrophies:item",
+      "item": "minecraft:milk_bucket"
+    },
+    "item_to_use": "minecraft:bucket",
+    "shrink_item_stack": true,
+    "sound": "minecraft:entity.cow.milk"
+  },
+  "offset": 0,
+  "scale": 1
+}

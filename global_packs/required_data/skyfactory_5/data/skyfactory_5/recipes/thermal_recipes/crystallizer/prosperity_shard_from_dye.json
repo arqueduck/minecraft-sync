@@ -1,0 +1,18 @@
+{
+  "type": "thermal:crystallizer",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": [
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    }
+  ],
+  "energy": 350
+}

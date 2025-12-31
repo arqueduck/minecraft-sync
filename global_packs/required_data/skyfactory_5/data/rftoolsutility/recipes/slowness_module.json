@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "forcecraft:strider_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:slowness_module"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,19 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 2
+    },
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:gilded_blackstone",
+      "count": 1
+    }
+  ],
+  "energy": 120000
+}

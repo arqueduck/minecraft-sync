@@ -1,0 +1,8 @@
+{
+  type: "registry",
+  location: "sf5_things:block_of_meat",
+  absorption: 0.72,
+  efficiency: 0.7,
+  moderation: 1.95,
+  conductivity: 3.0,
+}

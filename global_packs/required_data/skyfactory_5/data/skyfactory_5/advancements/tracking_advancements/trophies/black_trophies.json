@@ -1,0 +1,140 @@
+{
+  "display": {
+    "icon": {
+      "item": "obtrophies:trophy",
+      "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:black\"}}"
+    },
+    "title": "Black Trophies!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/trophies/root",
+  "criteria": {
+    "Adelie Penguin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"waddles:adelie_penguin\"}}"
+          }
+        ]
+      }
+    },
+    "Black Vein Creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:black\"}}"
+          }
+        ]
+      }
+    },
+    "Cave Spider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:cave_spider\"}}"
+          }
+        ]
+      }
+    },
+    "Ender Dragon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ender_dragon\"}}"
+          }
+        ]
+      }
+    },
+    "Ender Tot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:ender_tot\"}}"
+          }
+        ]
+      }
+    },
+    "Enderman": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:enderman\"}}"
+          }
+        ]
+      }
+    },
+    "Spider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:spider\"}}"
+          }
+        ]
+      }
+    },
+    "Umbra Cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:umbra_cow\"}}"
+          }
+        ]
+      }
+    },
+    "Wither": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:wither\"}}"
+          }
+        ]
+      }
+    },
+    "Wither Skeleton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:wither_skeleton\"}}"
+          }
+        ]
+      }
+    },
+    "Wither Skeleton Wolf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:wither_skeleton_wolf\"}}"
+          }
+        ]
+      }
+    }
+  }
+}

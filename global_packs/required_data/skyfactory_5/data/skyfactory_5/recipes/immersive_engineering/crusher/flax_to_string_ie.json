@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": { "item": "thermal:flax" },
+  "result": {
+    "base_ingredient": { "item": "minecraft:string" },
+    "count": 2
+  },
+  "secondaries": [{ "chance": 0.1, "output": { "item": "thermal:flax_seeds" } }]
+}

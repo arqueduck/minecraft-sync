@@ -1,0 +1,8 @@
+{
+  "values": [
+    "immersiveengineering:plantoil",
+    "createaddition:flowing_seed_oil",
+    "createaddition:seed_oil"
+  ],
+  "replace": true
+}

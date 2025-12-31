@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:zombified_piglin",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:gold_nugget"
+  },
+  "offset": 0,
+  "scale": 1
+}

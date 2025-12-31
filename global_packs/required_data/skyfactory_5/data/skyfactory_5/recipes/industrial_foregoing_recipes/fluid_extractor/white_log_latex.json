@@ -1,0 +1,10 @@
+{
+  "type": "industrialforegoing:fluid_extractor",
+  "breakChance": 0.01,
+  "defaultRecipe": false,
+  "input": {
+    "item": "colouredstuff:log_white"
+  },
+  "output": "{Amount:2,FluidName:\"industrialforegoing:latex\"}",
+  "result": "colouredstuff:log_stripped_white"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "apotheosis:spawner_modifier",
+  "conditions": [
+    {
+      "type": "apotheosis:module",
+      "module": "spawner"
+    }
+  ],
+  "mainhand": {
+    "item": "minecraft:sea_lantern"
+  },
+  "offhand": {
+    "item": "supplementaries:soap"
+  },
+  "consumes_offhand": false,
+  "stat_changes": [
+    {
+      "id": "ignore_light",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:normal/green_vein_creeper\"}"
+    },
+    "title": "Green Normal Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/normal_gateways/gray_normal_gateways",
+  "criteria": {
+    "frog": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/frog\"}"
+          }
+        ]
+      }
+    },
+    "green_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/green_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "green_chu_chu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/green_chu_chu\"}"
+          }
+        ]
+      }
+    },
+    "lobber_zombie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/lobber_zombie\"}"
+          }
+        ]
+      }
+    },
+    "overgrown_skeleton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/overgrown_skeleton\"}"
+          }
+        ]
+      }
+    },
+    "sniffer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/sniffer\"}"
+          }
+        ]
+      }
+    },
+    "swamp_zombie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/swamp_zombie\"}"
+          }
+        ]
+      }
+    },
+    "zombie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/zombie\"}"
+          }
+        ]
+      }
+    },
+    "zombie_horse": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/zombie_horse\"}"
+          }
+        ]
+      }
+    },
+    "zombie_villager": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:normal/zombie_villager\"}"
+          }
+        ]
+      }
+    }
+  }
+}

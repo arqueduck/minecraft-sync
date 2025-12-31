@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#forge:chests/ender",
+    "#forge:chests/trapped",
+    "#forge:chests/wooden",
+    "ars_nouveau:archwood_chest",
+    "sophisticatedstorage:chest",
+    "sophisticatedstorage:copper_chest",
+    "sophisticatedstorage:iron_chest",
+    "sophisticatedstorage:gold_chest",
+    "sophisticatedstorage:diamond_chest",
+    "sophisticatedstorage:netherite_chest"
+  ],
+  "replace": true
+}

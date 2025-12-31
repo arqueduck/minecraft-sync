@@ -1,0 +1,13 @@
+{
+  "type": "thermal:chiller",
+  "ingredient": {
+    "fluid": "colouredstuff:water_purple",
+    "amount": 1000
+  },
+  "result": [
+    {
+      "item": "sf5_things:block_of_purple_dye"
+    }
+  ],
+  "energy": 8000
+}

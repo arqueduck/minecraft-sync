@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "thermal:onion"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "results": [
+    {
+      "item": "pizzacraft:onion_slice",
+      "count": 1
+    }
+  ]
+}

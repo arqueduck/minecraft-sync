@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "gateways:gate_pearl"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "fluid": "cyclic:xpjuice"
+    }
+  ]
+}

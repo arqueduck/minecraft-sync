@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:wayfinder_armor_trim_smithing_template"
+    }
+  ]
+}

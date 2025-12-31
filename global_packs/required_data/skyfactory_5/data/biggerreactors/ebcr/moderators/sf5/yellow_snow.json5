@@ -1,0 +1,8 @@
+{
+  type: "registry",
+  location: "yellow_snow:yellow_snow",
+  absorption: 0.69,
+  efficiency: 0.751,
+  moderation: 2.01,
+  conductivity: 2.1,
+}

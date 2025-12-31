@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": ["N", "I"],
+  "key": {
+    "N": {
+      "tag": "skyfactory_5:torches"
+    },
+    "I": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "mcwlights:bamboo_tiki_torch",
+    "count": 1
+  }
+}

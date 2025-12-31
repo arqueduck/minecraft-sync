@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FF", "FS", " S"],
+  "key": {
+    "F": [
+      {
+        "tag": "forge:ingots/force"
+      }
+    ],
+    "S": [
+      {
+        "tag": "forge:rods"
+      }
+    ]
+  },
+  "result": {
+    "item": "forcecraft:force_axe"
+  }
+}

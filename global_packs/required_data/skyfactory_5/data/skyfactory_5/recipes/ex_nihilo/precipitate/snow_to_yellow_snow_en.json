@@ -1,0 +1,14 @@
+{
+  "type": "exnihilosequentia:precipitate",
+  "fluid": {
+    "amount": 1000,
+    "fluid": "colouredstuff:water_yellow"
+  },
+  "input": {
+    "item": "minecraft:snow_block"
+  },
+  "result": {
+    "count": 1,
+    "item": "yellow_snow:yellow_snow"
+  }
+}

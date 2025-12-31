@@ -1,0 +1,80 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 1,
+    "categories": ["organic", "fiber"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "silentgear:fluffy_string"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.fluffy_string"
+  },
+  "stats": {
+    "binding": {
+      "armor_durability": {
+        "mul1": 0.05
+      },
+      "harvest_speed": {
+        "mul1": -0.05
+      }
+    },
+    "cord": {
+      "ranged_damage": {
+        "mul1": 0.05
+      },
+      "ranged_speed": {
+        "mul1": -0.05
+      }
+    }
+  },
+  "traits": {
+    "binding": [
+      {
+        "name": "silentgear:flexible",
+        "level": 3
+      }
+    ]
+  },
+  "model": {
+    "binding/all": [
+      {
+        "texture": "silentgear:binding_generic",
+        "color": "#FFFAE5"
+      }
+    ],
+    "binding/part": [
+      {
+        "texture": "silentgear:binding",
+        "color": "#FFFAE5"
+      }
+    ],
+    "cord/all": [
+      {
+        "texture": "silentgear:bowstring_string",
+        "color": "#FFFAE5"
+      },
+      {
+        "texture": "silentgear:arrow"
+      }
+    ],
+    "cord/part": [
+      {
+        "texture": "silentgear:bowstring",
+        "color": "#FFFAE5"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:cloth",
+        "color": "#FFFAE5"
+      }
+    ]
+  }
+}

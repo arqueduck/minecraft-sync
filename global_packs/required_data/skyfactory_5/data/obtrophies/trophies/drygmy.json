@@ -1,0 +1,9 @@
+{
+  "entity": "ars_nouveau:drygmy",
+  "scale": 1.5,
+  "variants": [
+    {
+      "color": "cyan"
+    }
+  ]
+}

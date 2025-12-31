@@ -1,0 +1,6 @@
+{
+  "food": "sf5_things:white_apple",
+  "type": "minecraft:plain",
+  "group": "food",
+  "max_stack_size": 64
+}

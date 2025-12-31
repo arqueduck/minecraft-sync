@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "skyfactory_5:color_apples"
+    }
+  ],
+  "results": [
+    {
+      "item": "sf5_things:none_apple"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "minecraft:piston",
+      "count": 4
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 64
+    }
+  ],
+  "enchantment": "minecraft:knockback"
+}

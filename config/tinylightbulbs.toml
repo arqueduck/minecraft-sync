@@ -1,0 +1,23 @@
+
+#General settings.  All configs require game restart
+#Also, to enable colored lighting shimmer effects, 
+[tinylightbulbs]
+
+	[tinylightbulbs.light]
+		#Light level of the regular bulbs
+		#Range: 1 ~ 15
+		bulb = 15
+		#Light level of the LED bulbs
+		#Range: 1 ~ 15
+		led = 14
+		#Light level of the Block bulbs
+		#Range: 1 ~ 15
+		block = 15
+		#Light level of the Panel bulbs
+		#Range: 1 ~ 15
+		panel = 14
+
+	[tinylightbulbs.shimmer]
+		#This mod is an optional dependency, light bulbs are just fine without it.  if true and installed, allows the shimmer Colored Light rendering to affect light bulbs.  Default white color can be very strong but try other dyes.  Either uninstall the mod or set this false to disable it (requires client restart)  https://www.curseforge.com/minecraft/mc-mods/shimmer
+		enabled = true
+

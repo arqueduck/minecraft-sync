@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "title": {
+      "translate": "Exited Nether"
+    },
+    "description": {
+      "translate": "need_to_do.do_this"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "skyfactory_5:dimension_travel/root",
+  "criteria": {
+    "exited_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [["exited_nether"]],
+  "rewards": {
+    "function": "skyfactory_5:exited_nether"
+  }
+}

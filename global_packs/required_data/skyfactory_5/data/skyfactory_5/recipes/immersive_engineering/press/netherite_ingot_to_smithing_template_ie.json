@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:metal_press",
+  "energy": 1000,
+  "input": {
+    "base_ingredient": { "item": "minecraft:netherite_ingot" },
+    "count": 1
+  },
+  "mold": "ae2:fluix_upgrade_smithing_template",
+  "result": { "item": "minecraft:netherite_upgrade_smithing_template" }
+}

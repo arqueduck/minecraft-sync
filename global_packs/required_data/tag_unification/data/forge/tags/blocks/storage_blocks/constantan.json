@@ -1,0 +1,7 @@
+{
+  "values": [
+    "thermal:constantan_block",
+    "immersiveengineering:storage_constantan"
+  ],
+  "replace": true
+}

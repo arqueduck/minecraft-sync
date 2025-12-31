@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:yellow_crop_seeds" },
+  "render": { "type": "crop", "block": "mysticalagriculture:yellow_crop_crop" },
+  "results": [
+    { "count": 2, "item": "mysticalagriculture:yellow_crop_essence" }
+  ],
+  "soil": { "item": "minecraft:dirt" },
+  "time": 640
+}

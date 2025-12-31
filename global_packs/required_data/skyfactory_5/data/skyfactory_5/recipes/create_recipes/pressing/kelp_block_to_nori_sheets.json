@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "sushigocrafting:nori_sheets",
+      "count": 4
+    }
+  ]
+}

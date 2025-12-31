@@ -1,0 +1,84 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["organic", "fiber"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "silentgear:fine_silk"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.fine_silk"
+  },
+  "stats": {
+    "binding": {
+      "magic_armor": {
+        "add": 2.0
+      }
+    },
+    "cord": {
+      "ranged_damage": {
+        "mul1": 0.07
+      }
+    }
+  },
+  "traits": {
+    "binding": [
+      {
+        "name": "silentgear:lucky",
+        "level": 1
+      },
+      {
+        "name": "silentgear:flexible",
+        "level": 4
+      }
+    ],
+    "cord": [
+      {
+        "name": "silentgear:flexible",
+        "level": 2
+      }
+    ]
+  },
+  "model": {
+    "binding/all": [
+      {
+        "texture": "silentgear:binding_generic",
+        "color": "#CCFFFF"
+      }
+    ],
+    "binding/part": [
+      {
+        "texture": "silentgear:binding",
+        "color": "#CCFFFF"
+      }
+    ],
+    "cord/all": [
+      {
+        "texture": "silentgear:bowstring_string",
+        "color": "#CCFFFF"
+      },
+      {
+        "texture": "silentgear:arrow"
+      }
+    ],
+    "cord/part": [
+      {
+        "texture": "silentgear:bowstring",
+        "color": "#CCFFFF"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:cloth",
+        "color": "#CCFFFF"
+      }
+    ]
+  }
+}

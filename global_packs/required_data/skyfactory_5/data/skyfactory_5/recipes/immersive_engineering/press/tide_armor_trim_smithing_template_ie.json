@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:metal_press",
+  "energy": 1000,
+  "input": {
+    "base_ingredient": { "item": "minecraft:prismarine" },
+    "count": 1
+  },
+  "mold": "ae2:fluix_upgrade_smithing_template",
+  "result": { "item": "minecraft:tide_armor_trim_smithing_template" }
+}

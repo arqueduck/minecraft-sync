@@ -1,0 +1,24 @@
+{
+  "type": "silentgear:stat_modifier",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "tool"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.bulky"
+  },
+  "description": {
+    "translate": "trait.silentgear.bulky.desc"
+  },
+  "stats": [
+    {
+      "name": "silentgear:attack_speed",
+      "value": -0.075,
+      "factor_damage": true,
+      "factor_value": false
+    }
+  ]
+}

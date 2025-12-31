@@ -1,0 +1,19 @@
+{
+  "type": "silentgear:wielder_effect",
+  "max_level": 5,
+  "name": {
+    "translate": "trait.silentgear.adamant"
+  },
+  "description": {
+    "translate": "trait.silentgear.adamant.desc"
+  },
+  "potion_effects": {
+    "armor": [
+      {
+        "type": "piece_count",
+        "effect": "minecraft:resistance",
+        "level": [1, 1, 1, 2]
+      }
+    ]
+  }
+}

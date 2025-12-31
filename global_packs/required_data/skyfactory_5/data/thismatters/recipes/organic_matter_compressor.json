@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:cauldron"
+    },
+    "E": {
+      "tag": "forge:gems/emerald"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "O": {
+      "tag": "forge:obsidian"
+    }
+  },
+  "pattern": ["EOE", "OCO", "OIO"],
+  "result": {
+    "item": "thismatters:organic_matter_compressor"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,29 @@
+{
+  "values": [
+    "botania:manasteel_helmet",
+    "botania:manaweave_helmet",
+    "botania:elementium_helmet",
+    "botania:terrasteel_helmet",
+    "minecraft:leather_helmet",
+    "minecraft:turtle_helmet",
+    "minecraft:chainmail_helmet",
+    "minecraft:iron_helmet",
+    "minecraft:golden_helmet",
+    "minecraft:diamond_helmet",
+    "minecraft:netherite_helmet",
+    "immersiveengineering:armor_steel_helmet",
+    "immersiveengineering:armor_faraday_helmet",
+    "ars_nouveau:sorcerer_hood",
+    "ars_nouveau:arcanist_hood",
+    "ars_nouveau:battlemage_hood",
+    "create:copper_diving_helmet",
+    "create:netherite_diving_helmet",
+    "mysticalagriculture:inferium_helmet",
+    "mysticalagriculture:prudentium_helmet",
+    "mysticalagriculture:tertium_helmet",
+    "mysticalagriculture:imperium_helmet",
+    "mysticalagriculture:supremium_helmet",
+    "mysticalagriculture:awakened_supremium_helmet"
+  ],
+  "replace": true
+}

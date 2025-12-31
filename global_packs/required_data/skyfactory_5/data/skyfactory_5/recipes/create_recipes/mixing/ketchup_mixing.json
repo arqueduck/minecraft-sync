@@ -1,0 +1,39 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "thermal:tomato"
+    },
+    {
+      "item": "thermal:tomato"
+    },
+    {
+      "item": "thermal:tomato"
+    },
+    {
+      "item": "thermal:tomato"
+    },
+    {
+      "item": "refurbished_furniture:sea_salt"
+    },
+    {
+      "item": "refurbished_furniture:sea_salt"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_red",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "sf5_things:block_of_ketchup"
+    }
+  ]
+}

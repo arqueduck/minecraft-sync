@@ -1,0 +1,28 @@
+{
+  "values": [
+    "#minecraft:animals_spawnable_on",
+    "#minecraft:goats_spawnable_on",
+    "#minecraft:planks",
+    "#minecraft:slabs",
+    "#minecraft:logs",
+    "#forge:sand",
+    "#forge:cobblestone",
+    "minecraft:lava",
+    "minecraft:netherrack",
+    "minecraft:nether_bricks",
+    "minecraft:cracked_nether_bricks",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:nether_wart_block",
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:obsidian",
+    "minecraft:basalt",
+    "minecraft:gilded_blackstone",
+    "minecraft:magma_block",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:obsidian",
+    "minecraft:end_stone"
+  ]
+}

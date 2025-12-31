@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:iron_to_diamond_tier_upgrade"
+    }
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "pattern": ["GDG", "DID", "GDG"],
+  "result": {
+    "item": "sophisticatedstorage:iron_to_diamond_tier_upgrade"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  ]
+}

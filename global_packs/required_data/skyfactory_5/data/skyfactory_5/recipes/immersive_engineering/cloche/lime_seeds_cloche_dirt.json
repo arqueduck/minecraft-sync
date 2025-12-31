@@ -1,0 +1,8 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:lime_crop_seeds" },
+  "render": { "type": "crop", "block": "mysticalagriculture:lime_crop_crop" },
+  "results": [{ "count": 2, "item": "mysticalagriculture:lime_crop_essence" }],
+  "soil": { "item": "minecraft:dirt" },
+  "time": 640
+}

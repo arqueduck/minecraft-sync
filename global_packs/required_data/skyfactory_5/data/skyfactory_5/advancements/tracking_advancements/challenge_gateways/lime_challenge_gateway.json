@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:challenge/challenge_lime\"}"
+    },
+    "title": "Lime Challenge Gateway",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/challenge_gateways/root",
+  "criteria": {
+    "lime_challenge_gateway": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:challenge/challenge_lime\"}"
+          }
+        ]
+      }
+    }
+  }
+}

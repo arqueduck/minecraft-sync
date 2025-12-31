@@ -1,0 +1,272 @@
+[
+  {
+    "type": "biome",
+    "key": "minecraft:the_end",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 2500,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:the_void",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:forest",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 1500,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:plains",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 1500,
+    "ticks": 1,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:nether_wastes",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:basalt_deltas",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:crimson_forest",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:end_highlands",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:end_midlands",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "minecraft:warped_forest",
+    "rarity": "rare",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_none",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_white",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_light_gray",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_orange",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_cyan",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_magenta",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_purple",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_light_blue",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_blue",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_yellow",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_brown",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_lime",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_green",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_pink",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_red",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_gray",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "biome",
+    "key": "skyfactory_5:biome_black",
+    "rarity": "common",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "colouredstuff:leaves_black"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:wither_rose" }]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sophisticatedbackpacks:item/upgrade_base",
+    "layer1": "sophisticatedbackpacks:item/jukebox_upgrade"
+  }
+}

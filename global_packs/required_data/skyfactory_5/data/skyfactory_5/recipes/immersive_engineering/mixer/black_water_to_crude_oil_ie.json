@@ -1,0 +1,7 @@
+{
+  "type": "immersiveengineering:mixer",
+  "energy": 1600,
+  "fluid": { "amount": 1000, "tag": "skyfactory_5:black_water" },
+  "inputs": [{ "base_ingredient": { "tag": "minecraft:coals" }, "count": 1 }],
+  "result": { "amount": 1000, "fluid": "thermal:crude_oil" }
+}

@@ -1,0 +1,33 @@
+{
+  "entity": "minecraft:polar_bear",
+  "variants": [],
+  "name": "entity.minecraft.polar_bear",
+  "name_color": "#f9ffff",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 2048,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:white_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.polar_bear",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:cod",
+      "count": 4
+    },
+    {
+      "item": "minecraft:salmon",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

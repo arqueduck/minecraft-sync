@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "modid": "ars_nouveau",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "ars_nouveau:drygmy",
+  "variants": [],
+  "name": "entity.ars_nouveau.drygmy",
+  "name_color": "#169c9d",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:cyan_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.drygmy",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:cyan_dye",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

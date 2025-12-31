@@ -1,0 +1,11 @@
+{
+  "entity": "minecraft:dolphin",
+  "behavior": {
+    "type": "obtrophies:mob_effect",
+    "amplifier": 0,
+    "effect": "minecraft:dolphins_grace",
+    "time": 300
+  },
+  "offset": 0,
+  "scale": 1
+}

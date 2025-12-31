@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "results": [
+    {
+      "item": "pizzacraft:mushroom_slice",
+      "count": 1
+    }
+  ]
+}

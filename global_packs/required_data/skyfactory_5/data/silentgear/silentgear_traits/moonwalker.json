@@ -1,0 +1,34 @@
+{
+  "type": "silentgear:attribute",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:or",
+      "values": [
+        {
+          "type": "silentgear:gear_type",
+          "gear_type": "boots"
+        },
+        {
+          "type": "silentgear:gear_type",
+          "gear_type": "curio"
+        }
+      ]
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.moonwalker"
+  },
+  "description": {
+    "translate": "trait.silentgear.moonwalker.desc"
+  },
+  "attribute_modifiers": {
+    "all": [
+      {
+        "attribute": "forge:entity_gravity",
+        "operation": 1,
+        "value": [-0.15, -0.3, -0.45000002, -0.6, -0.75]
+      }
+    ]
+  }
+}

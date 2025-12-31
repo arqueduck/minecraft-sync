@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "exnihilosequentia:crushed_diorite"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_yellow",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "sf5_things:block_of_kitty_litter",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "entity": "minecraft:zombie",
+  "variants": [],
+  "name": "entity.minecraft.zombie",
+  "name_color": "#5d7c15",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 1280,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:green_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.zombie",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:rotten_flesh",
+      "count": 4
+    },
+    {
+      "item": "minecraft:potato",
+      "count": 4
+    },
+    {
+      "item": "minecraft:carrot",
+      "count": 4
+    },
+    {
+      "item": "limbs:zombie_torso",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombie_right_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombie_right_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombie_left_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombie_left_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombie_head",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

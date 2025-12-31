@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:lake",
+  "config": {
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "sf5_things:block_of_black_dye"
+      }
+    },
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:lava",
+        "Properties": {
+          "level": "0"
+        }
+      }
+    }
+  }
+}

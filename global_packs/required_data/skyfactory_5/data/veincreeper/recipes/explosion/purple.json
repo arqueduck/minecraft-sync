@@ -1,0 +1,16 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "purple",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "sf5_things:block_of_purple_dye"
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:purple"
+    }
+  ]
+}

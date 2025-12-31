@@ -1,0 +1,19 @@
+{
+  "type": "silentgear:attribute",
+  "max_level": 5,
+  "name": {
+    "translate": "trait.silentgear.reach"
+  },
+  "description": {
+    "translate": "trait.silentgear.reach.desc"
+  },
+  "attribute_modifiers": {
+    "all": [
+      {
+        "attribute": "forge:block_reach",
+        "operation": 0,
+        "value": [0.5, 1.0, 1.5, 2.0, 3.0]
+      }
+    ]
+  }
+}

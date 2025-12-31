@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fEf"],
+  "key": {
+    "E": {
+      "item": "rftoolsbase:infused_enderpearl"
+    },
+    "P": {
+      "item": "rftoolsutility:moduleplus_template"
+    },
+    "f": {
+      "item": "minecraft:ghast_tear"
+    },
+    "S": {
+      "item": "forcecraft:bee_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:flight_module"
+  },
+  "show_notification": false
+}

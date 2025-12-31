@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "thermal:cheese_wedge",
+    "sushigocrafting:cheese",
+    "sf5_things:block_of_blue_cheese"
+  ]
+}

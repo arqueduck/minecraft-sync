@@ -1,0 +1,22 @@
+{
+  "type": "silentgear:block_placer",
+  "max_level": 1,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "tool"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.refractive"
+  },
+  "description": {
+    "translate": "trait.silentgear.refractive.desc"
+  },
+  "block": "silentgear:phantom_light",
+  "damage_on_use": 5,
+  "cooldown": 0,
+  "sound": "minecraft:block.amethyst_block.step",
+  "sound_volume": 0.75,
+  "sound_pitch": 0.5
+}

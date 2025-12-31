@@ -1,0 +1,14 @@
+{
+  "values": [
+    "immersiveengineering:pickaxe_steel",
+    "pickletweaks:flint_pickaxe",
+    "pickletweaks:emerald_pickaxe",
+    "mysticalagriculture:inferium_pickaxe",
+    "mysticalagriculture:prudentium_pickaxe",
+    "mysticalagriculture:tertium_pickaxe",
+    "mysticalagriculture:imperium_pickaxe",
+    "mysticalagriculture:supremium_pickaxe",
+    "mysticalagriculture:awakened_supremium_pickaxe"
+  ],
+  "replace": true
+}

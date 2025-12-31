@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:barrel"
+    }
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:acacia_planks"
+    },
+    "S": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "pattern": ["PSP", "P P", "PSP"],
+  "result": {
+    "item": "sophisticatedstorage:barrel",
+    "nbt": "{woodType:\"acacia\"}"
+  }
+}

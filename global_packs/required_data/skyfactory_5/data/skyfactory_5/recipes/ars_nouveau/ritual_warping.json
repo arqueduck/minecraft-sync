@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "colouredstuff:log_magenta"
+    },
+    {
+      "item": "ars_nouveau:warp_scroll"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_warping"
+  }
+}

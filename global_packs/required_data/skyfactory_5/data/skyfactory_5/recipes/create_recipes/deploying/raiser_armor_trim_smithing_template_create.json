@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "minecraft:brown_terracotta"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:raiser_armor_trim_smithing_template"
+    }
+  ]
+}

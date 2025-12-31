@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "EPE", "fEf"],
+  "key": {
+    "E": {
+      "item": "rftoolsbase:infused_enderpearl"
+    },
+    "P": {
+      "item": "rftoolsutility:moduleplus_template"
+    },
+    "f": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "forcecraft:iron_golem_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:peaceful_module"
+  },
+  "show_notification": false
+}

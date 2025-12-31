@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "tag": "minecraft:coals"
+  },
+  "result": [
+    {
+      "item": "enderio:powdered_coal",
+      "chance": 1.1
+    }
+  ],
+  "experience": 0.1
+}

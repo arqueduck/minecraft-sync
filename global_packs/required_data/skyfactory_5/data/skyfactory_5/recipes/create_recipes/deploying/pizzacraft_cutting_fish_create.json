@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "tag": "forge:foods/fish/raw"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "results": [
+    {
+      "item": "pizzacraft:fish_fillet",
+      "count": 1
+    }
+  ]
+}

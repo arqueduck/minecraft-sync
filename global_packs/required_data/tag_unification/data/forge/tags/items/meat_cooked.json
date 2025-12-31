@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:cooked_beef",
+    "pizzacraft:cooked_wing",
+    "colourfulllamas:llama_steak_cooked",
+    "colourfulgoats:goat_steak_cooked"
+  ],
+  "replace": true
+}

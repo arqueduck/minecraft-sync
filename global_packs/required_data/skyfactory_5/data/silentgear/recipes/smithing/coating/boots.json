@@ -1,0 +1,13 @@
+{
+  "type": "silentgear:smithing/coating",
+  "addition": {
+    "type": "silentgear:material",
+    "part_type": "silentgear:coating"
+  },
+  "gear": {
+    "item": "silentgear:boots"
+  },
+  "template": {
+    "item": "silentgear:boots_blueprint"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "immersiveengineering:mixer",
+  "energy": 1001,
+  "fluid": { "amount": 1000, "tag": "skyfactory_5:orange_water" },
+  "inputs": [
+    { "base_ingredient": { "item": "minecraft:fire_charge" }, "count": 1 }
+  ],
+  "result": { "amount": 1000, "fluid": "enderio:fire_water" }
+}

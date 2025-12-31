@@ -1,0 +1,7 @@
+{
+  "priority": 69420,
+  "panel": "obscure_tooltips:sf5",
+  "icon": "obscure_tooltips:rare",
+  "effects": ["obscure_tooltips:sf5"],
+  "filter": {}
+}

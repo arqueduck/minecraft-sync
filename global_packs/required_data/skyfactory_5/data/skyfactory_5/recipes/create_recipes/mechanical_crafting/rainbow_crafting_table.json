@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "0": { "item": "colouredstuff:crafting_table_none" },
+    "1": { "item": "colouredstuff:crafting_table_black" },
+    "2": { "item": "colouredstuff:crafting_table_blue" },
+    "3": { "item": "colouredstuff:crafting_table_brown" },
+    "4": { "item": "colouredstuff:crafting_table_cyan" },
+    "5": { "item": "colouredstuff:crafting_table_gray" },
+    "6": { "item": "colouredstuff:crafting_table_green" },
+    "7": { "item": "colouredstuff:crafting_table_light_blue" },
+    "8": { "item": "colouredstuff:crafting_table_light_gray" },
+    "9": { "item": "colouredstuff:crafting_table_lime" },
+    "a": { "item": "colouredstuff:crafting_table_magenta" },
+    "b": { "item": "colouredstuff:crafting_table_orange" },
+    "c": { "item": "colouredstuff:crafting_table_pink" },
+    "d": { "item": "colouredstuff:crafting_table_purple" },
+    "e": { "item": "colouredstuff:crafting_table_red" },
+    "f": { "item": "colouredstuff:crafting_table_white" },
+    "g": { "item": "colouredstuff:crafting_table_yellow" }
+  },
+  "pattern": [" 012 ", "34567", "  8  ", "9abcd", " efg "],
+  "result": {
+    "count": 1,
+    "item": "colouredstuff:crafting_table_rainbow"
+  }
+}

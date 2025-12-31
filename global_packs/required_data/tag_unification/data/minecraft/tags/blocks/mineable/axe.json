@@ -1,0 +1,31 @@
+{
+  "values": [
+    "colouredstuff:wall_planks_none",
+    "colouredstuff:wall_planks_black",
+    "colouredstuff:wall_planks_blue",
+    "colouredstuff:wall_planks_brown",
+    "colouredstuff:wall_planks_cyan",
+    "colouredstuff:wall_planks_gray",
+    "colouredstuff:wall_planks_green",
+    "colouredstuff:wall_planks_light_blue",
+    "colouredstuff:wall_planks_light_gray",
+    "colouredstuff:wall_planks_lime",
+    "colouredstuff:wall_planks_magenta",
+    "colouredstuff:wall_planks_orange",
+    "colouredstuff:wall_planks_pink",
+    "colouredstuff:wall_planks_purple",
+    "colouredstuff:wall_planks_red",
+    "colouredstuff:wall_planks_white",
+    "colouredstuff:wall_planks_yellow",
+    "colouredstuff:trapdoor_planks_black",
+    "cyclic:hopper",
+    "cyclic:ender_item_shelf",
+    "cyclic:doorbell",
+    "cyclic:sound_recorder",
+    "cyclic:sound_player",
+    "cyclic:workbench",
+    "cyclic:crate_mini",
+    "cyclic:crate",
+    "cyclic:cask"
+  ]
+}

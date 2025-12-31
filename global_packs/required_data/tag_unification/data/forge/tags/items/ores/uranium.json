@@ -1,0 +1,9 @@
+{
+  "values": [
+    "immersiveengineering:ore_uranium",
+    "immersiveengineering:deepslate_ore_uranium",
+    "biggerreactors:uranium_ore",
+    "biggerreactors:deepslate_uranium_ore"
+  ],
+  "replace": true
+}

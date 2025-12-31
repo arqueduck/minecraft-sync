@@ -1,0 +1,9 @@
+[Tooltips]
+# Show profession tooltip for items containing villager entities
+showVillagerProfession = true
+# Require shift to be pressed down to show profession
+requireShiftForProfession = false
+# Hides all mention of entity health from tooltips, this also hides <Hold Shift> for enderio soul vials if there is nothing (additional) to show
+hideEntityHealthFromTooltip = false
+# Show localized villager profession names universally, not just where they thematically apply
+localizeAllProfessions = true

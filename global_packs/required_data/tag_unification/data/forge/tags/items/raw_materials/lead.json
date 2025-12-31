@@ -1,0 +1,8 @@
+{
+  "values": [
+    "thermal:raw_lead",
+    "immersiveengineering:raw_lead",
+    "exnihilosequentia:raw_lead"
+  ],
+  "replace": true
+}

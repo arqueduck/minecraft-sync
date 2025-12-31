@@ -1,0 +1,18 @@
+{
+  "type": "silentgear:simple_trait",
+  "max_level": 5,
+  "name": {
+    "translate": "trait.silentgear.multi_break"
+  },
+  "description": {
+    "translate": "trait.silentgear.multi_break.desc"
+  },
+  "extra_wiki_lines": [
+    {
+      "text": "  - This trait has never been coded ~~and has almost achieved meme status~~"
+    },
+    {
+      "text": "  - Intended effect: mine multiple blocks like vein miner"
+    }
+  ]
+}

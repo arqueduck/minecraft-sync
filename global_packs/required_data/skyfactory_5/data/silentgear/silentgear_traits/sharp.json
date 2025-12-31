@@ -1,0 +1,30 @@
+{
+  "type": "silentgear:stat_modifier",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:gear_type",
+      "gear_type": "tool"
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.sharp"
+  },
+  "description": {
+    "translate": "trait.silentgear.sharp.desc"
+  },
+  "stats": [
+    {
+      "name": "silentgear:harvest_speed",
+      "value": 0.125,
+      "factor_damage": false,
+      "factor_value": false
+    },
+    {
+      "name": "silentgear:melee_damage",
+      "value": 0.125,
+      "factor_damage": false,
+      "factor_value": false
+    }
+  ]
+}

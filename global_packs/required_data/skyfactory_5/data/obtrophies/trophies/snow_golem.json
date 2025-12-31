@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:snow_golem",
+  "offset": 0,
+  "scale": 1,
+  "variants": [
+    {
+      "Pumpkin": "true"
+    }
+  ]
+}

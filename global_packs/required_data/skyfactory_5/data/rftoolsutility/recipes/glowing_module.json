@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:glowstone"
+    },
+    "S": {
+      "item": "forcecraft:turtle_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:glowing_module"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,112 @@
+{
+  "values": [
+    "#forge:vines",
+    "#forge:cactus",
+    "#forge:dead_plants",
+    "minecraft:tube_coral_fan",
+    "minecraft:brain_coral_fan",
+    "minecraft:bubble_coral_fan",
+    "minecraft:fire_coral_fan",
+    "minecraft:horn_coral_fan",
+    "minecraft:nether_sprouts",
+    "minecraft:crimson_roots",
+    "minecraft:warped_roots",
+    "minecraft:lily_pad",
+    "minecraft:kelp",
+    "minecraft:seagrass",
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:dead_bush",
+    "minecraft:seagrass",
+    "minecraft:large_fern",
+    "minecraft:glow_lichen",
+    "minecraft:small_dripleaf",
+    "minecraft:big_dripleaf",
+    {
+      "id": "tconstruct:ender_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:earth_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:blood_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:earth_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:blood_slime_fern",
+      "required": false
+    },
+    "#forge:vines",
+    "#forge:cactus",
+    "#forge:dead_plants",
+    "minecraft:tube_coral_fan",
+    "minecraft:brain_coral_fan",
+    "minecraft:bubble_coral_fan",
+    "minecraft:fire_coral_fan",
+    "minecraft:horn_coral_fan",
+    "minecraft:nether_sprouts",
+    "minecraft:crimson_roots",
+    "minecraft:warped_roots",
+    "minecraft:lily_pad",
+    "minecraft:kelp",
+    "minecraft:seagrass",
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:dead_bush",
+    "minecraft:seagrass",
+    "minecraft:large_fern",
+    {
+      "id": "tconstruct:ender_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:earth_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:blood_slime_tall_grass",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:earth_slime_fern",
+      "required": false
+    },
+    {
+      "id": "tconstruct:blood_slime_fern",
+      "required": false
+    }
+  ],
+  "replace": true
+}

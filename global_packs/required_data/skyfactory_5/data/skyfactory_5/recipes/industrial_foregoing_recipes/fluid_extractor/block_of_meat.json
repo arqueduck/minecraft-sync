@@ -1,0 +1,10 @@
+{
+  "type": "industrialforegoing:fluid_extractor",
+  "breakChance": 0.01,
+  "defaultRecipe": false,
+  "input": {
+    "item": "sf5_things:block_of_meat"
+  },
+  "output": "{Amount:2,FluidName:\"industrialforegoing:meat\"}",
+  "result": "sf5_things:block_of_jerky"
+}

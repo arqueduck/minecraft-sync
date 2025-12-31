@@ -1,0 +1,97 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "title": "Blue Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.blue.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/black_stage",
+  "criteria": {
+    "water_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:water_bucket"]
+          }
+        ]
+      }
+    },
+    "water_bottle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:potion"],
+            "nbt": "{Potion:\"minecraft:water\"}"
+          }
+        ]
+      }
+    },
+    "wooden_bucket_water": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["woodenbucket:wooden_bucket"],
+            "nbt": "{Fluid:{Amount:1000,FluidName:\"minecraft:water\"}}"
+          }
+        ]
+      }
+    },
+    "blue_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:blue_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "blue_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:blue_crop_essence"]
+          }
+        ]
+      }
+    },
+    "blue_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:blue_ice"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "water_bucket",
+      "water_bottle",
+      "wooden_bucket_water",
+      "blue_essence",
+      "blue_essence_seeds",
+      "blue_ice"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/blue_stage"
+  }
+}

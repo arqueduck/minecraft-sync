@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:powered_rail"
+    },
+    "S": {
+      "item": "forcecraft:fox_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:speed_module"
+  },
+  "show_notification": false
+}

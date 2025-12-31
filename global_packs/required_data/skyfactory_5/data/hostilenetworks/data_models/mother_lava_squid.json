@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "modid": "monsterplus",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "monsterplus:mother_lava_squid",
+  "variants": [],
+  "name": "entity.monsterplus.mother_lava_squid",
+  "name_color": "#f9801d",
+  "display_nbt": {},
+  "gui_scale": 0.25,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 4096,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:orange_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.mother_lava_squid",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 4
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

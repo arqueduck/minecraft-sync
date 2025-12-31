@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "minecraft:spectral_arrow",
+      "count": 32
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 64
+    }
+  ],
+  "enchantment": "minecraft:infinity"
+}

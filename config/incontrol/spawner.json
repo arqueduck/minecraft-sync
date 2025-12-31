@@ -1,0 +1,1156 @@
+[
+  {
+    "mob": ["minecraft:wither_skeleton", "minecraft:magma_cube"],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:ender_dragon"],
+    "persecond": 1,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:ravager",
+      "ghastcow:ghast_cow",
+      "minecraft:elder_guardian"
+    ],
+    "persecond": 1,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:evoker",
+      "minecraft:vindicator",
+      "minecraft:pillager",
+      "minecraft:illusioner"
+    ],
+    "persecond": 2,
+    "attempts": 25,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:shulker", "minecraft:endermite"],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:witch", "earthmobsmod:viler_witch"],
+    "persecond": 2,
+    "attempts": 25,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:guardian"],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:warden"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:wither"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "earthmobsmod:bouldering_zombie",
+      "earthmobsmod:lobber_zombie"
+    ],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:creeper", "forcecraft:creeper_tot"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:skeleton", "minecraft:stray"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:spider",
+      "minecraft:cave_spider",
+      "earthmobsmod:bone_spider"
+    ],
+    "persecond": 5,
+    "attempts": 30,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:drowned",
+      "earthmobsmod:bouldering_drowned",
+      "minecraft:husk",
+      "minecraft:enderman",
+      "forcecraft:ender_tot",
+      "earthmobsmod:lobber_drowned"
+    ],
+    "persecond": 5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:piglin",
+      "minecraft:piglin_brute",
+      "minecraft:zombified_piglin"
+    ],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:sheep", "earthmobsmod:horned_sheep"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:llama",
+      "minecraft:trader_llama",
+      "minecraft:camel",
+      "minecraft:panda"
+    ],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:pig",
+      "earthmobsmod:zombified_pig",
+      "earthmobsmod:teacup_pig"
+    ],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:chicken", "earthmobsmod:fancy_chicken"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:mooshroom",
+      "earthmobsmod:cluck_shroom",
+      "earthmobsmod:wooly_cow",
+      "earthmobsmod:cream_cow",
+      "earthmobsmod:moolip",
+      "earthmobsmod:moobloom",
+      "earthmobsmod:albino_cow",
+      "earthmobsmod:umbra_cow",
+      "earthmobsmod:magma_cow"
+    ],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:parrot", "waddles:adelie_penguin"],
+    "persecond": 2,
+    "attempts": 30,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:cow"],
+    "persecond": 20,
+    "attempts": 5,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:goat", "colourfulgoats:goat"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["energeticsheep:energetic_sheep"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:turtle", "minecraft:frog"],
+    "persecond": 10,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inwater": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:strider", "minecraft:silverfish"],
+    "persecond": 5,
+    "attempts": 50,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "inlava": false,
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:slime",
+      "forcecraft:blue_chu_chu",
+      "forcecraft:gold_chu_chu",
+      "forcecraft:green_chu_chu",
+      "forcecraft:red_chu_chu"
+    ],
+    "persecond": 2,
+    "attempts": 10,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:horse", "minecraft:donkey", "vinery:mule"],
+    "persecond": 1,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:skeleton_horse", "minecraft:zombie_horse"],
+    "persecond": 1,
+    "attempts": 5,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:rabbit",
+      "earthmobsmod:hyper_rabbit",
+      "earthmobsmod:jumbo_rabbit"
+    ],
+    "persecond": 1,
+    "attempts": 5,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:hoglin", "minecraft:zoglin"],
+    "persecond": 5,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:ocelot",
+      "minecraft:cat",
+      "minecraft:fox",
+      "minecraft:wolf",
+      "minecraft:polar_bear",
+      "earthmobsmod:skeleton_wolf",
+      "earthmobsmod:wither_skeleton_wolf"
+    ],
+    "persecond": 2,
+    "attempts": 30,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:sniffer"],
+    "persecond": 1,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:snow_golem",
+      "minecraft:iron_golem",
+      "earthmobsmod:furnace_golem",
+      "earthmobsmod:melon_golem"
+    ],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:villager"],
+    "persecond": 1,
+    "attempts": 25,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:blaze", "lava_monster:lava_monster"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:cod",
+      "minecraft:pufferfish",
+      "minecraft:tropical_fish",
+      "minecraft:salmon",
+      "sushigocrafting:tuna",
+      "sushigocrafting:shrimp"
+    ],
+    "persecond": 2,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:bat"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 8,
+      "maximum": 8
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:squid",
+      "minecraft:dolphin",
+      "minecraft:glow_squid",
+      "minecraft:axolotl"
+    ],
+    "persecond": 1,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:allay", "forcecraft:fairy"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:ghast", "earthmobsmod:baby_ghast"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:phantom"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["minecraft:bee"],
+    "persecond": 1,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "veincreeper:magenta",
+      "veincreeper:pink",
+      "veincreeper:yellow",
+      "veincreeper:cyan",
+      "veincreeper:red",
+      "veincreeper:gray",
+      "veincreeper:white",
+      "veincreeper:green",
+      "veincreeper:light_gray",
+      "veincreeper:lime",
+      "veincreeper:black",
+      "veincreeper:light_blue",
+      "veincreeper:brown",
+      "veincreeper:orange",
+      "veincreeper:blue",
+      "veincreeper:purple"
+    ],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["monsterplus:glow_skeleton", "monsterplus:overgrown_skeleton"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["monsterplus:opalescent_eye"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["monsterplus:abyssologer"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["monsterplus:swamp_zombie", "monsterplus:crystal_zombie"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": ["monsterplus:mother_lava_squid", "monsterplus:lava_squid"],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "minecraft:villager",
+      "minecraft:wandering_trader",
+      "vinery:wandering_winemaker"
+    ],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  },
+  {
+    "mob": [
+      "ars_nouveau:drygmy",
+      "ars_nouveau:whirlisprig",
+      "ars_nouveau:starbuncle"
+    ],
+    "persecond": 2,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "mindist": 24,
+      "maxdist": 96,
+      "validspawn": true,
+      "sturdy": true
+    }
+  }
+]

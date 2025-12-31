@@ -1,0 +1,42 @@
+{
+  "type": "mysticalagriculture:awakening",
+  "transfer_nbt": true,
+  "essences": [
+    {
+      "item": "mysticalagriculture:light_blue_crop_essence",
+      "count": 40
+    },
+    {
+      "item": "mysticalagriculture:brown_crop_essence",
+      "count": 40
+    },
+    {
+      "item": "mysticalagriculture:blue_crop_essence",
+      "count": 40
+    },
+    {
+      "item": "mysticalagriculture:orange_crop_essence",
+      "count": 40
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:supremium_shovel"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:awakened_supremium_shovel"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pitcher_pod",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat_seeds",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bamboo",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potato",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "exnihilosequentia:silkworm",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "silentgear:template_board",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:green_dye",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sea_pickle",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatbag_common",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatbag_uncommon",
+          "weight": 80
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatbag_rare",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatbag_epic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatscraps_common",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatbag_summer",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplehats:hatscraps_uncommon",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:blue_archwood_sapling",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:green_archwood_sapling",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:red_archwood_sapling",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:purple_archwood_sapling",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/sniffer_digging"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "lapis_creeper",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "minecraft:lapis_ore",
+    "bonus": "minecraft:lapis_block",
+    "bonusChance": 15
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:lapis_creeper"
+    }
+  ]
+}

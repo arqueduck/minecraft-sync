@@ -1,0 +1,9 @@
+{
+  "values": [
+    "cofh_core:honey",
+    "cyclic:honey",
+    "create:flowing_honey",
+    "create:honey"
+  ],
+  "replace": true
+}

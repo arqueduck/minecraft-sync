@@ -1,0 +1,10 @@
+{
+  "modid": "appliedcooking",
+  "kitchenConnectors": [],
+  "kitchenItemProviders": [
+    "appliedcooking:kitchen_station",
+    "craftingforblockheads:workbench",
+    "colouredstuff:crafting_table_none",
+    "sophisticatedstorage:chest"
+  ]
+}

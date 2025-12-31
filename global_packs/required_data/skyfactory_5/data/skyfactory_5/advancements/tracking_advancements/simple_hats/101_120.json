@@ -1,0 +1,155 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:fishonhead"
+    },
+    "title": "101-120",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/81_100",
+  "criteria": {
+    "fishonhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:fishonhead"] }]
+      }
+    },
+    "flagjuly": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:flagjuly"] }]
+      }
+    },
+    "flies": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:flies"] }]
+      }
+    },
+    "floatinghearts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:floatinghearts"] }]
+      }
+    },
+    "floatingstar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:floatingstar"] }]
+      }
+    },
+    "flowercrown": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:flowercrown"] }]
+      }
+    },
+    "floweronhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:floweronhead"] }]
+      }
+    },
+    "foxhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:foxhat"] }]
+      }
+    },
+    "fro": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "player": [], "items": [{ "items": ["simplehats:fro"] }] }
+    },
+    "frozenhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:frozenhead"] }]
+      }
+    },
+    "fullironhelm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:fullironhelm"] }]
+      }
+    },
+    "ghostmask": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:ghostmask"] }]
+      }
+    },
+    "goggles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:goggles"] }]
+      }
+    },
+    "grandmadisguise": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:grandmadisguise"] }]
+      }
+    },
+    "greenbirb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:greenbirb"] }]
+      }
+    },
+    "grinchhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:grinchhat"] }]
+      }
+    },
+    "halo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:halo"] }]
+      }
+    },
+    "headbolts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:headbolts"] }]
+      }
+    },
+    "headphonesblue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:headphonesblue"] }]
+      }
+    },
+    "headshot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:headshot"] }]
+      }
+    }
+  }
+}

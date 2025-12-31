@@ -1,0 +1,25 @@
+{
+  "type": "lychee:item_inside",
+  "item_in": {
+    "item": "minecraft:diamond"
+  },
+  "block_in": {
+    "blocks": ["minecraft:lava"]
+  },
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "sf5_things:dirt_and_worms"
+    },
+    {
+      "type": "execute",
+      "command": "particle minecraft:explosion ~ ~ ~",
+      "hide": true
+    },
+    {
+      "type": "execute",
+      "command": "playsound railways:conductor_whistle block @e[type=player,distance=..5] ~ ~ ~ 0.25",
+      "hide": true
+    }
+  ]
+}

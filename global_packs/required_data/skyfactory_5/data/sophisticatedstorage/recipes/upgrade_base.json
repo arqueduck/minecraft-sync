@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:upgrade_base"
+    }
+  ],
+  "key": {
+    "I": {
+      "item": "silentgear:template_board"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": ["PIP", "IPI", "PIP"],
+  "result": {
+    "item": "sophisticatedstorage:upgrade_base"
+  }
+}

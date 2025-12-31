@@ -1,0 +1,9 @@
+{
+  "name": "Yellow",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:2",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust"
+  }
+}

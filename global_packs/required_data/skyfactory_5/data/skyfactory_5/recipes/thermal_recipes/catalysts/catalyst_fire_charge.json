@@ -1,0 +1,11 @@
+{
+  "type": "thermal:pulverizer_catalyst",
+  "ingredient": {
+    "item": "minecraft:fire_charge"
+  },
+  "primary_mod": 1.0,
+  "secondary_mod": 5.0,
+  "energy_mod": 0.85,
+  "min_chance": 0.4,
+  "use_chance": 0.5
+}

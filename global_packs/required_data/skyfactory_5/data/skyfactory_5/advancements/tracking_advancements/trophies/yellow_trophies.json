@@ -1,0 +1,96 @@
+{
+  "display": {
+    "icon": {
+      "item": "obtrophies:trophy",
+      "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:yellow\"}}"
+    },
+    "title": "Yellow Trophies!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/trophies/white_trophies",
+  "criteria": {
+    "Bee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:bee\"}}"
+          }
+        ]
+      }
+    },
+    "Camel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:camel\"}}"
+          }
+        ]
+      }
+    },
+    "Cream Cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:cream_cow\"}}"
+          }
+        ]
+      }
+    },
+    "Gold Chu Chu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:gold_chu_chu\"}}"
+          }
+        ]
+      }
+    },
+    "Moobloom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:moobloom\"}}"
+          }
+        ]
+      }
+    },
+    "Ocelot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ocelot\"}}"
+          }
+        ]
+      }
+    },
+    "Yellow Vein Creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["obtrophies:trophy"],
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:yellow\"}}"
+          }
+        ]
+      }
+    }
+  }
+}

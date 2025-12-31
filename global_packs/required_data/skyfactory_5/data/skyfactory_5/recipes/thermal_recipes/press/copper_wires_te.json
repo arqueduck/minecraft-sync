@@ -1,0 +1,18 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "thermal:copper_plate"
+    },
+    {
+      "item": "immersiveengineering:mold_wire"
+    }
+  ],
+  "result": [
+    {
+      "item": "immersiveengineering:wire_copper",
+      "count": 2
+    }
+  ],
+  "energy": 1000
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:glowstone"
+    },
+    "S": {
+      "item": "forcecraft:enderman_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:nightvision_module"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:pufferfish",
+  "offset": 0,
+  "scale": 2,
+  "variants": [
+    {
+      "PuffState": "2"
+    }
+  ]
+}

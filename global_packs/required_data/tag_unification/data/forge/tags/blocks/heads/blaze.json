@@ -1,0 +1,4 @@
+{
+  "values": ["heads:blaze_head", "heads:blaze_wall_head"],
+  "replace": true
+}

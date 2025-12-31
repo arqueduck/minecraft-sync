@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["SSS", "DSD", "SSS"],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "mysticalagriculture:rgb_crop_essence"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:tinkering_table"
+  }
+}

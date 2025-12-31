@@ -1,0 +1,226 @@
+# Client Configuration
+[client]
+
+[client.options]
+# If the hotbar should display item borders.
+hotbar = true
+# If item borders should show for common items.
+show_for_common = false
+# If the borders should have square corners.
+square_corners = true
+# If the borders should fully envelop item slots (otherwise they will only show on the bottom portion of the slot).
+full_border = false
+# If the borders draw over items instead of under.
+over_items = false
+# If the borders should have a more prominent glow.
+extra_glow = false
+# If automatic borders (based on item rarity) should be enabled.
+auto_borders = true
+# If enabled and Legendary Tooltips is installed, borders will sync with tooltip border colors.
+legendary_tooltips_sync = false
+
+# Custom border colors for specific items. Format: { <color> = ["list of selectors"] }.
+# Color formats supported:
+#   Hex color code - A hex color code is preceded by # or 0x and must be quoted.  Supports 3, 4, 6, or 8 digit codes in the formats RGB, ARGB, RRGGBB, or AARRGGBB.  Examples: "#F4C", "0xFEE0", "#40FF2E", "#CC00E2EE"
+#   Decimal color code - A decimal color code, which is just a hex color code converted to decimal.  May or may not be quoted.  Examples: 15614720, "4278251143"
+#   Minecraft color name - One of the standard 16 Minecraft color names.  May or may not be quoted.  Examples: "red", "dark_purple", "gold"
+#   Web color name - One of the standard 140 web/HTML color names or "transparent".  May or may not be quoted.  Examples: "chartreuse", "darkorange", "deeppink", "deepskyblue"
+#   Modifiers - Colors specified in any of the above formats can be modified by using modifiers.
+#     Modifiers are specified after any color in the format "<+, -, or =><h, s, v, r, g, b, or a><amount>".
+#     The letters represent h - hue, s - saturation, v - value, r - red, g - green, b - blue, a - alpha.
+#     Valid amounts are 0 to 255 for all types except hue, which accepts 0 to 359.
+#     Using any modifiers will REQUIRE the key to be quoted.
+#       Examples: "red+h15", "#saddlebrown-v20+s5", "10_aqua_aqua+v15-h5", "#F4C-r15-v10=a40"
+#   Animated color - An animated color that fades from one to another in sequence.
+#     A string in the format "<duration in seconds>_<list of color definitions separated by underscores>".  May or may not be quoted.  Examples: "10_black_#7FFF00", "5.5_gold_orange_orangered", "20_red_orange_yellow_green_blue_purple"
+# Selectors supported:
+#   Match all - Specifying just an asterisk (*) will match all items.  Examples: "*"
+#   Item ID - Use item ID to match single items.  Must include mod name for modded items.  Examples: "minecraft:stick", "iron_ore", "spoiledeggs:spoiled_egg"
+#   Tag - $ followed by tag name to match all items with that tag.  Examples: "$forge:stone", "$planks"
+#   Mod name - @ followed by mod identifier to match all items from that mod.  Examples: "@spoiledeggs"
+#   Rarity - ! followed by item's rarity to match all items with that rarity.  This is ONLY vanilla rarities.  Examples: "!uncommon", "!rare", "!epic"
+#   Item name color - # followed by color hex code, to match all items with that exact color item name.  Examples: "#23F632"
+#   Display name - % followed by any text.  Will match any item with this text (case-sensitive) in its tooltip display name.  Examples: "%Netherite", "%Uncommon"
+#   Tooltip text - ^ followed by any text.  Will match any item with this text (case-sensitive) anywhere in the tooltip text (besides the name).  Examples: "^Legendary"
+#   NBT tag - & followed by tag name and optional comparator (=, >, <, or !=) and value, in the format <tag><comparator><value> or just <tag>.  Examples: "&Damage=0", "&Tier>1", "&map!=128", "&Enchantments"
+#   Negation - ~ followed by any selector above.  This selector will be negated, matching every item that does NOT match the selector.  Examples: "~minecraft:stick", "~!uncommon", "~@minecraft"
+#   Combining selectors - Any number of selectors can be combined by separating them with a plus sign.  Examples: "minecraft:diamond_sword+&Enchantments", "minecraft:stick+~!common+&Damage=0"
+[client.options.manual_borders]
+"#169c9d" = [
+  "obtrophies:trophy+&entity=ars_nouveau:drygmy",
+  "obtrophies:trophy+&entity=earthmobsmod:fancy_chicken",
+  "obtrophies:trophy+&entity=earthmobsmod:stray_bone_spider",
+  "obtrophies:trophy+&entity=earthmobsmod:tropical_slime",
+  "obtrophies:trophy+&entity=minecraft:glow_squid",
+  "obtrophies:trophy+&entity=minecraft:warden",
+  "obtrophies:trophy+&entity=monsterplus:glow_skeleton",
+  "obtrophies:trophy+&entity=veincreeper:cyan"
+]
+"#1d1c21" = [
+  "obtrophies:trophy+&entity=earthmobsmod:umbra_cow",
+  "obtrophies:trophy+&entity=earthmobsmod:wither_skeleton_wolf",
+  "obtrophies:trophy+&entity=forcecraft:ender_tot",
+  "obtrophies:trophy+&entity=minecraft:cave_spider",
+  "obtrophies:trophy+&entity=minecraft:ender_dragon",
+  "obtrophies:trophy+&entity=minecraft:enderman",
+  "obtrophies:trophy+&entity=minecraft:spider",
+  "obtrophies:trophy+&entity=minecraft:wither",
+  "obtrophies:trophy+&entity=minecraft:wither_skeleton",
+  "obtrophies:trophy+&entity=veincreeper:black",
+  "obtrophies:trophy+&entity=waddles:adelie_penguin"
+]
+"#3ab3da" = [
+  "obtrophies:trophy+&entity=forcecraft:fairy",
+  "obtrophies:trophy+&entity=minecraft:allay",
+  "obtrophies:trophy+&entity=minecraft:dolphin",
+  "obtrophies:trophy+&entity=minecraft:vex",
+  "obtrophies:trophy+&entity=sushigocrafting:tuna",
+  "obtrophies:trophy+&entity=veincreeper:light_blue"
+]
+"#3c44a9" = [
+  "obtrophies:trophy+&entity=earthmobsmod:bouldering_drowned",
+  "obtrophies:trophy+&entity=earthmobsmod:lobber_drowned",
+  "obtrophies:trophy+&entity=earthmobsmod:viler_witch",
+  "obtrophies:trophy+&entity=forcecraft:blue_chu_chu",
+  "obtrophies:trophy+&entity=minecraft:drowned",
+  "obtrophies:trophy+&entity=minecraft:phantom",
+  "obtrophies:trophy+&entity=minecraft:squid",
+  "obtrophies:trophy+&entity=minecraft:trader_llama",
+  "obtrophies:trophy+&entity=minecraft:wandering_trader",
+  "obtrophies:trophy+&entity=veincreeper:blue"
+]
+"#474f52" = [
+  "obtrophies:trophy+&entity=earthmobsmod:bouldering_zombie",
+  "obtrophies:trophy+&entity=minecraft:cat",
+  "obtrophies:trophy+&entity=minecraft:evoker",
+  "obtrophies:trophy+&entity=minecraft:illusioner",
+  "obtrophies:trophy+&entity=minecraft:pillager",
+  "obtrophies:trophy+&entity=minecraft:ravager",
+  "obtrophies:trophy+&entity=minecraft:silverfish",
+  "obtrophies:trophy+&entity=minecraft:vindicator",
+  "obtrophies:trophy+&entity=monsterplus:abyssologer",
+  "obtrophies:trophy+&entity=veincreeper:gray"
+]
+"#5d7c15" = [
+  "obtrophies:trophy+&entity=earthmobsmod:lobber_zombie",
+  "obtrophies:trophy+&entity=forcecraft:green_chu_chu",
+  "obtrophies:trophy+&entity=minecraft:frog",
+  "obtrophies:trophy+&entity=minecraft:sniffer",
+  "obtrophies:trophy+&entity=minecraft:zombie",
+  "obtrophies:trophy+&entity=minecraft:zombie_horse",
+  "obtrophies:trophy+&entity=minecraft:zombie_villager",
+  "obtrophies:trophy+&entity=monsterplus:overgrown_skeleton",
+  "obtrophies:trophy+&entity=monsterplus:swamp_zombie",
+  "obtrophies:trophy+&entity=veincreeper:green"
+]
+"#80c71f" = [
+  "obtrophies:trophy+&entity=ars_nouveau:whirlisprig",
+  "obtrophies:trophy+&entity=forcecraft:creeper_tot",
+  "obtrophies:trophy+&entity=minecraft:creeper",
+  "obtrophies:trophy+&entity=minecraft:slime",
+  "obtrophies:trophy+&entity=minecraft:turtle",
+  "obtrophies:trophy+&entity=veincreeper:lime"
+]
+"#825432" = [
+  "obtrophies:trophy+&entity=ghastcow:ghast_cow",
+  "obtrophies:trophy+&entity=minecraft:bat",
+  "obtrophies:trophy+&entity=minecraft:cod",
+  "obtrophies:trophy+&entity=minecraft:cow",
+  "obtrophies:trophy+&entity=minecraft:donkey",
+  "obtrophies:trophy+&entity=minecraft:horse",
+  "obtrophies:trophy+&entity=minecraft:husk",
+  "obtrophies:trophy+&entity=minecraft:rabbit",
+  "obtrophies:trophy+&entity=minecraft:tadpole",
+  "obtrophies:trophy+&entity=minecraft:villager",
+  "obtrophies:trophy+&entity=veincreeper:brown",
+  "obtrophies:trophy+&entity=vinery:mule"
+]
+"#8932b7" = [
+  "obtrophies:trophy+&entity=earthmobsmod:bone_spider",
+  "obtrophies:trophy+&entity=minecraft:endermite",
+  "obtrophies:trophy+&entity=minecraft:shulker",
+  "obtrophies:trophy+&entity=veincreeper:purple"
+]
+"#9c9d97" = [
+  "obtrophies:trophy+&entity=earthmobsmod:furnace_golem",
+  "obtrophies:trophy+&entity=minecraft:elder_guardian",
+  "obtrophies:trophy+&entity=minecraft:guardian",
+  "obtrophies:trophy+&entity=minecraft:iron_golem",
+  "obtrophies:trophy+&entity=minecraft:stray",
+  "obtrophies:trophy+&entity=minecraft:witch",
+  "obtrophies:trophy+&entity=minecraft:wolf",
+  "obtrophies:trophy+&entity=veincreeper:light_gray"
+]
+"#b02e26" = [
+  "obtrophies:trophy+&entity=earthmobsmod:cluck_shroom",
+  "obtrophies:trophy+&entity=forcecraft:red_chu_chu",
+  "obtrophies:trophy+&entity=minecraft:mooshroom",
+  "obtrophies:trophy+&entity=minecraft:parrot",
+  "obtrophies:trophy+&entity=minecraft:salmon",
+  "obtrophies:trophy+&entity=minecraft:strider",
+  "obtrophies:trophy+&entity=veincreeper:red",
+  "obtrophies:trophy+&entity=vinery:wandering_winemaker"
+]
+"#c64fbd" = [
+  "obtrophies:trophy+&entity=ars_nouveau:starbuncle",
+  "obtrophies:trophy+&entity=monsterplus:crystal_zombie",
+  "obtrophies:trophy+&entity=veincreeper:magenta"
+]
+"#f38caa" = [
+  "obtrophies:trophy+&entity=earthmobsmod:jumbo_rabbit",
+  "obtrophies:trophy+&entity=earthmobsmod:moolip",
+  "obtrophies:trophy+&entity=earthmobsmod:teacup_pig",
+  "obtrophies:trophy+&entity=earthmobsmod:zombified_pig",
+  "obtrophies:trophy+&entity=minecraft:axolotl",
+  "obtrophies:trophy+&entity=minecraft:hoglin",
+  "obtrophies:trophy+&entity=minecraft:pig",
+  "obtrophies:trophy+&entity=minecraft:piglin",
+  "obtrophies:trophy+&entity=minecraft:piglin_brute",
+  "obtrophies:trophy+&entity=minecraft:zoglin",
+  "obtrophies:trophy+&entity=minecraft:zombified_piglin",
+  "obtrophies:trophy+&entity=sushigocrafting:shrimp",
+  "obtrophies:trophy+&entity=veincreeper:pink"
+]
+"#f9801d" = [
+  "obtrophies:trophy+&entity=earthmobsmod:hyper_rabbit",
+  "obtrophies:trophy+&entity=earthmobsmod:magma_cow",
+  "obtrophies:trophy+&entity=earthmobsmod:wooly_cow",
+  "obtrophies:trophy+&entity=lava_monster:lava_monster",
+  "obtrophies:trophy+&entity=minecraft:blaze",
+  "obtrophies:trophy+&entity=minecraft:fox",
+  "obtrophies:trophy+&entity=minecraft:magma_cube",
+  "obtrophies:trophy+&entity=minecraft:pufferfish",
+  "obtrophies:trophy+&entity=minecraft:tropical_fish",
+  "obtrophies:trophy+&entity=monsterplus:lava_squid",
+  "obtrophies:trophy+&entity=monsterplus:mother_lava_squid",
+  "obtrophies:trophy+&entity=veincreeper:orange"
+]
+"#f9ffff" = [
+  "obtrophies:trophy+&entity=colourfulgoats:goat",
+  "obtrophies:trophy+&entity=colourfulllamas:llama",
+  "obtrophies:trophy+&entity=earthmobsmod:albino_cow",
+  "obtrophies:trophy+&entity=earthmobsmod:baby_ghast",
+  "obtrophies:trophy+&entity=earthmobsmod:horned_sheep",
+  "obtrophies:trophy+&entity=earthmobsmod:melon_golem",
+  "obtrophies:trophy+&entity=earthmobsmod:skeleton_wolf",
+  "obtrophies:trophy+&entity=energeticsheep:energetic_sheep",
+  "obtrophies:trophy+&entity=minecraft:chicken",
+  "obtrophies:trophy+&entity=minecraft:ghast",
+  "obtrophies:trophy+&entity=minecraft:panda",
+  "obtrophies:trophy+&entity=minecraft:polar_bear",
+  "obtrophies:trophy+&entity=minecraft:sheep",
+  "obtrophies:trophy+&entity=minecraft:skeleton",
+  "obtrophies:trophy+&entity=minecraft:skeleton_horse",
+  "obtrophies:trophy+&entity=minecraft:snow_golem",
+  "obtrophies:trophy+&entity=monsterplus:opalescent_eye",
+  "obtrophies:trophy+&entity=veincreeper:white"
+]
+"#ffd83d" = [
+  "obtrophies:trophy+&entity=earthmobsmod:cream_cow",
+  "obtrophies:trophy+&entity=earthmobsmod:moobloom",
+  "obtrophies:trophy+&entity=forcecraft:gold_chu_chu",
+  "obtrophies:trophy+&entity=minecraft:bee",
+  "obtrophies:trophy+&entity=minecraft:camel",
+  "obtrophies:trophy+&entity=minecraft:ocelot",
+  "obtrophies:trophy+&entity=veincreeper:yellow"
+]

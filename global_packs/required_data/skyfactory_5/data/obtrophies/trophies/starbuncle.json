@@ -1,0 +1,11 @@
+{
+  "entity": "ars_nouveau:starbuncle",
+  "scale": 2,
+  "variants": [
+    {
+      "starbuncleData": {
+        "color": "purple"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["metal"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:ingots/aluminum"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.aluminum"
+  },
+  "stats": {
+    "main": {
+      "durability": 365.0,
+      "armor_durability": 15.0,
+      "enchantment_value": 14.0,
+      "harvest_level": 2.0,
+      "harvest_speed": 8.0,
+      "melee_damage": 2.0,
+      "magic_damage": 2.0,
+      "attack_speed": 0.2,
+      "armor": 14.0,
+      "armor/helmet": 2.0,
+      "armor/chestplate": 6.0,
+      "armor/leggings": 4.0,
+      "armor/boots": 2.0,
+      "armor_toughness": 0.5,
+      "magic_armor": 3.0,
+      "ranged_damage": 2.0,
+      "ranged_speed": 0.2,
+      "rarity": 25.0,
+      "charging_value": 0.9
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.2
+      },
+      "ranged_damage": {
+        "mul2": 0.1
+      },
+      "rarity": 30.0
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#BFD4DE"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#BFD4DE"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_hc",
+        "color": "#BFD4DE"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#BFD4DE"
+      }
+    ]
+  }
+}

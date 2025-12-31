@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "minecraft:cobblestone",
+    "#forge:stone",
+    "#forge:sandstone",
+    "minecraft:packed_ice",
+    "minecraft:iron_ore",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:emerald_ore",
+    "#minecraft:mineable/pickaxe"
+  ]
+}

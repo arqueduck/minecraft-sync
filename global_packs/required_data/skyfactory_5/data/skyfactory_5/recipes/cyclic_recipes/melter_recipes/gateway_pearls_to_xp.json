@@ -1,0 +1,16 @@
+{
+  "type": "cyclic:melter",
+  "ingredients": [
+    {
+      "item": "gateways:gate_pearl"
+    }
+  ],
+  "energy": {
+    "rfpertick": 80,
+    "ticks": 60
+  },
+  "result": {
+    "fluid": "cyclic:xpjuice",
+    "count": 1000
+  }
+}

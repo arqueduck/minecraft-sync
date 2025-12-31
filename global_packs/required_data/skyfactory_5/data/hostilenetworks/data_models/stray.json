@@ -1,0 +1,68 @@
+{
+  "entity": "minecraft:stray",
+  "variants": [],
+  "name": "entity.minecraft.stray",
+  "name_color": "#9c9d97",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 1280,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:light_gray_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.stray",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:bone",
+      "count": 4
+    },
+    {
+      "item": "minecraft:arrow",
+      "count": 4
+    },
+    {
+      "item": "minecraft:tipped_arrow",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:slowness\"}"
+    },
+    {
+      "item": "limbs:stray_torso",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:stray_right_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:stray_right_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:stray_left_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:stray_left_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:stray_head",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#skyfactory_5:none",
+  "features": "ars_nouveau:placed_mixed_archwoods",
+  "step": "vegetal_decoration"
+}

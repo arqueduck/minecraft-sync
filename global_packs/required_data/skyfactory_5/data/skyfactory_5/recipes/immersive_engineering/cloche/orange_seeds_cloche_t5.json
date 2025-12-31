@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:orange_crop_seeds" },
+  "render": { "type": "crop", "block": "mysticalagriculture:orange_crop_crop" },
+  "results": [
+    { "count": 2, "item": "mysticalagriculture:orange_crop_essence" }
+  ],
+  "soil": { "item": "mysticalagriculture:supremium_farmland" },
+  "time": 240
+}

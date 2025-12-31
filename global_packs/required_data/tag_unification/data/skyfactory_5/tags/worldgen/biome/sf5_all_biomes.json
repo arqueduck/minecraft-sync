@@ -1,0 +1,30 @@
+{
+  "values": [
+    "minecraft:forest",
+    "minecraft:plains",
+    "minecraft:nether_wastes",
+    "minecraft:end_barrens",
+    "minecraft:end_highlands",
+    "minecraft:end_midlands",
+    "minecraft:small_end_islands",
+    "minecraft:the_end",
+    "minecraft:the_void",
+    "skyfactory_5:biome_black",
+    "skyfactory_5:biome_blue",
+    "skyfactory_5:biome_brown",
+    "skyfactory_5:biome_cyan",
+    "skyfactory_5:biome_gray",
+    "skyfactory_5:biome_green",
+    "skyfactory_5:biome_light_blue",
+    "skyfactory_5:biome_light_gray",
+    "skyfactory_5:biome_lime",
+    "skyfactory_5:biome_magenta",
+    "skyfactory_5:biome_orange",
+    "skyfactory_5:biome_pink",
+    "skyfactory_5:biome_purple",
+    "skyfactory_5:biome_red",
+    "skyfactory_5:biome_white",
+    "skyfactory_5:biome_yellow",
+    "skyfactory_5:scp_1689"
+  ]
+}

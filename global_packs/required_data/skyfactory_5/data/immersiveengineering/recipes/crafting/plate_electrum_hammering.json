@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "forge:ingots/electrum" },
+    { "item": "immersiveengineering:hammer" }
+  ],
+  "result": { "item": "thermal:electrum_plate" }
+}

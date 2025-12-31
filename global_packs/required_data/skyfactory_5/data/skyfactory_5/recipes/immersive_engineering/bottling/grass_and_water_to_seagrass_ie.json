@@ -1,0 +1,6 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": { "amount": 250, "tag": "minecraft:water" },
+  "input": { "item": "minecraft:grass" },
+  "results": [{ "item": "minecraft:seagrass" }]
+}

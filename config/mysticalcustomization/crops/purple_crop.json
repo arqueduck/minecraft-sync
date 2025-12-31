@@ -1,0 +1,9 @@
+{
+  "name": "Purple",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:3",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust"
+  }
+}

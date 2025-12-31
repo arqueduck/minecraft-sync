@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:basic_tier_upgrade"
+    }
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": ["PPP", "PSP", "PPP"],
+  "result": {
+    "item": "sophisticatedstorage:basic_tier_upgrade"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "silentgear:compound_part",
+  "ingredients": [
+    {
+      "type": "silentgear:blueprint",
+      "part_type": "silentgear:adornment"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    },
+    {
+      "type": "silentgear:material",
+      "part_type": "silentgear:adornment"
+    }
+  ],
+  "result": {
+    "item": "silentgear:adornment"
+  }
+}

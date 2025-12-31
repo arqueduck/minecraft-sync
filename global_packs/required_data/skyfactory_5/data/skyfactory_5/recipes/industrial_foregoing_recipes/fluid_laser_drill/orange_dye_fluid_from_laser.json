@@ -1,0 +1,18 @@
+{
+  "type": "industrialforegoing:laser_drill_fluid",
+  "catalyst": {
+    "item": "industrialforegoing:laser_lens1"
+  },
+  "entity": "veincreeper:orange",
+  "output": "{Amount:32000,FluidName:\"colouredstuff:water_orange\"}",
+  "pointer": 0,
+  "rarity": [
+    {
+      "blacklist": {},
+      "depth_max": 99,
+      "depth_min": -64,
+      "weight": 0,
+      "whitelist": {}
+    }
+  ]
+}

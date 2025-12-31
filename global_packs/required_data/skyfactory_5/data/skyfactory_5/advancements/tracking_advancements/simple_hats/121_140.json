@@ -1,0 +1,158 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:hockeymask"
+    },
+    "title": "121-140",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/root",
+  "criteria": {
+    "hockeymask": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:hockeymask"] }]
+      }
+    },
+    "holyhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:holyhead"] }]
+      }
+    },
+    "horsemask": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:horsemask"] }]
+      }
+    },
+    "hosthat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:hosthat"] }]
+      }
+    },
+    "icedragonskull": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:icedragonskull"] }]
+      }
+    },
+    "jackohat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:jackohat"] }]
+      }
+    },
+    "jesterhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:jesterhat"] }]
+      }
+    },
+    "julydouble": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:julydouble"] }]
+      }
+    },
+    "kirbymouthful": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:kirbymouthful"] }]
+      }
+    },
+    "largehorns": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:largehorns"] }]
+      }
+    },
+    "lightning_eyes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:lightning_eyes"] }]
+      }
+    },
+    "lilbow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:lilbow"] }]
+      }
+    },
+    "longfoxears": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:longfoxears"] }]
+      }
+    },
+    "madscientist": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:madscientist"] }]
+      }
+    },
+    "magikarp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:magikarp"] }]
+      }
+    },
+    "megamanhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:megamanhat"] }]
+      }
+    },
+    "milady_doll": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:milady_doll"] }]
+      }
+    },
+    "mistletoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:mistletoe"] }]
+      }
+    },
+    "mohawk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:mohawk"] }]
+      }
+    },
+    "monkeyking": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:monkeyking"] }]
+      }
+    }
+  }
+}

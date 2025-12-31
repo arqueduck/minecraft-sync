@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "thermal:flax"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 1,
+      "item": "thermal:flax_seeds",
+      "chance": 0.1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "thermal:lead_ore",
+    "thermal:deepslate_lead_ore",
+    "immersiveengineering:ore_lead",
+    "immersiveengineering:deepslate_ore_lead"
+  ],
+  "replace": true
+}

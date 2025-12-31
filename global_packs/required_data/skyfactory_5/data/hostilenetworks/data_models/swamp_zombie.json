@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "modid": "monsterplus",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "monsterplus:swamp_zombie",
+  "variants": [],
+  "name": "entity.monsterplus.swamp_zombie",
+  "name_color": "#5d7c15",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:green_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.swamp_zombie",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:rotten_flesh",
+      "count": 4
+    },
+    {
+      "item": "minecraft:poisonous_potato",
+      "count": 4
+    },
+    {
+      "item": "minecraft:mud",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

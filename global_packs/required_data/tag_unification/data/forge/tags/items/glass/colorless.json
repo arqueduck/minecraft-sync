@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:glass",
+    {
+      "id": "cyclic:glass_connected",
+      "required": false
+    },
+    "create:tiled_glass",
+    "create:framed_glass",
+    "create:horizontal_framed_glass",
+    "create:vertical_framed_glass"
+  ],
+  "replace": true
+}

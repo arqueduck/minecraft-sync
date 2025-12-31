@@ -1,0 +1,9 @@
+{
+  "values": [
+    "bhc:red_heart",
+    "bhc:yellow_heart",
+    "bhc:green_heart",
+    "bhc:blue_heart"
+  ],
+  "replace": true
+}

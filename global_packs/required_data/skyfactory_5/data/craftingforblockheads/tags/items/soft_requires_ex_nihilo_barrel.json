@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "values": [
+    "exnihilocoloratus:none_barrel",
+    "exnihilocoloratus:white_barrel",
+    "exnihilocoloratus:orange_barrel",
+    "exnihilocoloratus:magenta_barrel",
+    "exnihilocoloratus:light_blue_barrel",
+    "exnihilocoloratus:yellow_barrel",
+    "exnihilocoloratus:lime_barrel",
+    "exnihilocoloratus:pink_barrel",
+    "exnihilocoloratus:gray_barrel",
+    "exnihilocoloratus:light_gray_barrel",
+    "exnihilocoloratus:cyan_barrel",
+    "exnihilocoloratus:purple_barrel",
+    "exnihilocoloratus:blue_barrel",
+    "exnihilocoloratus:brown_barrel",
+    "exnihilocoloratus:green_barrel",
+    "exnihilocoloratus:red_barrel",
+    "exnihilocoloratus:black_barrel"
+  ]
+}

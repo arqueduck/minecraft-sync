@@ -1,0 +1,103 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {},
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:sf5_dye": {
+      "name": "Color Dyes",
+      "icon": {
+        "item": "minecraft:yellow_dye"
+      },
+      "includes": [
+        {
+          "item": "minecraft:white_dye"
+        },
+        {
+          "item": "minecraft:orange_dye"
+        },
+        {
+          "item": "minecraft:magenta_dye"
+        },
+        {
+          "item": "minecraft:light_blue_dye"
+        },
+        {
+          "item": "minecraft:yellow_dye"
+        },
+        {
+          "item": "minecraft:lime_dye"
+        },
+        {
+          "item": "minecraft:pink_dye"
+        },
+        {
+          "item": "minecraft:gray_dye"
+        },
+        {
+          "item": "minecraft:light_gray_dye"
+        },
+        {
+          "item": "minecraft:cyan_dye"
+        },
+        {
+          "item": "minecraft:purple_dye"
+        },
+        {
+          "item": "minecraft:blue_dye"
+        },
+        {
+          "item": "minecraft:brown_dye"
+        },
+        {
+          "item": "minecraft:green_dye"
+        },
+        {
+          "item": "minecraft:red_dye"
+        },
+        {
+          "item": "minecraft:black_dye"
+        },
+        {
+          "item": "sf5_things:rgb_dye"
+        }
+      ],
+      "excludes": [
+        {
+          "recipe": "recipestages:light_gray_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:light_gray_dye_combo2_manual_only"
+        },
+        {
+          "recipe": "recipestages:gray_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:orange_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:purple_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:magenta_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:lime_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:pink_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:cyan_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:light_blue_dye_combo_manual_only"
+        },
+        {
+          "recipe": "recipestages:green_dye_combo_manual_only"
+        }
+      ],
+      "priority": 99998
+    }
+  }
+}

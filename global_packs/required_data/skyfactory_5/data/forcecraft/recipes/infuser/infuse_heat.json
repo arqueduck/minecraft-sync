@@ -1,0 +1,12 @@
+{
+  "type": "forcecraft:infuser",
+  "ingredient": {
+    "tag": "minecraft:coals"
+  },
+  "center": {
+    "tag": "forcecraft:valid_heat_tools"
+  },
+  "tier": 1,
+  "time": 60,
+  "result": "forcecraft:heat"
+}

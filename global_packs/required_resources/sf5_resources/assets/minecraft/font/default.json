@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:muddr_comic_bold_edited.ttf",
+      "shift": [0, 1],
+      "size": 10.0,
+      "oversample": 20
+    }
+  ]
+}

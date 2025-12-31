@@ -1,0 +1,20 @@
+{
+  "values": [
+    "pickletweaks:wooden_sickle",
+    "pickletweaks:stone_sickle",
+    "pickletweaks:iron_sickle",
+    "pickletweaks:golden_sickle",
+    "pickletweaks:diamond_sickle",
+    "pickletweaks:flint_sickle",
+    "pickletweaks:emerald_sickle",
+    "pickletweaks:netherite_sickle",
+    "mysticalagriculture:diamond_sickle",
+    "mysticalagriculture:inferium_sickle",
+    "mysticalagriculture:prudentium_sickle",
+    "mysticalagriculture:tertium_sickle",
+    "mysticalagriculture:imperium_sickle",
+    "mysticalagriculture:supremium_sickle",
+    "mysticalagriculture:awakened_supremium_sickle"
+  ],
+  "replace": true
+}

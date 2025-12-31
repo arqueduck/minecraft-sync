@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_none",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "sf5_things:block_of_colorless_dye"
+    }
+  ]
+}

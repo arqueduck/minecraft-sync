@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "F": {
+      "item": "thermal:machine_frame"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": ["APA", "QFQ", "RDR"],
+  "result": {
+    "item": "forbiddensmoothies:printer"
+  }
+}

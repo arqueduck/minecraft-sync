@@ -1,0 +1,10 @@
+{
+  "modid": "minecraft",
+  "foods": {
+    "GENERAL": ["minecraft:cake"],
+    "INGREDIENTS": ["minecraft:sugar"]
+  },
+  "tools": ["minecraft:bucket"],
+  "water": ["minecraft:water_bucket"],
+  "milk": ["minecraft:milk_bucket"]
+}

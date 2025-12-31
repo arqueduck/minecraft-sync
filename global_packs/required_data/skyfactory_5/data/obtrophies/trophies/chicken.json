@@ -1,0 +1,11 @@
+{
+  "entity": "minecraft:chicken",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 10000,
+    "item": "minecraft:egg",
+    "sound": "minecraft:entity.chicken.egg"
+  },
+  "offset": 0,
+  "scale": 1.5
+}

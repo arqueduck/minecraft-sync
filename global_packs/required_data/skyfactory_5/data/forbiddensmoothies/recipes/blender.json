@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "I": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "pattern": ["III", "GFG", "III"],
+  "result": {
+    "item": "forbiddensmoothies:blender"
+  },
+  "show_notification": true
+}

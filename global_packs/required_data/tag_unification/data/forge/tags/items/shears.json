@@ -1,0 +1,17 @@
+{
+  "values": [
+    "forcecraft:force_shears",
+    "energeticsheep:energetic_shears",
+    "botania:manasteel_shears",
+    "botania:elementium_shears",
+    "minecraft:shears",
+    "silentgear:shears",
+    "mysticalagriculture:inferium_shears",
+    "mysticalagriculture:prudentium_shears",
+    "mysticalagriculture:tertium_shears",
+    "mysticalagriculture:imperium_shears",
+    "mysticalagriculture:supremium_shears",
+    "mysticalagriculture:awakened_supremium_shears"
+  ],
+  "replace": true
+}

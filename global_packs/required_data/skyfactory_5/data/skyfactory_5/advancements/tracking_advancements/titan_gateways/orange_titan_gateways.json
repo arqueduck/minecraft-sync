@@ -1,0 +1,151 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:titan/orange_vein_creeper\"}"
+    },
+    "title": "Orange Titan Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/titan_gateways/root",
+  "criteria": {
+    "blaze": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/blaze\"}"
+          }
+        ]
+      }
+    },
+    "fox": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/fox\"}"
+          }
+        ]
+      }
+    },
+    "hyper_rabbit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/hyper_rabbit\"}"
+          }
+        ]
+      }
+    },
+    "lava_monster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/lava_monster\"}"
+          }
+        ]
+      }
+    },
+    "lava_squid": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/lava_squid\"}"
+          }
+        ]
+      }
+    },
+    "magma_cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/magma_cow\"}"
+          }
+        ]
+      }
+    },
+    "magma_cube": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/magma_cube\"}"
+          }
+        ]
+      }
+    },
+    "mother_lava_squid": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/mother_lava_squid\"}"
+          }
+        ]
+      }
+    },
+    "orange_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/orange_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "pufferfish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/pufferfish\"}"
+          }
+        ]
+      }
+    },
+    "tropical_fish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/tropical_fish\"}"
+          }
+        ]
+      }
+    },
+    "wooly_cow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/wooly_cow\"}"
+          }
+        ]
+      }
+    }
+  }
+}

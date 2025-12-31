@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "cyclic:wax",
+      "required": false
+    }
+  ],
+  "replace": true
+}

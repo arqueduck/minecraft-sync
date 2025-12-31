@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "skyfactory_5:color_seeds"
+  },
+  "result": "mysticalagriculture:black_crop_seeds",
+  "cookingtime": 200
+}

@@ -1,0 +1,339 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:purple_concrete_powder"
+    },
+    "title": "Purple Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.purple.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/root",
+  "criteria": {
+    "amethyst_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:amethyst_block"]
+          }
+        ]
+      }
+    },
+    "chorus_plant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:chorus_plant"]
+          }
+        ]
+      }
+    },
+    "chorus_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:chorus_flower"]
+          }
+        ]
+      }
+    },
+    "purpur_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:purpur_block"]
+          }
+        ]
+      }
+    },
+    "purpur_pillar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:purpur_pillar"]
+          }
+        ]
+      }
+    },
+    "purpur_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:purpur_stairs"]
+          }
+        ]
+      }
+    },
+    "purpur_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:purpur_slab"]
+          }
+        ]
+      }
+    },
+    "amethyst_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:amethyst_shard"]
+          }
+        ]
+      }
+    },
+    "shulker_shell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:shulker_shell"]
+          }
+        ]
+      }
+    },
+    "powdered_obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["create:powdered_obsidian"]
+          }
+        ]
+      }
+    },
+    "regen_potion_1": {
+      "trigger": "minecraft:brewed_potion",
+      "conditions": {
+        "potion": "minecraft:regeneration"
+      }
+    },
+    "regen_potion_2": {
+      "trigger": "minecraft:brewed_potion",
+      "conditions": {
+        "potion": "minecraft:long_regeneration"
+      }
+    },
+    "regen_potion_3": {
+      "trigger": "minecraft:brewed_potion",
+      "conditions": {
+        "potion": "minecraft:strong_regeneration"
+      }
+    },
+    "regen_potion_inventory_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:potion"],
+            "potion": "minecraft:regeneration"
+          }
+        ]
+      }
+    },
+    "regen_potion_inventory_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:potion"],
+            "potion": "minecraft:long_regeneration"
+          }
+        ]
+      }
+    },
+    "regen_potion_inventory_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:potion"],
+            "potion": "minecraft:strong_regeneration"
+          }
+        ]
+      }
+    },
+    "regen_splash_potion_inventory_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:splash_potion"],
+            "potion": "minecraft:regeneration"
+          }
+        ]
+      }
+    },
+    "regen_splash_potion_inventory_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:splash_potion"],
+            "potion": "minecraft:long_regeneration"
+          }
+        ]
+      }
+    },
+    "regen_splash_potion_inventory_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:splash_potion"],
+            "potion": "minecraft:strong_regeneration"
+          }
+        ]
+      }
+    },
+    "regen_lingering_potion_inventory_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:lingering_potion"],
+            "potion": "minecraft:regeneration"
+          }
+        ]
+      }
+    },
+    "regen_lingering_potion_inventory_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:lingering_potion"],
+            "potion": "minecraft:long_regeneration"
+          }
+        ]
+      }
+    },
+    "regen_lingering_potion_inventory_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:lingering_potion"],
+            "potion": "minecraft:strong_regeneration"
+          }
+        ]
+      }
+    },
+    "enchanted_item": {
+      "trigger": "minecraft:enchanted_item",
+      "conditions": {}
+    },
+    "purple_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:purple_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "purple_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:purple_crop_essence"]
+          }
+        ]
+      }
+    },
+    "enchanted_book": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:enchanted_book"]
+          }
+        ]
+      }
+    },
+    "Eggplant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:eggplant"]
+          }
+        ]
+      }
+    },
+    "block_of_grape_hi_chew": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_grape_hi_chew"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "amethyst_block",
+      "chorus_plant",
+      "chorus_flower",
+      "purpur_block",
+      "purpur_pillar",
+      "purpur_stairs",
+      "purpur_slab",
+      "amethyst_shard",
+      "shulker_shell",
+      "powdered_obsidian",
+      "regen_potion_1",
+      "regen_potion_2",
+      "regen_potion_3",
+      "regen_potion_inventory_1",
+      "regen_potion_inventory_2",
+      "regen_potion_inventory_3",
+      "regen_splash_potion_inventory_1",
+      "regen_splash_potion_inventory_2",
+      "regen_splash_potion_inventory_3",
+      "regen_lingering_potion_inventory_1",
+      "regen_lingering_potion_inventory_2",
+      "regen_lingering_potion_inventory_3",
+      "enchanted_item",
+      "purple_essence",
+      "purple_essence_seeds",
+      "enchanted_book",
+      "Eggplant",
+      "block_of_grape_hi_chew"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/purple_stage"
+  }
+}

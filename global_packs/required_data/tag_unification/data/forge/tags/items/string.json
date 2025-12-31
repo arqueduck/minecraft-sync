@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:string",
+    "silentgear:flax_string",
+    "silentgear:sinew_fiber",
+    "minecraft:string"
+  ],
+  "replace": true
+}

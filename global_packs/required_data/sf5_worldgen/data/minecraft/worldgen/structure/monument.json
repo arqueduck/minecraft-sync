@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:ocean_monument",
+  "biomes": "#skyfactory_5:none",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

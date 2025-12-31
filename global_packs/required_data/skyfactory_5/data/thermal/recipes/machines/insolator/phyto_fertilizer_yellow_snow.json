@@ -1,0 +1,11 @@
+{
+  "type": "thermal:insolator_catalyst",
+  "ingredient": {
+    "item": "yellow_snow:yellow_snow"
+  },
+  "primary_mod": 1.2,
+  "secondary_mod": 2.2,
+  "energy_mod": 0.75,
+  "min_chance": 0.1,
+  "use_chance": 0.5
+}

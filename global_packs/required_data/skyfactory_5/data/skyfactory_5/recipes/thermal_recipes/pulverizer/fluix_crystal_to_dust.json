@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "ae2:fluix_crystal"
+  },
+  "result": [
+    {
+      "item": "ae2:fluix_dust",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.1
+}

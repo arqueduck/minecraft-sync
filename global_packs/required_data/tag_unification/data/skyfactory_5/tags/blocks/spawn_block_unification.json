@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:grass_block",
+    "#minecraft:planks",
+    "#minecraft:slabs",
+    "#minecraft:logs",
+    "#minecraft:dirt",
+    "#forge:sand",
+    "#forge:cobblestone",
+    "#skyfactory_5:concrete_blocks",
+    "minecraft:obsidian",
+    "minecraft:end_stone",
+    "minecraft:stone",
+    "mob_grinding_utils:entity_conveyor",
+    "#skyfactory_5:color_stone",
+    "#skyfactory_5:rechiseled_solid_blocks",
+    "#minecraft:stone_bricks",
+    "mysticalagriculture:witherproof_bricks",
+    "mysticalagriculture:witherproof_block"
+  ]
+}

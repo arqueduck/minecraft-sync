@@ -1,0 +1,31 @@
+{
+  "entity": "minecraft:magma_cube",
+  "variants": [],
+  "name": "entity.minecraft.magma_cube",
+  "name_color": "#f9801d",
+  "gui_scale": 2,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix"
+  },
+  "base_drop": {
+    "item": "minecraft:orange_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.magma_cube",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:magma_cream",
+      "count": 4
+    },
+    {
+      "optional": true,
+      "item": "reliquary:molten_core",
+      "count": 1
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260]
+}

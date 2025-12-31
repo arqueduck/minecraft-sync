@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" E ", " I ", "SSS"],
+  "key": {
+    "E": {
+      "item": "minecraft:enchanting_table"
+    },
+    "S": {
+      "item": "enderio:soularium_block"
+    },
+    "I": {
+      "item": "enderio:soularium_ingot"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:enchanter"
+  }
+}

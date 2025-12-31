@@ -1,0 +1,412 @@
+[
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_colorless_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_brown_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_light_gray_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_green_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_cyan_dye",
+    "rarity": "rare",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_pink_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_orange_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_blue_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_magenta_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_red_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_yellow_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_lime_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_gray_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_purple_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_black_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_white_dye",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_light_blue_dye",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_rgb_dye",
+    "rarity": "legendary",
+    "create": 69000,
+    "maintain": 69000,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:potato_block",
+    "rarity": "uncommon",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_blank_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_cross2_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_cross_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_pattern1_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_pattern2_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "rftoolsdim:dimensional_small_blocks",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "yellow_snow:yellow_snow",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_meat",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_bubble_wrap",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "minecraft:blue_ice",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_blooming_onion",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_blue_cheese",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_grass_clippings",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "supplementaries:sugar_cube",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_pocket_lint",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_ketchup",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_kitty_litter",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_grape_hi_chew",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_pumpkin_spice_latte",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "sf5_things:block_of_black_olives",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:limestone",
+    "rarity": "rare",
+    "create": 5000,
+    "maintain": 10000,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

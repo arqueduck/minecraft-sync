@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:crafting_table",
+    "cyclic:workbench",
+    "craftingstation:crafting_station"
+  ],
+  "replace": true
+}

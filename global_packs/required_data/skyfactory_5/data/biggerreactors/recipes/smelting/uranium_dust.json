@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:dust_uranium"
+    }
+  ],
+  "result": "immersiveengineering:ingot_uranium",
+  "cookingtime": 200
+}

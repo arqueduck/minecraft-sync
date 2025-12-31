@@ -1,0 +1,17 @@
+{
+  "values": [
+    "#minecraft:animals_spawnable_on",
+    "#minecraft:goats_spawnable_on",
+    "#minecraft:planks",
+    "#minecraft:slabs",
+    "#minecraft:logs",
+    "#forge:sand",
+    "#forge:cobblestone",
+    "minecraft:end_stone",
+    "minecraft:obsidian",
+    "silentgear:azure_silver_ore",
+    "minecraft:purpur_block",
+    "minecraft:end_stone_bricks",
+    "minecraft:purpur_pillar"
+  ]
+}

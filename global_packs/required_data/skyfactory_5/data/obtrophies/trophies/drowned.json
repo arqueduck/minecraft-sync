@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:drowned",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 50000,
+    "item": "minecraft:nautilus_shell"
+  },
+  "offset": 0,
+  "scale": 1
+}

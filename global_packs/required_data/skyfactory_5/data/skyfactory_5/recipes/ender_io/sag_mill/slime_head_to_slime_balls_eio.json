@@ -1,0 +1,17 @@
+{
+  "type": "enderio:sag_milling",
+  "energy": 2400,
+  "input": {
+    "item": "heads:slime_head"
+  },
+  "outputs": [
+    {
+      "count": 4,
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "chance": 0.33,
+      "item": "minecraft:slime_ball"
+    }
+  ]
+}

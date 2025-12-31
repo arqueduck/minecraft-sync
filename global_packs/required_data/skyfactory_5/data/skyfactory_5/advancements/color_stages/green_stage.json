@@ -1,0 +1,299 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:green_concrete_powder"
+    },
+    "title": "Green Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.green.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/gray_stage",
+  "criteria": {
+    "eat_green_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "player": [],
+        "item": {
+          "items": ["sf5_things:green_apple"]
+        }
+      }
+    },
+    "bamboo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:bamboo"]
+          }
+        ]
+      }
+    },
+    "cucumber": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:cucumber"]
+          }
+        ]
+      }
+    },
+    "soy_bean": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:soy_bean"]
+          }
+        ]
+      }
+    },
+    "wasabi_root": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:wasabi_root"]
+          }
+        ]
+      }
+    },
+    "avocado": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:avocado"]
+          }
+        ]
+      }
+    },
+    "cucumber_slices": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:cucumber_slices"]
+          }
+        ]
+      }
+    },
+    "avocado_sapling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:avocado_sapling"]
+          }
+        ]
+      }
+    },
+    "avocado_leaves": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:avocado_leaves"]
+          }
+        ]
+      }
+    },
+    "nori_sheets": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sushigocrafting:nori_sheets"]
+          }
+        ]
+      }
+    },
+    "vine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:vine"]
+          }
+        ]
+      }
+    },
+    "emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:emerald"]
+          }
+        ]
+      }
+    },
+    "green_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:green_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "green_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:green_crop_essence"]
+          }
+        ]
+      }
+    },
+    "green_apple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:green_apple"]
+          }
+        ]
+      }
+    },
+    "azalea": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:azalea"]
+          }
+        ]
+      }
+    },
+    "big_dripleaf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:big_dripleaf"]
+          }
+        ]
+      }
+    },
+    "fern": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:fern"]
+          }
+        ]
+      }
+    },
+    "grass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:grass"]
+          }
+        ]
+      }
+    },
+    "sea_pickle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:sea_pickle"]
+          }
+        ]
+      }
+    },
+    "small_dripleaf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:small_dripleaf"]
+          }
+        ]
+      }
+    },
+    "tall_grass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:tall_grass"]
+          }
+        ]
+      }
+    },
+    "block_of_grass_clippings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_grass_clippings"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "eat_green_apple",
+      "bamboo",
+      "cucumber",
+      "soy_bean",
+      "wasabi_root",
+      "avocado",
+      "cucumber_slices",
+      "avocado_sapling",
+      "avocado_leaves",
+      "nori_sheets",
+      "vine",
+      "emerald",
+      "green_essence",
+      "green_essence_seeds",
+      "green_apple",
+      "azalea",
+      "big_dripleaf",
+      "fern",
+      "grass",
+      "sea_pickle",
+      "small_dripleaf",
+      "tall_grass",
+      "block_of_grass_clippings"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/green_stage"
+  }
+}

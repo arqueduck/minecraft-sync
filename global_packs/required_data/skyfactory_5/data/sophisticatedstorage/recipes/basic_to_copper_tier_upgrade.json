@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:basic_to_copper_tier_upgrade"
+    }
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": ["CCC", "CPC", "CCC"],
+  "result": {
+    "item": "sophisticatedstorage:basic_to_copper_tier_upgrade"
+  }
+}

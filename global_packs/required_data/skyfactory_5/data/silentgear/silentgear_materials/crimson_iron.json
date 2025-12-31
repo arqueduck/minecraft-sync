@@ -1,0 +1,137 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 3,
+    "categories": ["metal"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:ingots/crimson_iron"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.crimson_iron"
+  },
+  "stats": {
+    "main": {
+      "durability": 420.0,
+      "armor_durability": 27.0,
+      "enchantment_value": 14.0,
+      "rarity": 31.0,
+      "charging_value": 0.7,
+      "repair_value": 0.5,
+      "harvest_level": 3.0,
+      "harvest_speed": 10.0,
+      "melee_damage": 3.0,
+      "magic_damage": 3.0,
+      "attack_speed": -0.1,
+      "ranged_damage": 2.0,
+      "ranged_speed": -0.1,
+      "projectile_speed": 1.0,
+      "projectile_accuracy": 1.1,
+      "armor": 18.0,
+      "armor/helmet": 3.0,
+      "armor/chestplate": 7.0,
+      "armor/leggings": 5.0,
+      "armor/boots": 3.0,
+      "armor_toughness": 2.0,
+      "magic_armor": 6.0
+    },
+    "rod": {
+      "melee_damage": {
+        "mul2": 0.1
+      }
+    },
+    "tip": {
+      "durability": {
+        "add": 224.0
+      },
+      "armor_durability": {
+        "add": 8.0
+      },
+      "harvest_level": {
+        "max": 3.0
+      },
+      "harvest_speed": {
+        "add": 2.0
+      },
+      "melee_damage": {
+        "add": 2.0
+      },
+      "rarity": {
+        "add": 10.0
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:hard",
+        "level": 2
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:flexible",
+        "level": 3
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:fiery",
+        "level": 1
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#FF6189"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#FF6189"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_lc",
+        "color": "#FF6189"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#FF6189"
+      }
+    ],
+    "tip/all": [
+      {
+        "texture": "silentgear:tip_sharp",
+        "color": "#FF6189"
+      }
+    ],
+    "tip/part": [
+      {
+        "texture": "silentgear:tip_base"
+      },
+      {
+        "texture": "silentgear:tip",
+        "color": "#FF6189"
+      },
+      {
+        "texture": "silentgear:tip_shine"
+      }
+    ]
+  }
+}

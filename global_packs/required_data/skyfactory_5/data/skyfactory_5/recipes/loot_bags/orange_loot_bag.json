@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Orange Loot Bag",
+  "color": "#fb6b1d",
+  "rarity": "COMMON",
+  "output": {
+    "table": "treasurebags:bags/orange"
+  }
+}

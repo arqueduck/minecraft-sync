@@ -1,0 +1,13 @@
+{
+  "type": "enderio:sag_milling",
+  "energy": 2400,
+  "input": {
+    "item": "minecraft:diamond"
+  },
+  "outputs": [
+    {
+      "count": 1,
+      "item": "thermal:diamond_dust"
+    }
+  ]
+}

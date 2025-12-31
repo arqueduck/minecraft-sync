@@ -1,0 +1,37 @@
+{
+  "entity": "minecraft:wolf",
+  "variants": [],
+  "name": "entity.minecraft.wolf",
+  "name_color": "#9c9d97",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 1280,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:light_gray_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.wolf",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:light_gray_dye",
+      "count": 4
+    },
+    {
+      "item": "minecraft:bone",
+      "count": 4
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

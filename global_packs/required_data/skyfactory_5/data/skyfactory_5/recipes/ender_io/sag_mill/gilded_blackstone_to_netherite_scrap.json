@@ -1,0 +1,21 @@
+{
+  "type": "enderio:sag_milling",
+  "energy": 2400,
+  "input": {
+    "item": "minecraft:gilded_blackstone"
+  },
+  "outputs": [
+    {
+      "count": 7,
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "chance": 0.15,
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:gold_nugget"
+    }
+  ]
+}

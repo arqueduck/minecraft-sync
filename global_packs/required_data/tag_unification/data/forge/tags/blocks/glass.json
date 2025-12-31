@@ -1,0 +1,11 @@
+{
+  "values": [
+    "botania:mana_glass",
+    "botania:elf_glass",
+    "botania:bifrost_perm",
+    "#forge:glass/colorless",
+    "#forge:stained_glass",
+    "#forge:glass/tinted"
+  ],
+  "replace": true
+}

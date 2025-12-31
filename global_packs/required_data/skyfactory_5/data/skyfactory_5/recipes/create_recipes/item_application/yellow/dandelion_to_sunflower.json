@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:dandelion"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:sunflower" }]
+}

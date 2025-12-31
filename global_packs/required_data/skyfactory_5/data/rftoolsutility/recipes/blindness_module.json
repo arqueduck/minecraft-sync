@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ZSZ", "ZPZ", "ZZZ"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:moduleplus_template"
+    },
+    "S": {
+      "item": "forcecraft:squid_flask"
+    },
+    "Z": {
+      "tag": "forge:dyes/black"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:blindness_module"
+  },
+  "show_notification": false
+}

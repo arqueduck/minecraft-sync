@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "clickmachine",
+  "pattern": ["DDD", "DCD", "DRD"],
+  "key": {
+    "D": {
+      "item": "minecraft:diorite"
+    },
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/redstone"
+    }
+  },
+  "result": {
+    "item": "clickmachine:auto_clicker",
+    "count": 1
+  }
+}

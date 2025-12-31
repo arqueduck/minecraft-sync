@@ -1,0 +1,7 @@
+{
+  "factory": "obscure_tooltips:rim_lighting",
+  "start_color": "30800080",
+  "end_color": "00800080",
+  "particle_center_color": "30800080",
+  "particle_edge_color": "00800080"
+}

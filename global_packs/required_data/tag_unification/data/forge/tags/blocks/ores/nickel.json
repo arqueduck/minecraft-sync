@@ -1,0 +1,9 @@
+{
+  "values": [
+    "thermal:nickel_ore",
+    "thermal:deepslate_nickel_ore",
+    "immersiveengineering:ore_nickel",
+    "immersiveengineering:deepslate_ore_nickel"
+  ],
+  "replace": true
+}

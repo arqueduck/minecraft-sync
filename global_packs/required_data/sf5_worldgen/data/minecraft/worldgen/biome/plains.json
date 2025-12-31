@@ -1,0 +1,69 @@
+{
+  "temperature": 0.25,
+  "downfall": 0.8,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 10004440,
+    "fog_color": 10004440,
+    "water_color": 33023,
+    "water_fog_color": 33023,
+    "grass_color": 5035577,
+    "foliage_color": 5035577,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "music": {
+      "sound": "minecraft:music.overworld.forest",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": []
+  },
+  "features": [
+    [
+      "skyfactory_5:trees_none",
+      "skyfactory_5:trees_brown",
+      "skyfactory_5:trees_light_gray",
+      "skyfactory_5:trees_cyan",
+      "skyfactory_5:trees_pink",
+      "skyfactory_5:trees_orange",
+      "skyfactory_5:trees_blue",
+      "skyfactory_5:trees_magenta",
+      "skyfactory_5:trees_green",
+      "skyfactory_5:trees_light_blue",
+      "skyfactory_5:trees_white",
+      "skyfactory_5:trees_black",
+      "skyfactory_5:trees_purple",
+      "skyfactory_5:trees_gray",
+      "skyfactory_5:trees_lime",
+      "skyfactory_5:trees_yellow",
+      "skyfactory_5:trees_red"
+    ],
+    ["minecraft:amethyst_geode"],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

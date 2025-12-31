@@ -1,0 +1,158 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:burgerhat"
+    },
+    "title": "41-60",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/root",
+  "criteria": {
+    "burgerhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:burgerhat"] }]
+      }
+    },
+    "burning_m_bison": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:burning_m_bison"] }]
+      }
+    },
+    "caddycap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:caddycap"] }]
+      }
+    },
+    "camera": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:camera"] }]
+      }
+    },
+    "camerabeard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:camerabeard"] }]
+      }
+    },
+    "candleonhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:candleonhead"] }]
+      }
+    },
+    "candycane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:candycane"] }]
+      }
+    },
+    "carrotonstick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:carrotonstick"] }]
+      }
+    },
+    "cartoonegg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:cartoonegg"] }]
+      }
+    },
+    "chalk_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:chalk_stick"] }]
+      }
+    },
+    "cheeseslice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:cheeseslice"] }]
+      }
+    },
+    "chefshat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:chefshat"] }]
+      }
+    },
+    "chi_ears": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:chi_ears"] }]
+      }
+    },
+    "chickenhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:chickenhead"] }]
+      }
+    },
+    "chickenonhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:chickenonhead"] }]
+      }
+    },
+    "christmascakehat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:christmascakehat"] }]
+      }
+    },
+    "christmastree": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:christmastree"] }]
+      }
+    },
+    "circular_glasses": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:circular_glasses"] }]
+      }
+    },
+    "clockface": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:clockface"] }]
+      }
+    },
+    "cowboy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:cowboy"] }]
+      }
+    }
+  }
+}

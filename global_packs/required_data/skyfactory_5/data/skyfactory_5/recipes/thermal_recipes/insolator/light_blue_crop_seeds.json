@@ -1,0 +1,15 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:light_blue_crop_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:light_blue_crop_essence"
+    },
+    {
+      "item": "mysticalagriculture:light_blue_crop_seeds"
+    }
+  ],
+  "energy": 100000
+}

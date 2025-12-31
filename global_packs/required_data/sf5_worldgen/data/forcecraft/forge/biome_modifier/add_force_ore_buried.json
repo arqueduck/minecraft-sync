@@ -1,0 +1,7 @@
+{
+  "type": "forcecraft:add_config_features",
+  "biomes": "#skyfactory_5:none",
+  "enabledConfig": "add_force_ore_buried_modifier",
+  "features": "forcecraft:ore_force_buried",
+  "step": "underground_ores"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:lily_of_the_valley"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:white_tulip" }]
+}

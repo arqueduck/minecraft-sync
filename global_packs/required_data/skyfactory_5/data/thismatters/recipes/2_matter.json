@@ -1,0 +1,22 @@
+{
+  "type": "thismatters:matter_recipe",
+  "ingredients": [
+    { "item": "sf5_things:block_of_black_dye" },
+    { "item": "sf5_things:block_of_blue_dye" },
+    { "item": "sf5_things:block_of_brown_dye" },
+    { "item": "sf5_things:block_of_cyan_dye" },
+    { "item": "sf5_things:block_of_gray_dye" },
+    { "item": "sf5_things:block_of_green_dye" },
+    { "item": "sf5_things:block_of_light_blue_dye" },
+    { "item": "sf5_things:block_of_light_gray_dye" },
+    { "item": "sf5_things:block_of_lime_dye" },
+    { "item": "sf5_things:block_of_magenta_dye" },
+    { "item": "sf5_things:block_of_orange_dye" },
+    { "item": "sf5_things:block_of_pink_dye" },
+    { "item": "sf5_things:block_of_purple_dye" },
+    { "item": "sf5_things:block_of_red_dye" },
+    { "item": "sf5_things:block_of_white_dye" },
+    { "item": "sf5_things:block_of_yellow_dye" }
+  ],
+  "matter": 10
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mysticalagriculture:item/watering_can"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [45, -90, 0],
+      "translation": [0, 3, -1.75]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [45, 90, 0],
+      "translation": [0, 3, -1.75]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "brushing": 0.25
+      },
+      "model": "item/brush_brushing_0"
+    },
+    {
+      "predicate": {
+        "brushing": 0.5
+      },
+      "model": "item/brush_brushing_1"
+    },
+    {
+      "predicate": {
+        "brushing": 0.75
+      },
+      "model": "item/brush_brushing_2"
+    }
+  ]
+}

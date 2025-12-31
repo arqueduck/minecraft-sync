@@ -1,0 +1,18 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "gold_creeper",
+  "target": {
+    "tag": "forge:netherrack"
+  },
+  "ore": {
+    "block": "minecraft:nether_gold_ore",
+    "bonus": "minecraft:gold_block",
+    "bonusChance": 10.0
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:gold_creeper"
+    }
+  ]
+}

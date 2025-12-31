@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": true,
+  "ingredients": [
+    {
+      "item": "colouredstuff:leaves_none"
+    },
+    {
+      "item": "pickletweaks:watering_can"
+    }
+  ],
+  "results": [{ "item": "colouredstuff:leaves_green" }]
+}

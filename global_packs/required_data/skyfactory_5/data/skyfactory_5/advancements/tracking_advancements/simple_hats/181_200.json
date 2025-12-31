@@ -1,0 +1,158 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:rgbdragonskull"
+    },
+    "title": "181-200",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/161_180",
+  "criteria": {
+    "rgbdragonskull": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbdragonskull"] }]
+      }
+    },
+    "rgbdrinkinhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbdrinkinhat"] }]
+      }
+    },
+    "rgbeasterhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbeasterhead"] }]
+      }
+    },
+    "rgbfullhelm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbfullhelm"] }]
+      }
+    },
+    "rgbpartyhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbpartyhat"] }]
+      }
+    },
+    "rgbsmallbowler": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbsmallbowler"] }]
+      }
+    },
+    "rgbsunglasses": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbsunglasses"] }]
+      }
+    },
+    "rgbtoptophathat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbtoptophathat"] }]
+      }
+    },
+    "rgbushanka": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rgbushanka"] }]
+      }
+    },
+    "rock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rock"] }]
+      }
+    },
+    "rubbernipple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:rubbernipple"] }]
+      }
+    },
+    "sandcastle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:sandcastle"] }]
+      }
+    },
+    "santaclaus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:santaclaus"] }]
+      }
+    },
+    "sausage": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:sausage"] }]
+      }
+    },
+    "scouter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:scouter"] }]
+      }
+    },
+    "seaweedhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:seaweedhat"] }]
+      }
+    },
+    "shakehat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:shakehat"] }]
+      }
+    },
+    "sheep": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:sheep"] }]
+      }
+    },
+    "shrekears": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:shrekears"] }]
+      }
+    },
+    "shroomcap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:shroomcap"] }]
+      }
+    }
+  }
+}

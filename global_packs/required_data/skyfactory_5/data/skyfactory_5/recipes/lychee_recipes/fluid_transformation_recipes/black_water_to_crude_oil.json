@@ -1,0 +1,60 @@
+{
+  "type": "lychee:item_inside",
+  "item_in": {
+    "tag": "minecraft:coals"
+  },
+  "block_in": {
+    "blocks": ["colouredstuff:water_black_block"]
+  },
+  "post": [
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.114 0.110 0.129 2 0.0 0.0 0.0 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.114 0.110 0.129 2 0.0 0.0 0.0 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.114 0.110 0.129 2 0.0 0.0 0.0 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.114 0.110 0.129 2 0.0 0.0 0.0 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.114 0.110 0.129 2 0.0 0.0 0.0 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "place",
+      "block": "thermal:crude_oil_fluid"
+    }
+  ]
+}

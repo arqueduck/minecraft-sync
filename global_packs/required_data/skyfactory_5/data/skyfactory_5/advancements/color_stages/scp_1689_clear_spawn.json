@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potato"
+    },
+    "title": {
+      "translate": "Background Processes"
+    },
+    "description": "",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "location_check": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "player": [],
+        "to": "skyfactory_5:scp_1689"
+      }
+    }
+  },
+  "rewards": {
+    "function": "skyfactory_5:scp_1689/clear_spawn_area"
+  }
+}

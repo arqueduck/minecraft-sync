@@ -1,0 +1,48 @@
+{
+  "conditions": [
+    {
+      "modid": "ghastcow",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "ghastcow:ghast_cow",
+  "variants": [],
+  "name": "entity.ghastcow.ghast_cow",
+  "name_color": "#825432",
+  "display_nbt": {},
+  "gui_scale": 0.75,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 25600,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:brown_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.ghast_cow",
+  "fabricator_drops": [
+    {
+      "item": "bhc:yellow_heart",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "minecraft:cooked_beef",
+      "count": 4
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 4
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 4
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

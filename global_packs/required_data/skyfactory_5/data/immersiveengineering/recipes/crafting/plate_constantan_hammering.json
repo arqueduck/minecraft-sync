@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "forge:ingots/constantan" },
+    { "item": "immersiveengineering:hammer" }
+  ],
+  "result": { "item": "thermal:constantan_plate" }
+}

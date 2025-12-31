@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:torchflower" }]
+}

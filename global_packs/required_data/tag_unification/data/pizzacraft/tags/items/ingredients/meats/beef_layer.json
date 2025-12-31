@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:beef",
+    "minecraft:cooked_beef",
+    "exnihilosequentia:silkworm",
+    "exnihilosequentia:cooked_silkworm",
+    "colourfulllamas:llama_steak",
+    "colourfulllamas:llama_steak_cooked",
+    "minecraft:rabbit",
+    "minecraft:cooked_rabbit",
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "colourfulgoats:goat_steak",
+    "colourfulgoats:goat_steak_cooked",
+    "minecraft:mutton",
+    "exnihilosequentia:silkworm"
+  ]
+}

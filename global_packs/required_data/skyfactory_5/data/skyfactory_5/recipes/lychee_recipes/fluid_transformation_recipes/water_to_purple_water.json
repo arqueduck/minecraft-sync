@@ -1,0 +1,63 @@
+{
+  "type": "lychee:item_inside",
+  "item_in": {
+    "item": "minecraft:purple_dye"
+  },
+  "block_in": {
+    "blocks": ["water"],
+    "state": {
+      "level": 0
+    }
+  },
+  "post": [
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.537 0.196 0.718 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.537 0.196 0.718 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.537 0.196 0.718 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.537 0.196 0.718 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.235 0.267 0.663 2 0.537 0.196 0.718 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "place",
+      "block": "colouredstuff:water_purple_block"
+    }
+  ]
+}

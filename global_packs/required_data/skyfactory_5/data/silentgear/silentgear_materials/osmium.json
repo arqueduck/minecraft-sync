@@ -1,0 +1,83 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["metal"],
+    "visible": true,
+    "gear_blacklist": ["all"],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:ingots/osmium"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.osmium"
+  },
+  "stats": {
+    "main": {
+      "durability": 500.0,
+      "armor_durability": 30.0,
+      "enchantment_value": 12.0,
+      "harvest_level": 2.0,
+      "harvest_speed": 10.0,
+      "melee_damage": 4.0,
+      "magic_damage": 2.0,
+      "attack_speed": 0.1,
+      "armor": 17.0,
+      "armor/helmet": 3.0,
+      "armor/chestplate": 6.0,
+      "armor/leggings": 5.0,
+      "armor/boots": 3.0,
+      "magic_armor": 4.0,
+      "ranged_damage": 1.0,
+      "ranged_speed": 0.0,
+      "rarity": 35.0,
+      "charging_value": 1.1
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.1
+      },
+      "repair_efficiency": {
+        "mul2": 0.1
+      },
+      "rarity": 35.0
+    }
+  },
+  "traits": {
+    "main": [],
+    "rod": []
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#92A6B8"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#92A6B8"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_hc",
+        "color": "#92A6B8"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#92A6B8"
+      }
+    ]
+  }
+}

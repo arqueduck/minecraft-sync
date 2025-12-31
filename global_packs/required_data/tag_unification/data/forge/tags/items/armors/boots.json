@@ -1,0 +1,28 @@
+{
+  "values": [
+    "botania:manasteel_boots",
+    "botania:manaweave_boots",
+    "botania:elementium_boots",
+    "botania:terrasteel_boots",
+    "minecraft:leather_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_boots",
+    "minecraft:golden_boots",
+    "minecraft:diamond_boots",
+    "minecraft:netherite_boots",
+    "immersiveengineering:armor_steel_boots",
+    "immersiveengineering:armor_faraday_boots",
+    "ars_nouveau:sorcerer_boots",
+    "ars_nouveau:arcanist_boots",
+    "ars_nouveau:battlemage_boots",
+    "create:copper_diving_boots",
+    "create:netherite_diving_boots",
+    "mysticalagriculture:inferium_boots",
+    "mysticalagriculture:prudentium_boots",
+    "mysticalagriculture:tertium_boots",
+    "mysticalagriculture:imperium_boots",
+    "mysticalagriculture:supremium_boots",
+    "mysticalagriculture:awakened_supremium_boots"
+  ],
+  "replace": true
+}

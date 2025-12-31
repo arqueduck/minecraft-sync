@@ -1,0 +1,314 @@
+{
+  "additionList": [
+    {
+      "entity": "earthmobsmod:albino_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:baby_ghast",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:cluck_shroom",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:cream_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:duck",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:fancy_chicken",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:furnace_golem",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:hyper_rabbit",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:jolly_llama",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:jumbo_rabbit",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:magma_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:melon_golem",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:moobloom",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:moolip",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:teacup_pig",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:umbra_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:wooly_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "earthmobsmod:zombified_pig",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "energeticsheep:energetic_sheep",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "forcecraft:cold_chicken",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "forcecraft:cold_cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "forcecraft:cold_pig",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:allay",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:axolotl",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:bat",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:camel",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:cat",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:chicken",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:cod",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:cow",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:dolphin",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:donkey",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:fox",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:frog",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:glow_squid",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:goat",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:horse",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:iron_golem",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:llama",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:mooshroom",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:ocelot",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:panda",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:parrot",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:pig",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:polar_bear",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:pufferfish",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:rabbit",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:salmon",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:sheep",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:skeleton_horse",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:sniffer",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:snow_golem",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:squid",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:strider",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:tadpole",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:trader_llama",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:tropical_fish",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:turtle",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:villager",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:wandering_trader",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:wolf",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    },
+    {
+      "entity": "minecraft:zombie_horse",
+      "attribute": "generic.attack_damage",
+      "value": 1
+    }
+  ]
+}

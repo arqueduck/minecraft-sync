@@ -1,0 +1,76 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["gem", "dust"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:dusts/glowstone"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.glowstone"
+  },
+  "stats": {
+    "tip": {
+      "harvest_speed": {
+        "mul2": 0.4
+      },
+      "melee_damage": {
+        "add": 2.0
+      },
+      "magic_damage": {
+        "add": 2.0
+      },
+      "ranged_speed": {
+        "mul2": 0.3
+      },
+      "rarity": {
+        "add": 15.0
+      }
+    }
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:refractive",
+        "level": 1
+      },
+      {
+        "name": "silentgear:lustrous",
+        "level": 4
+      }
+    ]
+  },
+  "model": {
+    "tip/all": [
+      {
+        "texture": "silentgear:tip_smooth",
+        "color": "#D2D200"
+      }
+    ],
+    "tip/part": [
+      {
+        "texture": "silentgear:tip_base"
+      },
+      {
+        "texture": "silentgear:tip",
+        "color": "#D2D200"
+      },
+      {
+        "texture": "silentgear:tip_shine"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:dust",
+        "color": "#D2D200"
+      }
+    ]
+  }
+}

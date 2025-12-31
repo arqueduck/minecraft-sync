@@ -1,0 +1,94 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 0,
+    "categories": ["organic", "wood"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "colouredstuff:planks_white"
+    }
+  },
+  "name": {
+    "translate": "White"
+  },
+  "stats": {
+    "main": {
+      "durability": 59.0,
+      "armor_durability": 8.0,
+      "enchantment_value": 15.0,
+      "rarity": 1.0,
+      "charging_value": 0.6,
+      "repair_value": 0.25,
+      "harvest_level": 0.0,
+      "harvest_speed": 2.0,
+      "melee_damage": 0.0,
+      "attack_speed": 0.0,
+      "attack_speed/axe": -0.2,
+      "attack_speed/hoe": -2.0,
+      "ranged_damage": 0.0,
+      "ranged_speed": 0.0,
+      "projectile_speed": 1.0,
+      "projectile_accuracy": 0.9,
+      "armor": 7.0,
+      "armor/helmet": 1.0,
+      "armor/chestplate": 3.0,
+      "armor/leggings": 2.0,
+      "armor/boots": 1.0,
+      "magic_armor": 2.0
+    },
+    "rod": {}
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:holy",
+        "level": 1
+      },
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:holy",
+        "level": 2
+      },
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#ffffff"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:wood",
+        "color": "#ffffff"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_lc",
+        "color": "#ffffff"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#ffffff"
+      }
+    ]
+  }
+}

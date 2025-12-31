@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "gateways:gate_pearl",
+      "nbt": "{gateway:\"gateways:titan/magenta_vein_creeper\"}"
+    },
+    "title": "Magenta Titan Gateways!",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/titan_gateways/lime_titan_gateways",
+  "criteria": {
+    "crystal_zombie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/crystal_zombie\"}"
+          }
+        ]
+      }
+    },
+    "magenta_vein_creeper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/magenta_vein_creeper\"}"
+          }
+        ]
+      }
+    },
+    "starbuncle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["gateways:gate_pearl"],
+            "nbt": "{gateway:\"gateways:titan/starbuncle\"}"
+          }
+        ]
+      }
+    }
+  }
+}

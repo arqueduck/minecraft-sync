@@ -1,0 +1,22 @@
+{
+  "type": "apotheosis:spawner_modifier",
+  "conditions": [
+    {
+      "type": "apotheosis:module",
+      "module": "spawner"
+    }
+  ],
+  "mainhand": {
+    "item": "bhc:blue_heart"
+  },
+  "offhand": {
+    "item": "supplementaries:soap"
+  },
+  "consumes_offhand": false,
+  "stat_changes": [
+    {
+      "id": "ignore_players",
+      "value": false
+    }
+  ]
+}

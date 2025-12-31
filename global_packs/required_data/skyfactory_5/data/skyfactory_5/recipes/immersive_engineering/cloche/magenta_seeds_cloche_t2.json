@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:magenta_crop_seeds" },
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:magenta_crop_crop"
+  },
+  "results": [
+    { "count": 2, "item": "mysticalagriculture:magenta_crop_essence" }
+  ],
+  "soil": { "item": "mysticalagriculture:prudentium_farmland" },
+  "time": 480
+}

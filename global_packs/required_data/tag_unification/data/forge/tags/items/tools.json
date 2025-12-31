@@ -1,0 +1,24 @@
+{
+  "values": [
+    "#minecraft:swords",
+    "#minecraft:axes",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:hoes",
+    "#forge:tools/shields",
+    "#forge:tools/bows",
+    "#forge:tools/crossbows",
+    "#forge:tools/fishing_rods",
+    "#forge:tools/tridents",
+    "#forge:tools/shovels",
+    "#forge:tools/pickaxes",
+    "#forge:tools/hoes",
+    "#forge:tools/axes",
+    "#forge:tools/paxels",
+    "#forge:tools/sickles",
+    "#forge:tools/scythes",
+    "#forge:tools/sickles",
+    "#forge:tools/scythes"
+  ],
+  "replace": true
+}

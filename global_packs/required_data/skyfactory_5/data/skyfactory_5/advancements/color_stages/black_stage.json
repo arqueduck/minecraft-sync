@@ -1,0 +1,265 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:black_concrete_powder"
+    },
+    "title": "Black Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.black.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/root",
+  "criteria": {
+    "music_disc_11": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_11"]
+          }
+        ]
+      }
+    },
+    "music_disc_13": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_13"]
+          }
+        ]
+      }
+    },
+    "music_disc_blocks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_blocks"]
+          }
+        ]
+      }
+    },
+    "music_disc_cat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_cat"]
+          }
+        ]
+      }
+    },
+    "music_disc_chirp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_chirp"]
+          }
+        ]
+      }
+    },
+    "music_disc_far": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_far"]
+          }
+        ]
+      }
+    },
+    "music_disc_mall": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_mall"]
+          }
+        ]
+      }
+    },
+    "music_disc_mellohi": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_mellohi"]
+          }
+        ]
+      }
+    },
+    "music_disc_otherside": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_otherside"]
+          }
+        ]
+      }
+    },
+    "music_disc_stal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_stal"]
+          }
+        ]
+      }
+    },
+    "music_disc_strad": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_strad"]
+          }
+        ]
+      }
+    },
+    "music_disc_wait": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_wait"]
+          }
+        ]
+      }
+    },
+    "music_disc_ward": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:music_disc_ward"]
+          }
+        ]
+      }
+    },
+    "ink_sac": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:ink_sac"]
+          }
+        ]
+      }
+    },
+    "charcoal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:charcoal"]
+          }
+        ]
+      }
+    },
+    "coal_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:coal_block"]
+          }
+        ]
+      }
+    },
+    "coal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:coal"]
+          }
+        ]
+      }
+    },
+    "black_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:black_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "black_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:black_crop_essence"]
+          }
+        ]
+      }
+    },
+    "block_of_black_olives": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_black_olives"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_11",
+      "music_disc_13",
+      "music_disc_blocks",
+      "music_disc_cat",
+      "music_disc_chirp",
+      "music_disc_far",
+      "music_disc_mall",
+      "music_disc_mellohi",
+      "music_disc_otherside",
+      "music_disc_stal",
+      "music_disc_strad",
+      "music_disc_wait",
+      "music_disc_ward",
+      "ink_sac",
+      "charcoal",
+      "coal_block",
+      "coal",
+      "black_essence",
+      "black_essence_seeds",
+      "block_of_black_olives"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/black_stage"
+  }
+}

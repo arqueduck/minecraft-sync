@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:shield",
+    "immersiveengineering:shield",
+    "ars_nouveau:enchanters_shield"
+  ],
+  "replace": true
+}

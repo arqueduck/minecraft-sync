@@ -1,0 +1,7 @@
+{
+  "replace": "true",
+  "values": [
+    "minecraft:grass_block",
+    "#skyfactory_5:this_is_where_fish_and_other_sea_creatures_should_spawn_please_work_please_please_please"
+  ]
+}

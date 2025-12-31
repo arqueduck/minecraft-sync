@@ -1,0 +1,46 @@
+{
+  "type": "silentgear:wielder_effect",
+  "max_level": 5,
+  "conditions": [
+    {
+      "type": "silentgear:or",
+      "values": [
+        {
+          "type": "silentgear:gear_type",
+          "gear_type": "tool"
+        },
+        {
+          "type": "silentgear:gear_type",
+          "gear_type": "curio"
+        }
+      ]
+    }
+  ],
+  "name": {
+    "translate": "trait.silentgear.mighty"
+  },
+  "description": {
+    "translate": "trait.silentgear.mighty.desc"
+  },
+  "potion_effects": {
+    "tool": [
+      {
+        "type": "trait_level",
+        "effect": "minecraft:strength",
+        "level": [0, 0, 1, 1, 2]
+      },
+      {
+        "type": "trait_level",
+        "effect": "minecraft:haste",
+        "level": [1, 1, 1, 2, 3]
+      }
+    ],
+    "curio": [
+      {
+        "type": "trait_level",
+        "effect": "minecraft:haste",
+        "level": [1, 1, 2, 2, 3]
+      }
+    ]
+  }
+}

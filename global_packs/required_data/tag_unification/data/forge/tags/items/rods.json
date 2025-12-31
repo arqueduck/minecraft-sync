@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#forge:rods/blaze",
+    "#forge:rods/wooden",
+    "#forge:rods/iron",
+    "#silentgear:rods/netherwood",
+    "#silentgear:rods/rough",
+    "#forge:rods/stone",
+    "createaddition:copper_rod",
+    "createaddition:gold_rod",
+    "createaddition:brass_rod",
+    "createaddition:electrum_rod"
+  ],
+  "replace": true
+}

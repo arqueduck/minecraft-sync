@@ -1,0 +1,18 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "emerald_creeper",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "minecraft:emerald_ore",
+    "bonus": "minecraft:emerald_block",
+    "bonusChance": 1.0
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:emerald_creeper"
+    }
+  ]
+}

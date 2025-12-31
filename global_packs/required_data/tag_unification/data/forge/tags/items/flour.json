@@ -1,0 +1,4 @@
+{
+  "values": ["pizzacraft:flour", "pizzacraft:corn_flour", "create:wheat_flour"],
+  "replace": true
+}

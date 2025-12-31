@@ -1,0 +1,12 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "results": [{ "item": "colouredstuff:dirt_none" }]
+}

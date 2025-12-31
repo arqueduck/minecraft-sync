@@ -1,0 +1,13 @@
+{
+  "values": [
+    "silentgear:shield",
+    "minecraft:shield",
+    "minecraft:shield",
+    "cyclic:shield_obsidian",
+    "cyclic:shield_bone",
+    "cyclic:shield_wood",
+    "cyclic:shield_leather",
+    "cyclic:shield_flint"
+  ],
+  "replace": true
+}

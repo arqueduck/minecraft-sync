@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "ars_nouveau:archwood_chest",
+    "sophisticatedstorage:chest"
+  ],
+  "replace": true
+}

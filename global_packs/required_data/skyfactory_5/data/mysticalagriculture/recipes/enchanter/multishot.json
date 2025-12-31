@@ -1,0 +1,14 @@
+{
+  "type": "mysticalagriculture:enchanter",
+  "ingredients": [
+    {
+      "item": "minecraft:bow",
+      "count": 3
+    },
+    {
+      "tag": "skyfactory_5:experience_items",
+      "count": 128
+    }
+  ],
+  "enchantment": "minecraft:multishot"
+}

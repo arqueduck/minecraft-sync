@@ -1,0 +1,69 @@
+{
+  "conditions": [
+    {
+      "modid": "earthmobsmod",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "earthmobsmod:viler_witch",
+  "variants": [],
+  "name": "entity.earthmobsmod.viler_witch",
+  "name_color": "#3c44a9",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 2048,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:blue_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.viler_witch",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:sugar",
+      "count": 4
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "count": 2
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "count": 4
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 4
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 2
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "earthmobsmod:bone_spider_eye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:lingering_potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:poison\"}"
+    },
+    {
+      "item": "minecraft:lingering_potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:slowness\"}"
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

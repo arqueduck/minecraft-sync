@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#forge:chests/ender",
+    "#forge:chests/trapped",
+    "#forge:chests/wooden",
+    "ars_nouveau:archwood_chest",
+    "sophisticatedstorage:chest"
+  ],
+  "replace": true
+}

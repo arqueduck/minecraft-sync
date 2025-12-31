@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:tropical_fish",
+  "offset": 0,
+  "scale": 2,
+  "variants": [
+    {
+      "Variant": "65536"
+    }
+  ]
+}

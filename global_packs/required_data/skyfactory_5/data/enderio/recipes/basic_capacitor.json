@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "forge:dusts/redstone"
+    },
+    "I": {
+      "tag": "forge:ingots/copper"
+    },
+    "N": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "pattern": [" NG", "NIN", "GN "],
+  "result": {
+    "item": "enderio:basic_capacitor"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "apotheosis:spawner_modifier",
+  "conditions": [
+    {
+      "type": "apotheosis:module",
+      "module": "spawner"
+    }
+  ],
+  "mainhand": {
+    "item": "industrialforegoing:range_addon11",
+    "nbt": "{TitaniumAugment:{Range:11.0f}}"
+  },
+  "stat_changes": [
+    {
+      "id": "spawn_range",
+      "value": 1,
+      "min": -1,
+      "max": 32
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "group": "gateway_pearls",
+  "displayName": {
+    "translate": "Lime Pearl Bag"
+  },
+  "lootTable": "treasurebags:bags/lime",
+  "rarity": "common",
+  "bagColor": "#80C71F",
+  "bagOverlayColor": "#FFFFFF",
+  "bagStringColor": "#FFFFFF",
+  "dropsFromGroups": []
+}

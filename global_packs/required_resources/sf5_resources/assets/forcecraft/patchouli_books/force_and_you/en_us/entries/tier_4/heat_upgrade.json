@@ -1,0 +1,17 @@
+{
+  "advancement": "forcecraft:tier4/tier",
+  "category": "forcecraft:tier_4",
+  "icon": "minecraft:charcoal",
+  "name": "info.forcecraft.book.heat_upgrade.entry.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "info.forcecraft.book.heat_upgrade_info.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "secret": true
+}

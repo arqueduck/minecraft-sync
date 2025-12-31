@@ -1,0 +1,57 @@
+{
+  "display": {
+    "icon": {
+      "item": "sf5_things:rgb_dye"
+    },
+    "title": {
+      "translate": "skyfactory_5.advancement.title.all_colors.stage"
+    },
+    "description": {
+      "translate": "skyfactory_5.advancement.all_colors.stage"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "player",
+                "advancements": {
+                  "skyfactory_5:color_stages/black_stage": true,
+                  "skyfactory_5:color_stages/blue_stage": true,
+                  "skyfactory_5:color_stages/brown_stage": true,
+                  "skyfactory_5:color_stages/cyan_stage": true,
+                  "skyfactory_5:color_stages/gray_stage": true,
+                  "skyfactory_5:color_stages/green_stage": true,
+                  "skyfactory_5:color_stages/light_blue_stage": true,
+                  "skyfactory_5:color_stages/light_gray_stage": true,
+                  "skyfactory_5:color_stages/lime_stage": true,
+                  "skyfactory_5:color_stages/magenta_stage": true,
+                  "skyfactory_5:color_stages/orange_stage": true,
+                  "skyfactory_5:color_stages/pink_stage": true,
+                  "skyfactory_5:color_stages/purple_stage": true,
+                  "skyfactory_5:color_stages/red_stage": true,
+                  "skyfactory_5:color_stages/white_stage": true,
+                  "skyfactory_5:color_stages/yellow_stage": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "skyfactory_5:stages/all_colors"
+  }
+}

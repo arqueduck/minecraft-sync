@@ -1,0 +1,11 @@
+{
+  "type": "thermal:insolator_catalyst",
+  "ingredient": {
+    "item": "thermal:phyto_tnt"
+  },
+  "primary_mod": 1.7,
+  "secondary_mod": 2.7,
+  "energy_mod": 0.75,
+  "min_chance": 0.1,
+  "use_chance": 0.5
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  F", " S ", "N  "],
+  "key": {
+    "F": [
+      {
+        "tag": "forge:ingots/force"
+      }
+    ],
+    "N": [
+      {
+        "tag": "forge:nuggets/force"
+      }
+    ],
+    "S": [
+      {
+        "tag": "forge:rods"
+      }
+    ]
+  },
+  "result": {
+    "item": "forcecraft:force_rod"
+  }
+}

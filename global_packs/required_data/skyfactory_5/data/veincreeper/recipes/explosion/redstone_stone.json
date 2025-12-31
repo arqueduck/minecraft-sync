@@ -1,0 +1,16 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "redstone_creeper",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "minecraft:redstone_ore"
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:redstone_creeper"
+    }
+  ]
+}

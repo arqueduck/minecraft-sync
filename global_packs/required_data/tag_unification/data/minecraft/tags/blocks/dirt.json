@@ -1,0 +1,32 @@
+{
+  "values": [
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mycelium",
+    "minecraft:rooted_dirt",
+    "minecraft:moss_block",
+    "minecraft:mud",
+    "minecraft:muddy_mangrove_roots",
+    "#minecraft:wool",
+    "colouredstuff:dirt_yellow",
+    "colouredstuff:dirt_white",
+    "colouredstuff:dirt_red",
+    "colouredstuff:dirt_purple",
+    "colouredstuff:dirt_pink",
+    "colouredstuff:dirt_orange",
+    "colouredstuff:dirt_magenta",
+    "colouredstuff:dirt_lime",
+    "colouredstuff:dirt_light_gray",
+    "colouredstuff:dirt_light_blue",
+    "colouredstuff:dirt_green",
+    "colouredstuff:dirt_gray",
+    "colouredstuff:dirt_cyan",
+    "colouredstuff:dirt_brown",
+    "colouredstuff:dirt_blue",
+    "colouredstuff:dirt_black",
+    "colouredstuff:dirt_none",
+    "sf5_things:glowing_dirtstone"
+  ]
+}

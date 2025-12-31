@@ -1,0 +1,138 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 2,
+    "categories": ["gem"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:gems/lapis"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.lapis_lazuli"
+  },
+  "stats": {
+    "main": {
+      "durability": 200.0,
+      "armor_durability": 13.0,
+      "enchantment_value": 17.0,
+      "rarity": 30.0,
+      "charging_value": 1.3,
+      "harvest_level": 2.0,
+      "harvest_speed": 5.0,
+      "melee_damage": 2.0,
+      "magic_damage": 3.0,
+      "attack_speed": 0.0,
+      "ranged_damage": 0.0,
+      "ranged_speed": -0.1,
+      "projectile_speed": 1.0,
+      "projectile_accuracy": 0.8,
+      "armor": 15.0,
+      "armor/helmet": 2.0,
+      "armor/chestplate": 6.0,
+      "armor/leggings": 5.0,
+      "armor/boots": 2.0,
+      "magic_armor": 10.0
+    },
+    "tip": {
+      "harvest_speed": {
+        "mul2": -0.1
+      },
+      "magic_damage": {
+        "add": 2.0
+      },
+      "attack_speed": {
+        "add": 0.3
+      }
+    },
+    "adornment": {}
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:holy",
+        "level": 1,
+        "conditions": [
+          {
+            "type": "silentgear:material_ratio",
+            "ratio": 0.75
+          }
+        ]
+      },
+      {
+        "name": "silentgear:lucky",
+        "level": 4,
+        "conditions": [
+          {
+            "type": "silentgear:material_ratio",
+            "ratio": 0.75
+          }
+        ]
+      }
+    ],
+    "adornment": [
+      {
+        "name": "silentgear:lucky",
+        "level": 3,
+        "conditions": [
+          {
+            "type": "silentgear:material_ratio",
+            "ratio": 0.75
+          }
+        ]
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_lc",
+        "color": "#224BAF"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#224BAF"
+      }
+    ],
+    "tip/all": [
+      {
+        "texture": "silentgear:tip_smooth",
+        "color": "#224BAF"
+      }
+    ],
+    "tip/part": [
+      {
+        "texture": "silentgear:tip_base"
+      },
+      {
+        "texture": "silentgear:tip",
+        "color": "#224BAF"
+      },
+      {
+        "texture": "silentgear:tip_shine"
+      }
+    ],
+    "adornment/all": [
+      {
+        "texture": "silentgear:adornment_generic",
+        "color": "#224BAF"
+      }
+    ],
+    "adornment/part": [
+      {
+        "texture": "silentgear:adornment",
+        "color": "#224BAF"
+      },
+      {
+        "texture": "silentgear:adornment_highlight"
+      }
+    ]
+  }
+}

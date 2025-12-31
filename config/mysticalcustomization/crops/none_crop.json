@@ -1,0 +1,12 @@
+{
+  "name": "Colorless",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "tag": "skyfactory_5:colors/processing_items/colorless"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust"
+  }
+}

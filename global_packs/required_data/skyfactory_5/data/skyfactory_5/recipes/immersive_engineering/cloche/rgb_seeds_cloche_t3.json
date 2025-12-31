@@ -1,0 +1,8 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:rgb_crop_seeds" },
+  "render": { "type": "crop", "block": "mysticalagriculture:rgb_crop_crop" },
+  "results": [{ "count": 2, "item": "mysticalagriculture:rgb_crop_essence" }],
+  "soil": { "item": "mysticalagriculture:tertium_farmland" },
+  "time": 400
+}

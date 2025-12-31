@@ -1,0 +1,4 @@
+{
+  "values": ["heads:ocelot_head", "heads:ocelot_wall_head"],
+  "replace": true
+}

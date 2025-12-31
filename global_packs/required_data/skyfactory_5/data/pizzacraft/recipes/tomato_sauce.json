@@ -1,0 +1,12 @@
+{
+  "type": "pizzacraft:crushing_recipe",
+  "input": {
+    "item": "thermal:tomato"
+  },
+  "inputCount": 4,
+  "content": "tomato_sauce",
+  "result": {
+    "item": "thermal:tomato_sauce",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "silentgear:durability",
+  "max_level": 5,
+  "name": {
+    "translate": "trait.silentgear.sturdy"
+  },
+  "description": {
+    "translate": "trait.silentgear.sturdy.desc"
+  },
+  "cancels_with": ["silentgear:brittle"],
+  "effect_scale": -1,
+  "activation_chance": 0.175
+}

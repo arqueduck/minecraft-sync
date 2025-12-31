@@ -1,0 +1,4 @@
+# Whether search for recipes asynchronously.
+asyncRecipeSearching = true
+# Whether use vbo for preview page rendering.
+useVBO = true

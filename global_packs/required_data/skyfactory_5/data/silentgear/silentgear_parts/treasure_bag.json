@@ -1,0 +1,14 @@
+{
+  "type": "silentgear:compound_part",
+  "gear_type": "all",
+  "part_type": "silentgear:main",
+  "crafting_item": {
+    "item": "minecraft:red_dye"
+  },
+  "name": {
+    "translate": "Treasure Bag"
+  },
+  "stats": {
+    "repair_efficiency": 1.0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "advancement": "forcecraft:tier1/tier",
+  "category": "forcecraft:tier_1",
+  "icon": "minecraft:charcoal",
+  "name": "info.forcecraft.book.heat.entry.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "info.forcecraft.book.heat_info.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "secret": true
+}

@@ -1,0 +1,15 @@
+{
+  "entity": "minecraft:rabbit",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:carrot"
+  },
+  "offset": 0,
+  "scale": 2,
+  "variants": [
+    {
+      "RabbitType": "6"
+    }
+  ]
+}

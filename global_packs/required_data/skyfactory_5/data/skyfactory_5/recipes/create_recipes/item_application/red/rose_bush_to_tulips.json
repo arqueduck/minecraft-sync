@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:rose_bush"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:red_tulip" }]
+}

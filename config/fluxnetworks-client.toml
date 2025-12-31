@@ -1,0 +1,5 @@
+[gui]
+# Enable navigation buttons sound when pressing it
+enableButtonSound = true
+# Enable Modern UI
+enableGuiDebug = false

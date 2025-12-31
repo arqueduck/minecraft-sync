@@ -1,0 +1,11 @@
+{
+  "type": "enderio:fire_crafting",
+  "base_blocks": [
+    {
+      "block": "minecraft:nether_wart_block"
+    }
+  ],
+  "dimensions": ["minecraft:overworld", "minecraft:the_nether"],
+  "loot_table": "enderio:fire_crafting/infinity",
+  "max_item_drops": 1
+}

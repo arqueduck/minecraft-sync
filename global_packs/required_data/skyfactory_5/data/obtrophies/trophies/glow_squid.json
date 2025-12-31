@@ -1,0 +1,11 @@
+{
+  "entity": "minecraft:glow_squid",
+  "behavior": {
+    "type": "obtrophies:mob_effect",
+    "amplifier": 0,
+    "effect": "minecraft:glowing",
+    "time": 200
+  },
+  "offset": 0.5,
+  "scale": 1
+}

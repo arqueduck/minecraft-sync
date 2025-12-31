@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Black Loot Bag",
+  "color": "#000000",
+  "rarity": "COMMON",
+  "output": {
+    "table": "treasurebags:bags/black"
+  }
+}

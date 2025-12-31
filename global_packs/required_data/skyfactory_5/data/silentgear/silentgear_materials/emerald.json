@@ -1,0 +1,176 @@
+{
+  "type": "silentgear:standard",
+  "simple": true,
+  "availability": {
+    "tier": 3,
+    "categories": ["gem"],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "tag": "forge:gems/emerald"
+    }
+  },
+  "name": {
+    "translate": "material.silentgear.emerald"
+  },
+  "stats": {
+    "main": {
+      "durability": 1080.0,
+      "armor_durability": 24.0,
+      "enchantment_value": 16.0,
+      "rarity": 40.0,
+      "charging_value": 1.0,
+      "repair_value": 0.25,
+      "harvest_level": 2.0,
+      "harvest_speed": 10.0,
+      "melee_damage": 2.0,
+      "magic_damage": 2.0,
+      "attack_speed": 0.0,
+      "attack_speed/hoe": 1.0,
+      "ranged_damage": 1.0,
+      "ranged_speed": -0.1,
+      "projectile_speed": 1.1,
+      "projectile_accuracy": 0.9,
+      "armor": 16.0,
+      "armor/helmet": 3.0,
+      "armor/chestplate": 6.0,
+      "armor/leggings": 4.0,
+      "armor/boots": 3.0,
+      "armor_toughness": 4.0,
+      "magic_armor": 6.0
+    },
+    "rod": {
+      "harvest_speed": {
+        "mul2": 0.3
+      }
+    },
+    "tip": {
+      "durability": {
+        "add": 512.0
+      },
+      "armor_durability": {
+        "add": 12.0
+      },
+      "harvest_level": {
+        "max": 2.0
+      },
+      "harvest_speed": {
+        "add": 2.0
+      },
+      "melee_damage": {
+        "add": 1.0
+      },
+      "magic_damage": {
+        "add": 2.0
+      },
+      "ranged_damage": {
+        "add": 1.0
+      },
+      "rarity": {
+        "add": 20.0
+      }
+    },
+    "adornment": {}
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:brittle",
+        "level": 4,
+        "conditions": [
+          {
+            "type": "silentgear:material_ratio",
+            "ratio": 0.5
+          }
+        ]
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      }
+    ],
+    "adornment": [
+      {
+        "name": "silentgear:reach",
+        "level": 2
+      }
+    ]
+  },
+  "model": {
+    "main/all": [
+      {
+        "texture": "silentgear:main_generic_hc",
+        "color": "#00B038"
+      },
+      {
+        "texture": "silentgear:_highlight"
+      }
+    ],
+    "main/fragment": [
+      {
+        "texture": "silentgear:metal",
+        "color": "#00B038"
+      }
+    ],
+    "rod/all": [
+      {
+        "texture": "silentgear:rod_generic_hc",
+        "color": "#00B038"
+      }
+    ],
+    "rod/part": [
+      {
+        "texture": "silentgear:rod",
+        "color": "#00B038"
+      }
+    ],
+    "tip/all": [
+      {
+        "texture": "silentgear:tip_sharp",
+        "color": "#00B038"
+      }
+    ],
+    "tip/part": [
+      {
+        "texture": "silentgear:tip_base"
+      },
+      {
+        "texture": "silentgear:tip",
+        "color": "#00B038"
+      },
+      {
+        "texture": "silentgear:tip_shine"
+      }
+    ],
+    "adornment/all": [
+      {
+        "texture": "silentgear:adornment_generic",
+        "color": "#00B038"
+      },
+      {
+        "texture": "silentgear:adornment_highlight",
+        "color": "#00B038"
+      }
+    ],
+    "adornment/part": [
+      {
+        "texture": "silentgear:adornment",
+        "color": "#00B038"
+      },
+      {
+        "texture": "silentgear:adornment_highlight"
+      }
+    ]
+  }
+}

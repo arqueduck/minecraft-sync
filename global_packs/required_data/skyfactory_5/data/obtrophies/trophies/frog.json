@@ -1,0 +1,15 @@
+{
+  "entity": "minecraft:frog",
+  "behavior": {
+    "type": "obtrophies:item",
+    "cooldown": 20000,
+    "item": "minecraft:slime_ball"
+  },
+  "offset": 0,
+  "scale": 1.5,
+  "variants": [
+    {
+      "variant": "minecraft:cold"
+    }
+  ]
+}

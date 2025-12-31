@@ -1,0 +1,7 @@
+{
+  "type": "forcecraft:add_config_features",
+  "biomes": "#skyfactory_5:none",
+  "enabledConfig": "add_force_tree",
+  "features": "forcecraft:force_tree",
+  "step": "vegetal_decoration"
+}

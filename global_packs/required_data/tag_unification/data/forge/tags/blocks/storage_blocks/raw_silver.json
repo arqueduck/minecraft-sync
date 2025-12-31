@@ -1,0 +1,8 @@
+{
+  "values": [
+    "thermal:raw_silver_block",
+    "immersiveengineering:raw_block_silver",
+    "occultism:raw_silver_block"
+  ],
+  "replace": true
+}

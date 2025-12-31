@@ -1,0 +1,155 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplehats:monocle"
+    },
+    "title": "141-160",
+    "description": {
+      "text": " "
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:tracking_advancements/simple_hats/121_140",
+  "criteria": {
+    "monocle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:monocle"] }]
+      }
+    },
+    "moreeyes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:moreeyes"] }]
+      }
+    },
+    "murdered": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:murdered"] }]
+      }
+    },
+    "nekoears": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:nekoears"] }]
+      }
+    },
+    "nyan_doll": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:nyan_doll"] }]
+      }
+    },
+    "orange_hat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:orange_hat"] }]
+      }
+    },
+    "palmtree": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:palmtree"] }]
+      }
+    },
+    "paperbag": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:paperbag"] }]
+      }
+    },
+    "partyhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:partyhat"] }]
+      }
+    },
+    "paypay": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:paypay"] }]
+      }
+    },
+    "penguinbaby": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:penguinbaby"] }]
+      }
+    },
+    "penguinhat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:penguinhat"] }]
+      }
+    },
+    "peppino": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:peppino"] }]
+      }
+    },
+    "pighead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:pighead"] }]
+      }
+    },
+    "pinhead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:pinhead"] }]
+      }
+    },
+    "plaguedoctor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:plaguedoctor"] }]
+      }
+    },
+    "pog": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "player": [], "items": [{ "items": ["simplehats:pog"] }] }
+    },
+    "pohatoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:pohatoe"] }]
+      }
+    },
+    "policebucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:policebucket"] }]
+      }
+    },
+    "policesiren": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [{ "items": ["simplehats:policesiren"] }]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "tag": "forge:raw_materials/uranium"
+  },
+  "result": [
+    {
+      "item": "immersiveengineering:dust_uranium",
+      "chance": 1.25
+    }
+  ],
+  "experience": 0.1
+}

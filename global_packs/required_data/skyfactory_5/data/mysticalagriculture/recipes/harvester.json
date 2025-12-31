@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ISI", "HBH", "ISI"],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "enderio:soularium_ingot"
+    },
+    "H": {
+      "item": "cyclic:scythe_leaves"
+    },
+    "B": {
+      "item": "mysticalagriculture:machine_frame"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:harvester"
+  }
+}

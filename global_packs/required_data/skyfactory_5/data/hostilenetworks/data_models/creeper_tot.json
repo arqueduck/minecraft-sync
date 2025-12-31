@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "modid": "forcecraft",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "forcecraft:creeper_tot",
+  "variants": [],
+  "name": "entity.forcecraft.creeper_tot",
+  "name_color": "#80c71f",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 640,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:lime_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.creeper_tot",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:gunpowder",
+      "count": 4
+    },
+    {
+      "item": "minecraft:creeper_head",
+      "count": 4
+    },
+    {
+      "item": "forcecraft:spoils_bag",
+      "count": 1,
+      "cap_nbt": "{Parent:{Items:[],Size:8}}"
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "immersiveengineering:hammer_crushing",
+  "input": { "tag": "forge:ores/silver" },
+  "result": { "item": "thermal:silver_dust" }
+}

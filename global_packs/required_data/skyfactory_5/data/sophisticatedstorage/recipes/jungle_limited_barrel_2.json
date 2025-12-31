@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:limited_barrel_2"
+    }
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:jungle_planks"
+    },
+    "S": {
+      "item": "minecraft:jungle_slab"
+    }
+  },
+  "pattern": ["PPP", "S S", "PPP"],
+  "result": {
+    "item": "sophisticatedstorage:limited_barrel_2",
+    "nbt": "{woodType:\"jungle\"}"
+  }
+}

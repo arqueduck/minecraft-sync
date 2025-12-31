@@ -1,0 +1,63 @@
+{
+  "entity": "minecraft:zombified_piglin",
+  "variants": [],
+  "name": "entity.minecraft.zombified_piglin",
+  "name_color": "#f38caa",
+  "display_nbt": {},
+  "gui_scale": 1,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 2048,
+  "input": {
+    "item": "hostilenetworks:prediction_matrix",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "minecraft:pink_dye",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.zombified_piglin",
+  "fabricator_drops": [
+    {
+      "item": "minecraft:rotten_flesh",
+      "count": 4
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "count": 2
+    },
+    {
+      "item": "limbs:zombified_piglin_torso",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombified_piglin_right_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombified_piglin_right_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombified_piglin_left_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombified_piglin_left_arm",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "limbs:zombified_piglin_head",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "tier_data": [12, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

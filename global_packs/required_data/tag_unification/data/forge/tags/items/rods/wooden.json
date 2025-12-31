@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#forge:rods/force",
+    "minecraft:stick",
+    "silentgear:netherwood_stick",
+    "immersiveengineering:stick_treated",
+    "#forge:rods/force"
+  ],
+  "replace": true
+}

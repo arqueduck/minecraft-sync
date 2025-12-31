@@ -1,0 +1,91 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {},
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:sf5_blocks": {
+      "name": "Blocks",
+      "icon": {
+        "item": "minecraft:cobblestone"
+      },
+      "includes": [
+        {
+          "item": "minecraft:cobblestone"
+        },
+        {
+          "item": "minecraft:sand"
+        },
+        {
+          "item": "minecraft:andesite"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:glowstone"
+        },
+        {
+          "item": "minecraft:dripstone_block"
+        },
+        {
+          "item": "minecraft:diorite"
+        },
+        {
+          "item": "minecraft:granite"
+        },
+        {
+          "item": "minecraft:cobbled_deepslate"
+        },
+        {
+          "item": "minecraft:netherrack"
+        },
+        {
+          "item": "create:crimsite"
+        },
+        {
+          "item": "create:asurine"
+        },
+        {
+          "item": "create:veridium"
+        },
+        {
+          "item": "create:ochrum"
+        }
+      ],
+      "excludes": [
+        {
+          "recipe": "cyclic:compressed_cobblestone_u"
+        },
+        {
+          "recipe": "thermal:ice_charge/obsidian_from_lava_bucket"
+        },
+        {
+          "recipe": "ars_nouveau:water_essence_to_obsidian"
+        },
+        {
+          "recipe": "ars_nouveau:manipulation_essence_to_diorite"
+        },
+        {
+          "recipe": "ars_nouveau:manipulation_essence_to_andesite"
+        },
+        {
+          "recipe": "minecraft:andesite"
+        },
+        {
+          "recipe": "minecraft:dripstone_block"
+        },
+        {
+          "recipe": "minecraft:glowstone"
+        },
+        {
+          "recipe": "minecraft:ens_granite"
+        },
+        {
+          "recipe": "exnihilosequentia:ens_granite"
+        }
+      ],
+      "priority": 99997
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" S ", "G G", " S "],
+  "key": {
+    "S": {
+      "item": "enderio:soularium_ingot"
+    },
+    "G": {
+      "item": "mysticalagriculture:soul_glass"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:experience_capsule"
+  }
+}

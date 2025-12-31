@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "mysticalagriculture:purple_crop_seeds" },
+  "render": { "type": "crop", "block": "mysticalagriculture:purple_crop_crop" },
+  "results": [
+    { "count": 2, "item": "mysticalagriculture:purple_crop_essence" }
+  ],
+  "soil": { "item": "mysticalagriculture:imperium_farmland" },
+  "time": 320
+}

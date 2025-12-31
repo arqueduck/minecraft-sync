@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["fSf", "fPf", "fff"],
+  "key": {
+    "P": {
+      "item": "rftoolsutility:module_template"
+    },
+    "f": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "S": {
+      "item": "forcecraft:cave_spider_flask"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:poison_module"
+  },
+  "show_notification": false
+}

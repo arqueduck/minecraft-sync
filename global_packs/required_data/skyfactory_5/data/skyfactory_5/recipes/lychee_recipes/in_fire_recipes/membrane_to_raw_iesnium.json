@@ -1,0 +1,64 @@
+{
+  "type": "lychee:item_inside",
+  "item_in": {
+    "item": "cyclic:membrane"
+  },
+  "block_in": {
+    "blocks": ["occultism:spirit_fire"]
+  },
+  "post": [
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.929 0.929 0.929 2 0.231 0.714 0.871 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "place",
+      "block": "air"
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.929 0.929 0.929 2 0.231 0.714 0.871 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.929 0.929 0.929 2 0.231 0.714 0.871 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.929 0.929 0.929 2 0.231 0.714 0.871 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "execute",
+      "command": "particle dust_color_transition 0.929 0.929 0.929 2 0.231 0.714 0.871 ~ ~ ~ 0.000 .5 0 0.0005 30 normal",
+      "hide": true
+    },
+    {
+      "type": "delay",
+      "s": "1"
+    },
+    {
+      "type": "drop_item",
+      "item": "occultism:raw_iesnium"
+    }
+  ]
+}

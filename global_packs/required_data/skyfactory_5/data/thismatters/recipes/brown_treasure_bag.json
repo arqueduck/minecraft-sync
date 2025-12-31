@@ -1,0 +1,11 @@
+{
+  "type": "thismatters:organic_matter_compression",
+  "compressingtime": 900,
+  "ingredient": {
+    "item": "minecraft:brown_dye"
+  },
+  "result": {
+    "item": "lootbags:loot_bag",
+    "nbt": "{Color:9849600,Loot:\"skyfactory_5:loot_bags/brown_loot_bag\",Name:\"Brown Loot Bag\",Type:\"COMMON\"}"
+  }
+}

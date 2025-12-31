@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "sushigocrafting:cucumber_slices",
+    "pizzacraft:onion_slice",
+    "pizzacraft:pepper_slice",
+    "pizzacraft:pineapple_slice",
+    "pizzacraft:tomato_slice",
+    "pizzacraft:mushroom_slice",
+    "pizzacraft:ham",
+    "pizzacraft:wing",
+    "pizzacraft:cooked_wing",
+    "thermal:cheese_wedge"
+  ]
+}

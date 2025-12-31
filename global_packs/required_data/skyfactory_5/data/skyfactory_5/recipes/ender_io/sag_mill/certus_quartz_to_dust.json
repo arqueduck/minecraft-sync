@@ -1,0 +1,13 @@
+{
+  "type": "enderio:sag_milling",
+  "energy": 2400,
+  "input": {
+    "tag": "ae2:all_certus_quartz"
+  },
+  "outputs": [
+    {
+      "count": 1,
+      "item": "ae2:certus_quartz_dust"
+    }
+  ]
+}

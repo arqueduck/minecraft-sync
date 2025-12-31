@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "thermal:lumium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:lumium_plate"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": ["N", "I"],
+  "key": {
+    "N": {
+      "tag": "skyfactory_5:torches"
+    },
+    "I": {
+      "item": "minecraft:warped_fence"
+    }
+  },
+  "result": {
+    "item": "mcwlights:warped_tiki_torch",
+    "count": 1
+  }
+}

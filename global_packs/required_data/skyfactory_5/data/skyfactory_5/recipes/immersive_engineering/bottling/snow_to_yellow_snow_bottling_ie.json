@@ -1,0 +1,6 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": { "amount": 1000, "tag": "skyfactory_5:yellow_water" },
+  "input": { "item": "minecraft:snow_block" },
+  "results": [{ "item": "yellow_snow:yellow_snow" }]
+}

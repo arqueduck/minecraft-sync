@@ -1,0 +1,18 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "ae2:fluix_upgrade_smithing_template"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:coast_armor_trim_smithing_template",
+      "count": 1
+    }
+  ],
+  "energy": 1000
+}

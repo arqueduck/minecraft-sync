@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:axolotl",
+  "offset": 0,
+  "scale": 1.25,
+  "variants": [
+    {
+      "Variant": "0"
+    }
+  ]
+}

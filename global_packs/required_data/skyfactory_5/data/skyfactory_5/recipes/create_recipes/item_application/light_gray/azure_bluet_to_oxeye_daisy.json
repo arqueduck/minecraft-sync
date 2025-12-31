@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "minecraft:azure_bluet"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    }
+  ],
+  "results": [{ "item": "minecraft:oxeye_daisy" }]
+}

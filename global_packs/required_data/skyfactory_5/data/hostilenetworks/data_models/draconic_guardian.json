@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "modid": "draconicevolution",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "entity": "draconicevolution:draconic_guardian",
+  "variants": [],
+  "name": "entity.draconicevolution.draconic_guardian",
+  "name_color": "#1d1c21",
+  "display_nbt": {},
+  "gui_scale": 0.4,
+  "gui_x_offset": 0,
+  "gui_y_offset": 0,
+  "gui_z_offset": 0,
+  "sim_cost": 256000,
+  "input": {
+    "item": "draconicevolution:wyvern_core",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "draconicevolution:dragon_heart",
+    "count": 8
+  },
+  "trivia": "hostilenetworks.trivia.draconic_guardian",
+  "fabricator_drops": [
+    {
+      "item": "bhc:blue_heart",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "item": "draconicevolution:large_chaos_frag",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "tier_data": [1, 60, 360, 1260],
+  "data_per_kill": [1, 4, 10, 18]
+}

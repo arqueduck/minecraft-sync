@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#forge:barrels/wooden",
+    "sophisticatedstorage:barrel",
+    "sophisticatedstorage:copper_barrel",
+    "sophisticatedstorage:iron_barrel",
+    "sophisticatedstorage:gold_barrel",
+    "sophisticatedstorage:diamond_barrel",
+    "sophisticatedstorage:netherite_barrel"
+  ],
+  "replace": true
+}

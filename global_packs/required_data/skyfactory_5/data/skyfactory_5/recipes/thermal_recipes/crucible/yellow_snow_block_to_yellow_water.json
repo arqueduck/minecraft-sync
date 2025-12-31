@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "yellow_snow:yellow_snow"
+  },
+  "result": [
+    {
+      "fluid": "colouredstuff:water_yellow",
+      "amount": 500
+    }
+  ],
+  "energy": 800
+}

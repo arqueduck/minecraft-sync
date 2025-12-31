@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GCG", " S ", "SSS"],
+  "key": {
+    "S": {
+      "item": "enderio:soularium_block"
+    },
+    "C": {
+      "item": "minecraft:orange_wool"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:awakening_altar"
+  }
+}

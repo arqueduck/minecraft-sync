@@ -1,0 +1,12 @@
+{
+  "name": "RGB",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "sf5_things:rgb_dye"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_tall_gem"
+  }
+}

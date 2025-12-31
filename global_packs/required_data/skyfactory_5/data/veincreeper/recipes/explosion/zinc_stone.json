@@ -1,0 +1,18 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "zinc_creeper",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "create:zinc_ore",
+    "bonus": "create:zinc_block",
+    "bonusChance": 25
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:zinc_creeper"
+    }
+  ]
+}

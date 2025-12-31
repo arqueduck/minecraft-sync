@@ -1,0 +1,14 @@
+{
+  "type": "exnihilosequentia:precipitate",
+  "fluid": {
+    "amount": 1000,
+    "fluid": "colouredstuff:water_none"
+  },
+  "input": {
+    "item": "minecraft:sand"
+  },
+  "result": {
+    "count": 1,
+    "item": "sf5_things:block_of_colorless_dye"
+  }
+}

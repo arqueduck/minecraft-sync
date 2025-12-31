@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "name": "minecraft:cod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:salmon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:tropical_fish",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "enchantments": [
+                  {
+                    "enchantment": "minecraft:luck_of_the_sea",
+                    "levels": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:pufferfish",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "enchantments": [
+                  {
+                    "enchantment": "minecraft:luck_of_the_sea",
+                    "levels": 2
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 30,
+          "name": "sushigocrafting:entities/shrimp"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 30,
+          "name": "sushigocrafting:entities/tuna"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/fishing/fish"
+}

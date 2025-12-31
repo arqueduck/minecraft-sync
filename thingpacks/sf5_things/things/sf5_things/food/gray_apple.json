@@ -1,0 +1,18 @@
+{
+  "nutrition": 4,
+  "saturation": 0.75,
+  "meat": false,
+  "fast": false,
+  "always_eat": true,
+  "effects": [
+    {
+      "effect": "cyclic:magnetic",
+      "duration": 400,
+      "amplifier": 1,
+      "ambient": false,
+      "visible": true,
+      "show_particles": false,
+      "show_icon": true
+    }
+  ]
+}

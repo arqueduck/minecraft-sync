@@ -1,0 +1,24 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "mysticalagriculture:pink_crop_seeds"
+    },
+    {
+      "type": "drop_item",
+      "item": "supplementaries:soap"
+    }
+  ],
+  "item_in": [
+    {
+      "item": "mysticalagriculture:red_crop_seeds"
+    },
+    {
+      "item": "supplementaries:soap"
+    }
+  ],
+  "block_in": {
+    "tag": "skyfactory_5:kitchen_sinks"
+  }
+}

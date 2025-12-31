@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:copper_to_gold_tier_upgrade"
+    }
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": ["GGG", "GCG", "GGG"],
+  "result": {
+    "item": "sophisticatedstorage:copper_to_gold_tier_upgrade"
+  }
+}

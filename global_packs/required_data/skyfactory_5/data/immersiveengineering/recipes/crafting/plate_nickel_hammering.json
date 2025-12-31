@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "forge:ingots/nickel" },
+    { "item": "immersiveengineering:hammer" }
+  ],
+  "result": { "item": "thermal:nickel_plate" }
+}

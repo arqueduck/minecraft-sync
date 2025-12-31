@@ -1,0 +1,16 @@
+{
+  "type": "veincreeper:explosion",
+  "veincreeper": "lime",
+  "target": {
+    "tag": "minecraft:stone_ore_replaceables"
+  },
+  "ore": {
+    "block": "sf5_things:block_of_lime_dye"
+  },
+  "conditions": [
+    {
+      "type": "flib:entity_exists",
+      "value": "veincreeper:lime"
+    }
+  ]
+}

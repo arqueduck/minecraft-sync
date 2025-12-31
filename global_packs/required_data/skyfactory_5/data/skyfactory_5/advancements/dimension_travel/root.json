@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "any_location": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirements": [["crafting_table", "any_location"]],
+  "rewards": {
+    "function": "skyfactory_5:stages/colorless_stage"
+  }
+}

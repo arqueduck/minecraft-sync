@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#forge:wires/copper",
+    "#forge:wires/electrum",
+    "#forge:wires/aluminum",
+    "#forge:wires/steel",
+    "#forge:wires/lead",
+    "createaddition:copper_wire",
+    "createaddition:iron_wire",
+    "createaddition:gold_wire",
+    "createaddition:electrum_wire"
+  ],
+  "replace": true
+}

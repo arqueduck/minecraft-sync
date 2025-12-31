@@ -1,0 +1,11 @@
+{
+  "values": [
+    "thermal:silver_ore",
+    "thermal:deepslate_silver_ore",
+    "immersiveengineering:ore_silver",
+    "immersiveengineering:deepslate_ore_silver",
+    "occultism:silver_ore",
+    "occultism:silver_ore_deepslate"
+  ],
+  "replace": true
+}

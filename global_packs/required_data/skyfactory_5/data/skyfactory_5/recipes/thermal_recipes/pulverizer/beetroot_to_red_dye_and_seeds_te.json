@@ -1,0 +1,17 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "minecraft:beetroot"
+  },
+  "result": [
+    {
+      "item": "minecraft:red_dye",
+      "chance": 2.0
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "chance": 0.1
+    }
+  ],
+  "experience": 0.1
+}

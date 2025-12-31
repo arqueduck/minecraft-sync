@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:limited_barrel_4"
+    }
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:warped_slab"
+    }
+  },
+  "pattern": ["SPS", "P P", "SPS"],
+  "result": {
+    "item": "sophisticatedstorage:limited_barrel_4",
+    "nbt": "{woodType:\"warped\"}"
+  }
+}

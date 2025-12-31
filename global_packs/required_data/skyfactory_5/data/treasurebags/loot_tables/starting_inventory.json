@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:gift",
+  "pools": [],
+  "random_sequence": "treasurebags:starting_inventory"
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_blue",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_white",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_red",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_purple",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_pink",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_orange",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_none",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_magenta",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_lime",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_light_gray",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_light_blue",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_green",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_gray",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_cyan",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_brown",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "colouredstuff:water_black",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

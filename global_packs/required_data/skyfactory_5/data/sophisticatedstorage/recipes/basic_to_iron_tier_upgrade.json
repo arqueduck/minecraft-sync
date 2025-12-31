@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:basic_to_iron_tier_upgrade"
+    }
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": ["III", "IPI", "III"],
+  "result": {
+    "item": "sophisticatedstorage:basic_to_iron_tier_upgrade"
+  }
+}

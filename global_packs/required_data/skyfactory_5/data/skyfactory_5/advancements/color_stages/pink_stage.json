@@ -1,0 +1,229 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:pink_concrete_powder"
+    },
+    "title": "Pink Color Stage",
+    "description": {
+      "translate": "skyfactory_5.advancement.pink.stage"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "skyfactory_5:color_stages/orange_stage",
+  "criteria": {
+    "porkchop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:porkchop"]
+          }
+        ]
+      }
+    },
+    "beef": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:beef"]
+          }
+        ]
+      }
+    },
+    "chicken": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:chicken"]
+          }
+        ]
+      }
+    },
+    "rabbit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:rabbit"]
+          }
+        ]
+      }
+    },
+    "mutton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:mutton"]
+          }
+        ]
+      }
+    },
+    "wing": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["pizzacraft:wing"]
+          }
+        ]
+      }
+    },
+    "cherry_sapling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:cherry_sapling"]
+          }
+        ]
+      }
+    },
+    "cherry_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:cherry_planks"]
+          }
+        ]
+      }
+    },
+    "cherry_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:cherry_log"]
+          }
+        ]
+      }
+    },
+    "pink_essence_seeds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:pink_crop_seeds"]
+          }
+        ]
+      }
+    },
+    "pink_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["mysticalagriculture:pink_crop_essence"]
+          }
+        ]
+      }
+    },
+    "goat_steak": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["colourfulgoats:goat_steak"]
+          }
+        ]
+      }
+    },
+    "niter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["thermal:niter"]
+          }
+        ]
+      }
+    },
+    "fertilizer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["immersiveengineering:fertilizer"]
+          }
+        ]
+      }
+    },
+    "fish_fillet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["pizzacraft:fish_fillet"]
+          }
+        ]
+      }
+    },
+    "dragon_breath": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["minecraft:dragon_breath"]
+          }
+        ]
+      }
+    },
+    "block_of_meat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_meat"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "porkchop",
+      "beef",
+      "chicken",
+      "rabbit",
+      "mutton",
+      "wing",
+      "cherry_sapling",
+      "cherry_planks",
+      "cherry_log",
+      "pink_essence",
+      "pink_essence_seeds",
+      "goat_steak",
+      "niter",
+      "fertilizer",
+      "fish_fillet",
+      "dragon_breath",
+      "block_of_meat"
+    ]
+  ],
+  "rewards": {
+    "function": "skyfactory_5:stages/pink_stage"
+  }
+}

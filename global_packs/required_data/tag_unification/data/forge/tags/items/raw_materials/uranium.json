@@ -1,0 +1,8 @@
+{
+  "values": [
+    "immersiveengineering:raw_uranium",
+    "biggerreactors:uranium_chunk",
+    "exnihilosequentia:raw_uranium"
+  ],
+  "replace": true
+}

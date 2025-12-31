@@ -1,0 +1,16 @@
+{
+  "type": "lychee:block_interacting",
+  "item_in": {
+    "item": "minecraft:potato"
+  },
+  "block_in": {
+    "tag": "skyfactory_5:shulker_boxes"
+  },
+  "post": [
+    {
+      "type": "execute",
+      "command": "function skyfactory_5:scp_1689/teleport_to_dimension",
+      "hide": true
+    }
+  ]
+}

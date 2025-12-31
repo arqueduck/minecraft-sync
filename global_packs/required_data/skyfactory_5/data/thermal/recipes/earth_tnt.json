@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "elemental_explosives"
+    }
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gunpowder"
+    },
+    "P": {
+      "item": "sf5_things:block_of_grass_clippings"
+    }
+  },
+  "pattern": ["GPG", "PGP", "GPG"],
+  "result": {
+    "item": "thermal:earth_tnt"
+  },
+  "show_notification": true
+}

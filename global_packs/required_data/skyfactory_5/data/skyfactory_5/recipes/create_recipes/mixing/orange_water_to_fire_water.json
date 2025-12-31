@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "amount": 1000,
+      "fluid": "colouredstuff:water_orange",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "fluid": "enderio:fire_water",
+      "amount": 1000
+    }
+  ]
+}

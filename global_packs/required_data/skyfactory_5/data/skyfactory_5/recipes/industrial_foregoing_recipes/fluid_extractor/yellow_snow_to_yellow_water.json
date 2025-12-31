@@ -1,0 +1,10 @@
+{
+  "type": "industrialforegoing:fluid_extractor",
+  "breakChance": 0.01,
+  "defaultRecipe": false,
+  "input": {
+    "item": "yellow_snow:yellow_snow"
+  },
+  "output": "{Amount:2,FluidName:\"colouredstuff:water_yellow\"}",
+  "result": "minecraft:snow_block"
+}

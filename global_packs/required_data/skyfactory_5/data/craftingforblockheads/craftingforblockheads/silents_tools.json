@@ -1,0 +1,382 @@
+{
+  "modid": "craftingforblockheads",
+  "preset": "skyfactory_5",
+  "predicates": {
+    "colored_crafting_table_present": {
+      "type": "any_of",
+      "conditions": [
+        {
+          "type": "workshop_core",
+          "tag": "skyfactory_5:colored_crafting_tables"
+        },
+        {
+          "type": "workshop_core",
+          "block": "colouredstuff:crafting_table_rainbow"
+        }
+      ]
+    }
+  },
+  "groups": {},
+  "filters": {
+    "craftingforblockheads:silents_tools": {
+      "name": "Silent's Tools",
+      "icon": {
+        "item": "silentgear:sword"
+      },
+      "includes": [
+        {
+          "item": "silentgear:sword"
+        },
+        {
+          "item": "silentgear:katana"
+        },
+        {
+          "item": "silentgear:machete"
+        },
+        {
+          "item": "silentgear:spear"
+        },
+        {
+          "item": "silentgear:trident"
+        },
+        {
+          "item": "silentgear:knife"
+        },
+        {
+          "item": "silentgear:dagger"
+        },
+        {
+          "item": "silentgear:pickaxe"
+        },
+        {
+          "item": "silentgear:shovel"
+        },
+        {
+          "item": "silentgear:axe"
+        },
+        {
+          "item": "silentgear:paxel"
+        },
+        {
+          "item": "silentgear:hammer"
+        },
+        {
+          "item": "silentgear:excavator"
+        },
+        {
+          "item": "silentgear:saw"
+        },
+        {
+          "item": "silentgear:prospector_hammer"
+        },
+        {
+          "item": "silentgear:hoe"
+        },
+        {
+          "item": "silentgear:mattock"
+        },
+        {
+          "item": "silentgear:sickle"
+        },
+        {
+          "item": "silentgear:shears"
+        },
+        {
+          "item": "silentgear:fishing_rod"
+        },
+        {
+          "item": "silentgear:bow"
+        },
+        {
+          "item": "silentgear:crossbow"
+        },
+        {
+          "item": "silentgear:slingshot"
+        },
+        {
+          "item": "silentgear:shield"
+        },
+        {
+          "item": "silentgear:helmet"
+        },
+        {
+          "item": "silentgear:chestplate"
+        },
+        {
+          "item": "silentgear:leggings"
+        },
+        {
+          "item": "silentgear:boots"
+        },
+        {
+          "item": "silentgear:elytra"
+        },
+        {
+          "item": "silentgear:ring"
+        },
+        {
+          "item": "silentgear:bracelet"
+        }
+      ],
+      "hard_requirements": ["colored_crafting_table_present"],
+      "priority": 100
+    },
+    "craftingforblockheads:silents_tool_parts": {
+      "name": "Silent's Tool Parts",
+      "icon": {
+        "item": "silentgear:axe_head"
+      },
+      "includes": [
+        {
+          "item": "silentgear:sword_blade"
+        },
+        {
+          "item": "silentgear:katana_blade"
+        },
+        {
+          "item": "silentgear:machete_blade"
+        },
+        {
+          "item": "silentgear:spear_tip"
+        },
+        {
+          "item": "silentgear:trident_prongs"
+        },
+        {
+          "item": "silentgear:knife_blade"
+        },
+        {
+          "item": "silentgear:dagger_blade"
+        },
+        {
+          "item": "silentgear:pickaxe_head"
+        },
+        {
+          "item": "silentgear:shovel_head"
+        },
+        {
+          "item": "silentgear:axe_head"
+        },
+        {
+          "item": "silentgear:paxel_head"
+        },
+        {
+          "item": "silentgear:hammer_head"
+        },
+        {
+          "item": "silentgear:excavator_head"
+        },
+        {
+          "item": "silentgear:saw_blade"
+        },
+        {
+          "item": "silentgear:hoe_head"
+        },
+        {
+          "item": "silentgear:mattock_head"
+        },
+        {
+          "item": "silentgear:prospector_hammer_head"
+        },
+        {
+          "item": "silentgear:sickle_blade"
+        },
+        {
+          "item": "silentgear:shears_blades"
+        },
+        {
+          "item": "silentgear:fishing_reel_and_hook"
+        },
+        {
+          "item": "silentgear:bow_limbs"
+        },
+        {
+          "item": "silentgear:crossbow_limbs"
+        },
+        {
+          "item": "silentgear:slingshot_limbs"
+        },
+        {
+          "item": "silentgear:shield_plate"
+        },
+        {
+          "item": "silentgear:helmet_plates"
+        },
+        {
+          "item": "silentgear:chestplate_plates"
+        },
+        {
+          "item": "silentgear:legging_plates"
+        },
+        {
+          "item": "silentgear:boot_plates"
+        },
+        {
+          "item": "silentgear:elytra_wings"
+        },
+        {
+          "item": "silentgear:ring_shank"
+        },
+        {
+          "item": "silentgear:bracelet_band"
+        },
+        {
+          "item": "silentgear:rod"
+        },
+        {
+          "item": "silentgear:tip"
+        },
+        {
+          "item": "silentgear:coating"
+        },
+        {
+          "item": "silentgear:grip"
+        },
+        {
+          "item": "silentgear:binding"
+        },
+        {
+          "item": "silentgear:lining"
+        },
+        {
+          "item": "silentgear:cord"
+        },
+        {
+          "item": "silentgear:adornment"
+        },
+        {
+          "item": "silentgear:machete"
+        }
+      ],
+      "hard_requirements": ["colored_crafting_table_present"],
+      "priority": 101
+    },
+    "craftingforblockheads:silents_templates": {
+      "name": "Silent's Gear Templates",
+      "icon": {
+        "item": "silentgear:template_board"
+      },
+      "includes": [
+        {
+          "item": "sf5_things:treasure_bag_template"
+        },
+        {
+          "item": "silentgear:rod_template"
+        },
+        {
+          "item": "silentgear:tip_template"
+        },
+        {
+          "item": "silentgear:coating_template"
+        },
+        {
+          "item": "silentgear:grip_template"
+        },
+        {
+          "item": "silentgear:binding_template"
+        },
+        {
+          "item": "silentgear:lining_template"
+        },
+        {
+          "item": "silentgear:cord_template"
+        },
+        {
+          "item": "silentgear:sword_template"
+        },
+        {
+          "item": "silentgear:katana_template"
+        },
+        {
+          "item": "silentgear:machete_template"
+        },
+        {
+          "item": "silentgear:spear_template"
+        },
+        {
+          "item": "silentgear:trident_template"
+        },
+        {
+          "item": "silentgear:knife_template"
+        },
+        {
+          "item": "silentgear:dagger_template"
+        },
+        {
+          "item": "silentgear:pickaxe_template"
+        },
+        {
+          "item": "silentgear:shovel_template"
+        },
+        {
+          "item": "silentgear:axe_template"
+        },
+        {
+          "item": "silentgear:paxel_template"
+        },
+        {
+          "item": "silentgear:hammer_template"
+        },
+        {
+          "item": "silentgear:excavator_template"
+        },
+        {
+          "item": "silentgear:saw_template"
+        },
+        {
+          "item": "silentgear:hoe_template"
+        },
+        {
+          "item": "silentgear:mattock_template"
+        },
+        {
+          "item": "silentgear:prospector_hammer_template"
+        },
+        {
+          "item": "silentgear:sickle_template"
+        },
+        {
+          "item": "silentgear:shears_template"
+        },
+        {
+          "item": "silentgear:fishing_rod_template"
+        },
+        {
+          "item": "silentgear:bow_template"
+        },
+        {
+          "item": "silentgear:crossbow_template"
+        },
+        {
+          "item": "silentgear:slingshot_template"
+        },
+        {
+          "item": "silentgear:shield_template"
+        },
+        {
+          "item": "silentgear:helmet_template"
+        },
+        {
+          "item": "silentgear:chestplate_template"
+        },
+        {
+          "item": "silentgear:leggings_template"
+        },
+        {
+          "item": "silentgear:boots_template"
+        },
+        {
+          "item": "silentgear:elytra_template"
+        },
+        {
+          "item": "silentgear:ring_template"
+        },
+        {
+          "item": "silentgear:bracelet_template"
+        }
+      ],
+      "hard_requirements": ["colored_crafting_table_present"],
+      "priority": 102
+    }
+  }
+}
