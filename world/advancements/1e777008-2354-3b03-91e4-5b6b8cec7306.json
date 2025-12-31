@@ -8677,57 +8677,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-12-30 23:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-12-30 23:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-12-30 23:03:22 -0300"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
     "criteria": {
       "has_dried_kelp": "2025-12-30 23:04:13 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/creeper_trophy": {
-    "criteria": {
-      "has_creeper_trophy": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+      "has_dried_kelp": "2025-12-30 23:04:13 -0300"
     },
     "done": true
   },
@@ -8737,9 +8713,69 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+  "additionallanterns:recipes/misc/bone_chain": {
     "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+      "recipe_condition": "2025-12-30 23:23:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-12-30 23:25:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-12-30 23:25:04 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:color_stages/magenta_stage": {
+    "criteria": {
+      "onion": "2025-12-30 23:26:47 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/1_20": {
+    "criteria": {
+      "baseballhat": "2025-12-30 23:35:48 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:color_stages/cyan_stage": {
+    "criteria": {
+      "oxidized_copper": "2025-12-30 23:57:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
     },
     "done": true
   },
@@ -8749,9 +8785,39 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+  "enderio:recipes/misc/basic_fluid_filter": {
     "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+      "has_ingredient": "2025-12-31 00:14:47 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
+    "criteria": {
+      "has_bucket": "2025-12-31 00:14:47 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-12-31 00:14:47 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-12-31 00:17:59 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-31 00:24:57 -0300"
     },
     "done": true
   },
@@ -8767,75 +8833,9 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/basic_fluid_filter": {
-    "criteria": {
-      "has_ingredient": "2025-12-31 00:14:47 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_toilet": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_toilet": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-12-31 00:17:59 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-12-31 00:55:33 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-12-31 00:37:02 -0300"
     },
     "done": true
   },
@@ -8845,75 +8845,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-12-30 23:03:22 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-12-30 23:03:22 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_bath": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
     },
     "done": true
   },
@@ -8923,21 +8857,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
@@ -8947,39 +8869,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-12-30 23:04:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_basin": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
@@ -8989,81 +8881,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:color_stages/magenta_stage": {
-    "criteria": {
-      "onion": "2025-12-30 23:26:47 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_red_torch": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-12-30 23:25:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
     },
     "done": true
   },
@@ -9079,57 +8899,15 @@
     },
     "done": true
   },
-  "additionallanterns:recipes/misc/bone_chain": {
-    "criteria": {
-      "recipe_condition": "2025-12-30 23:23:53 -0300"
-    },
-    "done": true
-  },
   "additionallanterns:recipes/misc/stone_chain": {
     "criteria": {
       "recipe_condition": "2025-12-31 00:24:57 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "glow_sticks:recipes/crafting/glow_stick_red": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/titan_gateways/brown_titan_gateways": {
-    "criteria": {
-      "donkey": "2025-12-31 00:39:17 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
-    "criteria": {
-      "forge:dyes/red": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
@@ -9139,135 +8917,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-12-30 23:25:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_red": {
-    "criteria": {
-      "has_dyes/black": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-12-30 23:03:22 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_red": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/simple_hats/1_20": {
-    "criteria": {
-      "baseballhat": "2025-12-30 23:35:48 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/pink_force_furnace_from_dye": {
-    "criteria": {
-      "has_pink_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
-    "criteria": {
-      "has_bucket": "2025-12-31 00:14:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/pink_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
     },
     "done": true
   },
@@ -9283,24 +8935,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-12-31 00:24:57 -0300"
@@ -9313,15 +8947,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-12-31 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick": {
     "criteria": {
       "has_stone_bricks": "2025-12-31 00:25:08 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
     "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
     },
     "done": true
   },
@@ -9334,6 +9052,240 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-12-31 00:25:08 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-12-31 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-12-31 00:37:02 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/brown_titan_gateways": {
+    "criteria": {
+      "donkey": "2025-12-31 00:39:17 -0300"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_red": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
@@ -9355,15 +9307,171 @@
     },
     "done": true
   },
-  "skyfactory_5:color_stages/cyan_stage": {
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
     "criteria": {
-      "oxidized_copper": "2025-12-30 23:57:45 -0300"
+      "has_dye": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
     "criteria": {
-      "has_tag": "2025-12-31 00:25:08 -0300"
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/red_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2025-12-31 00:51:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/pink_force_furnace_from_dye": {
+    "criteria": {
+      "has_pink_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/pink_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-31 00:54:56 -0300"
     },
     "done": true
   },
@@ -9391,21 +9499,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
     "criteria": {
       "forge:dyes/pink": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-12-31 00:24:57 -0300"
     },
     "done": true
   },
@@ -9421,93 +9517,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-12-31 00:34:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-12-30 23:57:45 -0300"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/stone": {
-    "criteria": {
-      "has_planks": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-12-31 00:54:56 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/stone_bricks_chain": {
-    "criteria": {
-      "recipe_condition": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/witch_trophy": {
-    "criteria": {
-      "has_witch_trophy": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_red": {
-    "criteria": {
-      "has_dyes/black": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/stone_bricks": {
-    "criteria": {
-      "has_planks": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/stone_pillar_trim": {
-    "criteria": {
-      "has_stone_pillar_trim": "2025-12-31 00:24:57 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/stone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/red_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-12-31 00:51:06 -0300"
     },
     "done": true
   },
@@ -9517,33 +9529,21 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/jerrycan": {
-    "criteria": {
-      "has_bucket": "2025-12-31 00:14:47 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-12-31 00:25:08 -0300"
-    },
-    "done": true
-  },
   "forcecraft:recipes/building_blocks/force_pink_torch": {
     "criteria": {
       "has_dye": "2025-12-31 00:54:56 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
-    "criteria": {
-      "has_red_dye": "2025-12-31 00:51:06 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-12-31 00:54:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-12-31 00:55:33 -0300"
     },
     "done": true
   },
