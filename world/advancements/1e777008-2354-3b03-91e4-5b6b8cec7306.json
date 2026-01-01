@@ -2078,6 +2078,8 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/brown_normal_gateways": {
     "criteria": {
+      "horse": "2026-01-01 16:19:12 -0300",
+      "bat": "2026-01-01 16:19:11 -0300",
       "villager": "2025-12-31 00:39:17 -0300",
       "brown_vein_creeper": "2025-12-31 00:39:18 -0300",
       "cow": "2025-12-26 22:31:15 -0300"
@@ -9568,6 +9570,846 @@
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2025-12-31 16:45:35 -0300"
+    },
+    "done": true
+  },
+  "xercapaint:recipes/item_canvas": {
+    "criteria": {
+      "has_item": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_shinguard": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_shinguard": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2026-01-01 16:49:53 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_cyan": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_dimension_tab": {
+    "criteria": {
+      "redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2026-01-01 16:22:35 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/rapid_hopper": {
+    "criteria": {
+      "has_item": "2026-01-01 15:43:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/dimension_monitor": {
+    "criteria": {
+      "redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "forge:dyes/cyan": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-01 16:22:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_toilet": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_cyan_torch": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/vacuum_barge": {
+    "criteria": {
+      "has_item": "2026-01-01 15:43:42 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_compass": "2026-01-01 15:45:24 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:44 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/tools/locomotive_route": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:dough": "2026-01-01 16:22:35 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-01-01 16:33:23 -0300"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-01-01 16:22:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_diamond_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-01-01 16:33:23 -0300"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_axe": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/redstone/vessel_charger": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2026-01-01 16:30:27 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/phased_field_generator": {
+    "criteria": {
+      "redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_shard": {
+    "criteria": {
+      "has_item": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-01-01 15:45:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2026-01-01 16:22:35 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/rough_rod2": {
+    "criteria": {
+      "has_item": "2026-01-01 16:43:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-01 15:46:34 -0300"
+    },
+    "done": true
+  },
+  "forbiddensmoothies:recipes/decorations/printer": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_spear": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/cyan_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2026-01-01 15:43:42 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2026-01-01 16:22:35 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-01-01 16:41:31 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_cyan": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2026-01-01 16:22:35 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_compass": {
+    "criteria": {
+      "has_compass": "2026-01-01 15:45:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/diamond_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_doll_x4": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_sword": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/misc/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/tools/tug_route": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2026-01-01 16:22:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-01-01 16:41:31 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2026-01-01 15:43:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/redstone/fluid_hopper": {
+    "criteria": {
+      "has_item": "2026-01-01 15:43:42 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-01 16:22:45 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2026-01-01 15:45:19 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2026-01-01 16:19:52 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-01-01 16:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 16:37:59 -0300"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/treasure_core": {
+    "criteria": {
+      "has_diamond": "2026-01-01 16:41:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2026-01-01 16:22:35 -0300"
     },
     "done": true
   },
