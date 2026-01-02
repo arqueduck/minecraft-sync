@@ -5559,6 +5559,8 @@
   },
   "skyfactory_5:tracking_advancements/titan_gateways/lime_titan_gateways": {
     "criteria": {
+      "lime_vein_creeper": "2026-01-02 00:42:59 -0300",
+      "creeper_tot": "2026-01-02 00:42:59 -0300",
       "whirlisprig": "2025-12-28 23:37:59 -0300"
     },
     "done": false
@@ -9831,6 +9833,156 @@
   "littlelogistics:recipes/transportation/energy_tug": {
     "criteria": {
       "has_item": "2026-01-01 03:15:14 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2026-01-02 00:37:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2026-01-02 00:49:07 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2026-01-01 20:53:53 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_copper_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-02 00:49:07 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-02 00:37:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2026-01-02 00:37:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2026-01-02 00:51:33 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2026-01-02 00:50:59 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-02 00:50:59 -0300"
     },
     "done": true
   },
