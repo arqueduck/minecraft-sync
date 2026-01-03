@@ -11592,99 +11592,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_deepslate": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
-    "criteria": {
-      "has_item": "2026-01-02 22:50:41 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_pink_double": {
-    "criteria": {
-      "has_alt_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/green_petal_block": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2026-01-02 20:55:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_pink": {
-    "criteria": {
-      "has_alt_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
   "forcecraft:recipes/transmutation/transmutation/cooked_beef_to_porkchop": {
     "criteria": {
       "has_beef": "2026-01-02 20:24:48 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
+  "sophisticatedstorage:recipes/misc/copper_to_netherite_tier_upgrade": {
     "criteria": {
-      "has_item": "2026-01-02 22:55:21 -0300"
+      "has_copper_to_diamond_tier_upgrade": "2026-01-02 20:25:31 -0300"
     },
     "done": true
   },
@@ -11694,9 +11610,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
     "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
+      "has_datura": "2026-01-02 20:46:11 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
     },
     "done": true
   },
@@ -11706,57 +11628,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:21 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_the_recipe": "2026-01-02 22:57:17 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2026-01-02 23:00:43 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
-    "criteria": {
-      "has_datura": "2026-01-02 20:46:11 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
     },
     "done": true
   },
@@ -11772,111 +11646,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/track_switch_andesite": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
-    "criteria": {
-      "crafter": "2026-01-02 20:52:15 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
-    "criteria": {
-      "forge:dyes/yellow": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_yellow": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_petal_block": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-01-02 22:59:37 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2026-01-02 22:55:21 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2026-01-02 23:15:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2026-01-02 22:49:01 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/building_blocks/colouredstuff/sign_post_orange": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:54 -0300"
     },
     "done": true
   },
@@ -11889,30 +11661,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-01-02 20:52:28 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_bowl": {
-    "criteria": {
-      "has_yellow_bowl": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -11934,129 +11682,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/magnet_glove": {
-    "criteria": {
-      "has_compass": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
-    "criteria": {
-      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:35 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2026-01-02 22:55:21 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_alt_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
-    "criteria": {
-      "has_oak_sapling": "2026-01-02 23:58:23 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue_double": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:35 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_plate": {
-    "criteria": {
-      "has_yellow_plate": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12066,111 +11694,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2026-01-02 22:59:37 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green_double": {
-    "criteria": {
-      "has_alt_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "dimpaintings:recipes/transportation/end_painting": {
-    "criteria": {
-      "has_painting": "2026-01-02 23:15:51 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_green": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2026-01-02 20:52:15 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/lime_shiny_flower": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:35 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12180,33 +11706,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_copper_to_diamond_tier_upgrade": "2026-01-02 20:25:31 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_cup": {
-    "criteria": {
-      "has_yellow_cup": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12216,27 +11718,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/force_furnace_from_dye": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12246,33 +11730,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_compass": {
-    "criteria": {
-      "has_compass": "2026-01-02 22:55:02 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_crockery_combo": {
-    "criteria": {
-      "has_yellow_crockery_combo": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12288,111 +11748,15 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/challenge_gateways/white_challenge_gateway": {
-    "criteria": {
-      "white_challenge_gateway": "2026-01-02 23:43:08 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green": {
-    "criteria": {
-      "has_alt_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
-    "criteria": {
-      "has_iron_plate": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "create_mechanical_extruder:recipes/misc/crafting/mechanical_extruder": {
-    "criteria": {
-      "has_andesite_casing": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/fuel_tank": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:03 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_shiny_flower": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:35 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/packing_tape": {
-    "criteria": {
-      "has_slime": "2026-01-02 22:55:21 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_lime": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:35 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/simple_hats/61_80": {
-    "criteria": {
-      "dimmahat": "2026-01-02 22:49:10 -0300"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_blue": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
     },
     "done": true
   },
@@ -12402,75 +11766,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blaze_block": {
-    "criteria": {
-      "has_item": "2026-01-02 22:50:41 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_pink": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2026-01-02 23:00:43 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2026-01-02 22:55:13 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pink_petal_block": {
-    "criteria": {
-      "has_item": "2026-01-02 22:54:34 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/titan_gateways/white_titan_gateways": {
-    "criteria": {
-      "melon_golem": "2026-01-02 23:39:55 -0300",
-      "goat": "2026-01-02 23:39:55 -0300",
-      "polar_bear": "2026-01-02 23:24:53 -0300",
-      "llama": "2026-01-02 23:34:29 -0300",
-      "skeleton": "2026-01-02 23:39:56 -0300",
-      "skeleton_wolf": "2026-01-02 23:39:55 -0300",
-      "opalescent_eye": "2026-01-02 23:19:12 -0300"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "glow_sticks:recipes/crafting/glow_stick_yellow": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
@@ -12498,51 +11796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2026-01-02 22:55:21 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2026-01-03 00:04:35 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/yellow_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 23:02:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-01-02 20:50:16 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2026-01-02 22:55:21 -0300"
     },
     "done": true
   },
@@ -12558,15 +11814,519 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_dye": "2026-01-02 23:02:53 -0300"
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2026-01-02 20:52:15 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2026-01-02 20:52:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-02 20:52:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-01-02 20:55:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-01-02 22:49:01 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/61_80": {
+    "criteria": {
+      "dimmahat": "2026-01-02 22:49:10 -0300"
+    },
+    "done": false
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue_double": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create_mechanical_extruder:recipes/misc/crafting/mechanical_extruder": {
+    "criteria": {
+      "has_andesite_casing": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_compass": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:03 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_blue": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/colouredstuff/sign_post_orange": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-01-02 22:57:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-02 22:59:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-02 22:59:37 -0300"
     },
     "done": true
   },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2026-01-02 22:59:37 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2026-01-02 23:00:43 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2026-01-02 23:00:43 -0300"
     },
     "done": true
   },
@@ -12577,15 +12337,297 @@
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
     "criteria": {
-      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+      "has_dye": "2026-01-02 23:02:53 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearshift": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_item": "2026-01-02 22:55:01 -0300"
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_furnace_from_dye": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_yellow": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/yellow_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2026-01-02 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "dimpaintings:recipes/transportation/end_painting": {
+    "criteria": {
+      "has_painting": "2026-01-02 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/white_titan_gateways": {
+    "criteria": {
+      "melon_golem": "2026-01-02 23:39:55 -0300",
+      "goat": "2026-01-02 23:39:55 -0300",
+      "polar_bear": "2026-01-02 23:24:53 -0300",
+      "llama": "2026-01-02 23:34:29 -0300",
+      "skeleton": "2026-01-02 23:39:56 -0300",
+      "skeleton_wolf": "2026-01-02 23:39:55 -0300",
+      "opalescent_eye": "2026-01-02 23:19:12 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/challenge_gateways/white_challenge_gateway": {
+    "criteria": {
+      "white_challenge_gateway": "2026-01-02 23:43:08 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2026-01-02 23:58:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-01-03 00:04:35 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/rapid_hopper": {
+    "criteria": {
+      "has_item": "2026-01-03 02:00:39 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/vacuum_barge": {
+    "criteria": {
+      "has_item": "2026-01-03 02:00:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2026-01-03 02:10:01 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2026-01-03 02:00:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-01-03 02:10:01 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2026-01-03 02:00:39 -0300"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/redstone/fluid_hopper": {
+    "criteria": {
+      "has_item": "2026-01-03 02:00:39 -0300"
     },
     "done": true
   },
