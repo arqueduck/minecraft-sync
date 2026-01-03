@@ -4002,6 +4002,7 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/201_220": {
     "criteria": {
+      "swimmer": "2026-01-02 23:30:15 -0300",
       "spyzombie": "2025-12-27 01:55:46 -0300"
     },
     "done": false
@@ -4827,7 +4828,14 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/white_normal_gateways": {
     "criteria": {
-      "snow_golem": "2025-12-27 18:12:58 -0300"
+      "goat": "2026-01-02 23:19:12 -0300",
+      "polar_bear": "2026-01-02 23:39:55 -0300",
+      "white_vein_creeper": "2026-01-02 23:39:56 -0300",
+      "baby_ghast": "2026-01-02 23:39:57 -0300",
+      "llama": "2026-01-02 23:22:35 -0300",
+      "skeleton": "2026-01-02 23:39:57 -0300",
+      "snow_golem": "2025-12-27 18:12:58 -0300",
+      "ghast": "2026-01-02 23:22:35 -0300"
     },
     "done": false
   },
@@ -5349,7 +5357,8 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/blue_normal_gateways": {
     "criteria": {
-      "squid": "2025-12-27 20:36:13 -0300"
+      "squid": "2025-12-27 20:36:13 -0300",
+      "drowned": "2026-01-02 23:04:02 -0300"
     },
     "done": false
   },
@@ -6492,8 +6501,12 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/brown_normal_gateways": {
     "criteria": {
+      "horse": "2026-01-02 23:04:18 -0300",
+      "tadpole": "2026-01-02 23:30:26 -0300",
+      "bat": "2026-01-02 23:04:00 -0300",
       "villager": "2025-12-30 14:34:30 -0300",
       "brown_vein_creeper": "2025-12-31 17:09:23 -0300",
+      "rabbit": "2026-01-02 23:04:02 -0300",
       "donkey": "2025-12-30 14:34:30 -0300",
       "cod": "2025-12-31 17:09:23 -0300",
       "cow": "2025-12-30 14:34:29 -0300"
@@ -6502,7 +6515,10 @@
   },
   "skyfactory_5:tracking_advancements/titan_gateways/brown_titan_gateways": {
     "criteria": {
-      "ghast_cow": "2025-12-30 14:34:30 -0300"
+      "horse": "2026-01-02 23:04:01 -0300",
+      "ghast_cow": "2025-12-30 14:34:30 -0300",
+      "donkey": "2026-01-02 23:04:18 -0300",
+      "cod": "2026-01-02 23:04:18 -0300"
     },
     "done": false
   },
@@ -9986,123 +10002,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
     "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smoking/clinker_brick": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "littlelogistics:recipes/transportation/barge": {
-    "criteria": {
-      "has_item": "2026-01-02 01:45:33 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/gold_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
-    "criteria": {
-      "has_raw_tin": "2026-01-02 01:22:00 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-01-02 01:03:42 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
-    "criteria": {
-      "has_raw_silver": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
-    "criteria": {
-      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+      "has_tool": "2026-01-02 01:01:57 -0300"
     },
     "done": true
   },
@@ -10112,21 +10014,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "forbiddensmoothies:recipes/decorations/blender": {
     "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+      "has_flint": "2026-01-02 01:03:04 -0300"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_raw_nickel": "2026-01-02 01:28:17 -0300"
+      "has_flint": "2026-01-02 01:03:04 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_item": "2026-01-02 01:28:18 -0300"
+      "has_flint": "2026-01-02 01:03:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-01-02 01:03:42 -0300"
     },
     "done": true
   },
@@ -10136,21 +10044,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+      "has_glass_pane": "2026-01-02 01:03:42 -0300"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
+      "has_glass_pane": "2026-01-02 01:03:42 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
+      "has_glass_pane": "2026-01-02 01:03:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
     },
     "done": true
   },
@@ -10160,207 +10080,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_spade": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
     "criteria": {
       "has_purple_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_blaze": {
-    "criteria": {
-      "has_item": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
-    "criteria": {
-      "has_raw_silver": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-01-02 01:03:42 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/clinker_brick_quoin": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_toilet": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
-    "criteria": {
-      "has_tool": "2026-01-02 01:01:57 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2026-01-02 01:22:39 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
-    "criteria": {
-      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_blue": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_axe": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:15 -0300"
     },
     "done": true
   },
@@ -10376,177 +10098,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
-    "criteria": {
-      "forge:dyes/magenta": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_block": {
-    "criteria": {
-      "has_certus_quartz_crystal": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
-    "criteria": {
-      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_spade": {
-    "criteria": {
-      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_magenta": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-01-02 01:03:42 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_axe": {
-    "criteria": {
-      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_magenta": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
-    "criteria": {
-      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
-    "criteria": {
-      "has_certus_quartz_gem": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "forbiddensmoothies:recipes/decorations/blender": {
-    "criteria": {
-      "has_flint": "2026-01-02 01:03:04 -0300"
     },
     "done": true
   },
@@ -10556,39 +10110,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
-    "criteria": {
-      "forge:dyes/light_blue": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/purple_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/bricks_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:48 -0300"
     },
     "done": true
   },
@@ -10598,105 +10122,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/emerald_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2026-01-02 01:54:46 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/purple_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/light_blue_force_furnace_from_dye": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
-    "criteria": {
-      "has_raw_block_aluminum": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2026-01-02 01:45:43 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2026-01-02 01:29:18 -0300"
     },
     "done": true
   },
@@ -10712,96 +10140,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2026-01-02 01:03:04 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
-    "criteria": {
-      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_lavender": {
-    "criteria": {
-      "has_item": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_magenta_torch": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/simple_hats/101_120": {
-    "criteria": {
-      "fro": "2026-01-02 01:43:34 -0300"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/decorations/magenta_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_bath": {
     "criteria": {
       "has_purple_dye": "2026-01-02 01:11:05 -0300"
@@ -10814,27 +10152,201 @@
     },
     "done": true
   },
-  "exnihilosequentia:recipes/tools/ens_granite_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/purple_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2026-01-02 01:11:05 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/certus_quartz_sword": {
+  "forcecraft:recipes/building_blocks/force_brick_purple": {
     "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
     },
     "done": true
   },
-  "forcecraft:recipes/building_blocks/force_light_blue_torch": {
+  "colored_torches:recipes/misc/purple_torch_from_dyeing": {
     "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_purple_torch": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/purple_force_furnace_from_dye": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:15 -0300"
     },
     "done": true
   },
@@ -10844,9 +10356,381 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/pink_force_furnace_from_dye": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/pink_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_pink": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "forge:dyes/pink": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_pink_torch": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_magenta": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_magenta_torch": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magenta_force_furnace_from_dye": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_magenta": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/magenta_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:13:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/empty_upgrade": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2026-01-02 01:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2026-01-02 01:17:19 -0300"
     },
     "done": true
   },
@@ -10862,39 +10746,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2026-01-02 01:58:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_purple": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/light_blue_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2026-01-02 01:28:17 -0300"
     },
     "done": true
   },
@@ -10904,183 +10758,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/misc/pink_force_furnace_from_dye": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
-    "criteria": {
-      "has_raw_gold": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_dripstone_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/purple_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2026-01-02 01:22:39 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/magenta_force_furnace_from_dye": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ens_granite": {
-    "criteria": {
-      "has_pebble": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/light_blue_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2026-01-02 01:45:33 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "colored_torches:recipes/misc/pink_torch_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_purple": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ens_gilded_blackstone": {
-    "criteria": {
-      "has_gold": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
-    "criteria": {
-      "has_emerald_gem": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_magenta": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/brick_bridge": {
-    "criteria": {
-      "has_planks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_hoe": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_toilet": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
-    "criteria": {
-      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
     },
     "done": true
   },
@@ -11096,21 +10776,171 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_bricks_bridge": {
+  "botania:recipes/misc/quartz_red": {
     "criteria": {
-      "has_planks": "2026-01-02 01:29:18 -0300"
+      "has_item": "2026-01-02 01:17:19 -0300"
     },
     "done": true
   },
-  "glow_sticks:recipes/crafting/glow_stick_magenta": {
+  "botania:recipes/misc/quartz_sunny": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
+      "has_item": "2026-01-02 01:17:19 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
+      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-01-02 01:17:19 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "forge:dyes/light_blue": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/light_blue_force_furnace_from_dye": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_light_blue_torch": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/light_blue_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 01:18:05 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_light_blue_dye": "2026-01-02 01:18:05 -0300"
     },
     "done": true
   },
@@ -11138,207 +10968,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/quartz_red": {
-    "criteria": {
-      "has_item": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_sunny": {
-    "criteria": {
-      "has_item": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/emerald_from_shards": {
-    "criteria": {
-      "has_item": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bricks_corner_trim": {
-    "criteria": {
-      "has_bricks_corner_trim": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/force_ingot_from_gold": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_magenta_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_sword": {
-    "criteria": {
-      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2026-01-02 01:03:04 -0300"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/gold_stuff": {
-    "criteria": {
-      "has_wood": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
-    "criteria": {
-      "has_raw_zinc": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "modulargolems:recipes/misc/empty_upgrade": {
-    "criteria": {
-      "has_amethyst_shard": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
-    "criteria": {
-      "has_tin_ingot": "2026-01-02 01:23:17 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_purple_torch": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_iron_nugget": "2026-01-02 01:22:39 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_toilet": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "glow_sticks:recipes/crafting/glow_stick_pink": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_pink": {
-    "criteria": {
-      "has_pink_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_wrench": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_wrench": {
-    "criteria": {
-      "has_nether_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
-    "criteria": {
-      "forge:dyes/pink": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
   "glow_sticks:recipes/crafting/glow_stick_light_blue": {
     "criteria": {
       "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ens_dripstone_block": {
-    "criteria": {
-      "has_pebble": "2026-01-02 01:28:18 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/emerald_shard": {
-    "criteria": {
-      "has_item": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/purple_force_furnace_from_dye": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
     },
     "done": true
   },
@@ -11348,63 +10980,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/purple_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/bricks": {
-    "criteria": {
-      "has_planks": "2026-01-02 01:29:18 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-01-02 01:17:19 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_dye": "2026-01-02 01:18:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_purple": {
-    "criteria": {
-      "has_dyes/black": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
-    "criteria": {
-      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_iron_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-02 01:22:39 -0300"
     },
     "done": true
   },
@@ -11414,87 +10992,39 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
-    "criteria": {
-      "has_lapis_gem": "2026-01-02 01:28:17 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
-    "criteria": {
-      "has_amethyst": "2026-01-02 01:13:54 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2026-01-02 01:45:43 -0300"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2026-01-02 01:18:05 -0300"
     },
     "done": true
   },
-  "colored_torches:recipes/misc/magenta_torch_from_dyeing": {
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:48 -0300"
+      "has_raw_tin": "2026-01-02 01:22:00 -0300"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "forge:dyes/purple": "2026-01-02 01:11:05 -0300"
+      "has_iron_nugget": "2026-01-02 01:22:39 -0300"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+  "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
-      "has_raw_silver": "2026-01-02 01:28:18 -0300"
+      "has_ingredient": "2026-01-02 01:22:39 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "supplementaries:recipes/sconce": {
     "criteria": {
-      "has_glass_pane": "2026-01-02 01:03:42 -0300"
+      "has_iron_nugget": "2026-01-02 01:22:39 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/purple_kitchen_storage_cabinet_from_dyeing": {
+  "exnihilosequentia:recipes/tools/ens_iron_crook": {
     "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
-    "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-01-02 01:11:05 -0300"
+      "has_pebble": "2026-01-02 01:22:39 -0300"
     },
     "done": true
   },
@@ -11504,21 +11034,189 @@
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_bricks": {
+  "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
+    "criteria": {
+      "has_tin_ingot": "2026-01-02 01:23:17 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
+    "criteria": {
+      "has_certus_quartz_gem": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/emerald_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2026-01-02 01:28:17 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
+      "has_raw_aluminum": "2026-01-02 01:28:17 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bricks_pillar_trim": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_bricks_pillar_trim": "2026-01-02 01:29:18 -0300"
+      "has_raw_gold": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ens_gilded_blackstone": {
+    "criteria": {
+      "has_gold": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2026-01-02 01:28:17 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-02 01:28:17 -0300"
     },
     "done": true
   },
@@ -11528,9 +11226,333 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
-      "has_purple_dye": "2026-01-02 01:11:05 -0300"
+      "has_raw_silver": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_granite_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_dripstone_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ens_granite": {
+    "criteria": {
+      "has_pebble": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ens_dripstone_block": {
+    "criteria": {
+      "has_pebble": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2026-01-02 01:28:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smoking/clinker_brick": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_quoin": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2026-01-02 01:29:18 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/101_120": {
+    "criteria": {
+      "fro": "2026-01-02 01:43:34 -0300"
+    },
+    "done": false
+  },
+  "littlelogistics:recipes/transportation/barge": {
+    "criteria": {
+      "has_item": "2026-01-02 01:45:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2026-01-02 01:45:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2026-01-02 01:45:43 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-01-02 01:45:43 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-01-02 01:54:46 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/gold_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_ingot_from_gold": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2026-01-02 01:58:07 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 01:58:07 -0300"
     },
     "done": true
   },
@@ -11540,15 +11562,1030 @@
     },
     "done": true
   },
-  "forcecraft:recipes/building_blocks/force_pink_torch": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
+      "has_diamond_backpack": "2026-01-02 01:58:17 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+  "minecraft:recipes/building_blocks/ens_diorite": {
     "criteria": {
-      "has_dye": "2026-01-02 01:13:15 -0300"
+      "has_pebble": "2026-01-02 14:18:50 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_diorite_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-02 14:18:50 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2026-01-02 14:22:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-01-02 14:22:26 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-01-02 20:55:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_beef_to_porkchop": {
+    "criteria": {
+      "has_beef": "2026-01-02 20:24:48 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2026-01-02 20:46:11 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-01-02 22:57:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2026-01-02 23:00:43 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2026-01-02 20:46:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2026-01-02 20:52:15 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-02 22:59:37 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2026-01-02 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-01-02 22:49:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/colouredstuff/sign_post_orange": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-02 20:52:28 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2026-01-02 23:58:23 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue_double": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-02 22:59:37 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "dimpaintings:recipes/transportation/end_painting": {
+    "criteria": {
+      "has_painting": "2026-01-02 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2026-01-02 20:52:15 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-02 22:57:18 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_copper_to_diamond_tier_upgrade": "2026-01-02 20:25:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_furnace_from_dye": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_compass": {
+    "criteria": {
+      "has_compass": "2026-01-02 22:55:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/challenge_gateways/white_challenge_gateway": {
+    "criteria": {
+      "white_challenge_gateway": "2026-01-02 23:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_alt_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "create_mechanical_extruder:recipes/misc/crafting/mechanical_extruder": {
+    "criteria": {
+      "has_andesite_casing": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:03 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:35 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/61_80": {
+    "criteria": {
+      "dimmahat": "2026-01-02 22:49:10 -0300"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_blue": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2026-01-02 23:00:43 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2026-01-02 22:55:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-02 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/white_titan_gateways": {
+    "criteria": {
+      "melon_golem": "2026-01-02 23:39:55 -0300",
+      "goat": "2026-01-02 23:39:55 -0300",
+      "polar_bear": "2026-01-02 23:24:53 -0300",
+      "llama": "2026-01-02 23:34:29 -0300",
+      "skeleton": "2026-01-02 23:39:56 -0300",
+      "skeleton_wolf": "2026-01-02 23:39:55 -0300",
+      "opalescent_eye": "2026-01-02 23:19:12 -0300"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "glow_sticks:recipes/crafting/glow_stick_yellow": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-01-03 00:04:35 -0300"
+    },
+    "done": true
+  },
+  "colored_torches:recipes/misc/yellow_torch_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-02 22:50:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2026-01-02 23:02:53 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2026-01-02 22:59:37 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/81_100": {
+    "criteria": {
+      "fakeblight": "2026-01-02 23:02:16 -0300",
+      "easterhead": "2026-01-02 23:30:13 -0300"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-02 20:50:16 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2026-01-02 22:55:01 -0300"
     },
     "done": true
   },
