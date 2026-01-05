@@ -16725,26 +16725,9 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/titan_gateways/magenta_titan_gateways": {
-    "criteria": {
-      "starbuncle": "2026-01-05 00:04:08 -0300",
-      "magenta_vein_creeper": "2026-01-05 00:04:06 -0300",
-      "crystal_zombie": "2026-01-05 00:04:06 -0300"
-    },
-    "done": true
-  },
   "chunkloaders:recipes/misc/basic_chunk_loader": {
     "criteria": {
       "recipe_condition": "2026-01-04 23:29:42 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/titan_gateways/purple_titan_gateways": {
-    "criteria": {
-      "shulker": "2026-01-04 23:54:02 -0300",
-      "endermite": "2026-01-04 23:54:03 -0300",
-      "purple_vein_creeper": "2026-01-04 23:54:02 -0300",
-      "bone_spider": "2026-01-04 23:54:03 -0300"
     },
     "done": true
   },
@@ -16760,11 +16743,9 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/normal_gateways/magenta_normal_gateways": {
+  "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
-      "starbuncle": "2026-01-05 00:04:07 -0300",
-      "magenta_vein_creeper": "2026-01-05 00:04:07 -0300",
-      "crystal_zombie": "2026-01-05 00:04:06 -0300"
+      "has_item": "2026-01-04 23:29:42 -0300"
     },
     "done": true
   },
@@ -16777,17 +16758,36 @@
     },
     "done": true
   },
+  "skyfactory_5:tracking_advancements/titan_gateways/purple_titan_gateways": {
+    "criteria": {
+      "shulker": "2026-01-04 23:54:02 -0300",
+      "endermite": "2026-01-04 23:54:03 -0300",
+      "purple_vein_creeper": "2026-01-04 23:54:02 -0300",
+      "bone_spider": "2026-01-04 23:54:03 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/magenta_titan_gateways": {
+    "criteria": {
+      "starbuncle": "2026-01-05 00:04:08 -0300",
+      "magenta_vein_creeper": "2026-01-05 00:04:06 -0300",
+      "crystal_zombie": "2026-01-05 00:04:06 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/magenta_normal_gateways": {
+    "criteria": {
+      "starbuncle": "2026-01-05 00:04:07 -0300",
+      "magenta_vein_creeper": "2026-01-05 00:04:07 -0300",
+      "crystal_zombie": "2026-01-05 00:04:06 -0300"
+    },
+    "done": true
+  },
   "skyfactory_5:tracking_advancements/trophies/megenta_trophies": {
     "criteria": {
       "Starbuncle": "2026-01-05 00:07:10 -0300"
     },
     "done": false
-  },
-  "transmog:recipes/misc/transmogrification_table": {
-    "criteria": {
-      "has_item": "2026-01-04 23:29:42 -0300"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
