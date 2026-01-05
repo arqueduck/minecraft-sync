@@ -13167,15 +13167,1185 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/ritual_flight": {
+  "skyfactory_5:dimension_travel/exited_end": {
     "criteria": {
-      "has_journal": "2026-01-04 03:19:45 -0300"
+      "exited_end": "2026-01-04 00:08:24 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/orange_trophies": {
+    "criteria": {
+      "Blaze": "2026-01-04 00:15:23 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/smooth_stone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 00:20:26 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2026-01-04 00:23:03 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_blasting_upgrade_from_storage_blasting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2026-01-04 00:23:03 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2026-01-04 00:28:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_blasting_upgrade_from_backpack_blasting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-04 00:28:15 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2026-01-04 00:36:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2026-01-04 00:40:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 00:47:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2026-01-04 00:47:56 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_crafting_upgrade_from_storage_crafting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2026-01-04 01:07:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/storage_io_from_output": {
+    "criteria": {
+      "has_storage_output": "2026-01-04 01:18:24 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/lime_trophies": {
+    "criteria": {
+      "Slime": "2026-01-04 01:49:58 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/181_200": {
+    "criteria": {
+      "scouter": "2026-01-04 01:50:29 -0300"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2026-01-04 01:53:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2026-01-04 01:53:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 01:56:22 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_deepslate_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ens_deepslate": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_andesite_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ens_andesite": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2026-01-04 02:04:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/cable_anchor": {
+    "criteria": {
+      "has_knife": "2026-01-04 02:05:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-01-04 02:12:54 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/basalt_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:12:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-01-04 02:12:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-01-04 02:12:54 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/blackstone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-01-04 02:14:41 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ens_ancient_debris": {
+    "criteria": {
+      "has_scrap": "2026-01-04 02:22:58 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2026-01-04 02:22:59 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2026-01-04 02:22:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2026-01-04 02:22:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-01-04 02:22:59 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_golden_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:23:00 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2026-01-04 02:23:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-01-04 02:23:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-01-04 02:23:00 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2026-01-04 02:23:00 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/red_to_brown_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2026-01-04 02:25:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-01-04 02:26:16 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/bone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:26:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-01-04 02:26:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-01-04 02:26:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-01-04 02:26:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-01-04 02:26:29 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2026-01-04 02:26:29 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_magenta": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_blue": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_lime": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_white": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_green": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_light_gray": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_black": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_light_blue": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_colorless": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_orange": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_cyan": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_brown": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_gray": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_purple": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_yellow": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_pink": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_red": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:27:02 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_porkchop_to_mutton": {
+    "criteria": {
+      "has_porkchop": "2026-01-04 02:27:03 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2026-01-04 02:27:04 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/tripwire_hook_from_crossbow": {
+    "criteria": {
+      "has_bow": "2026-01-04 02:27:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-01-04 02:27:24 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
+    "criteria": {
+      "has_tool": "2026-01-04 02:27:27 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2026-01-04 02:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2026-01-04 02:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2026-01-04 02:28:24 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2026-01-04 02:29:18 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2026-01-04 02:29:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-01-04 02:30:38 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_armor": "2026-01-04 02:30:38 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/coating_smithing_template": {
+    "criteria": {
+      "has_item": "2026-01-04 02:30:38 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2026-01-04 02:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-01-04 02:33:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-01-04 02:33:59 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_nether_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_nether_brick_crook": {
+    "criteria": {
+      "has_pebble": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 02:38:10 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2026-01-04 02:39:04 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_horse_armor": {
+    "criteria": {
+      "has_horse_armor": "2026-01-04 02:44:27 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_horse_armor": "2026-01-04 02:47:18 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_chest": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 02:57:06 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/imbuement_chamber": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 02:57:43 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 03:02:15 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/enchanting_apparatus": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 03:02:21 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_core": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 03:03:39 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_jar": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 03:06:54 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_pedestal": {
+    "criteria": {
+      "has_the_recipe": "2026-01-04 03:07:33 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_flight": {
+    "criteria": {
+      "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
@@ -13203,12 +14373,6 @@
     },
     "done": true
   },
-  "overweight_farming:recipes/overweight_golden_apple_block": {
-    "criteria": {
-      "has_gold_block": "2026-01-04 02:25:54 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13221,33 +14385,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2026-01-04 02:33:59 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
     },
     "done": true
   },
@@ -13275,12 +14421,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_brazier": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13296,24 +14436,6 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_deepslate_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:04:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
     },
     "done": true
   },
@@ -13359,45 +14481,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2026-01-04 03:22:44 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_magenta": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_gray": {
-    "criteria": {
-      "has_item": "2026-01-04 03:36:54 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2026-01-04 02:27:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
     },
     "done": true
   },
@@ -13407,33 +14493,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2026-01-04 02:28:24 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2026-01-04 02:26:16 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_blue": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
     },
     "done": true
   },
@@ -13449,24 +14511,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_lime": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13476,12 +14520,6 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_comparator": {
-    "criteria": {
-      "has_base_block": "2026-01-04 00:36:55 -0300"
     },
     "done": true
   },
@@ -13497,12 +14535,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wixie_hat": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13512,18 +14544,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/misc/ens_cherry_crucible": {
-    "criteria": {
-      "has_logs": "2026-01-04 03:22:44 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:dimension_travel/exited_end": {
-    "criteria": {
-      "exited_end": "2026-01-04 00:08:24 -0300"
     },
     "done": true
   },
@@ -13539,69 +14559,15 @@
     },
     "done": true
   },
-  "additionallanterns:recipes/misc/normal_nether_bricks_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "mcwbridges:recipes/nether_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_14": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_15": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_10": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_11": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_12": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_13": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
     },
     "done": true
   },
@@ -13614,18 +14580,6 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_white": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_green": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
     },
     "done": true
   },
@@ -13647,18 +14601,6 @@
     },
     "done": true
   },
-  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
-    "criteria": {
-      "has_writable_book": "2026-01-04 03:31:08 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13674,24 +14616,6 @@
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2026-01-04 00:28:15 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_light_gray": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
     },
     "done": true
   },
@@ -13713,12 +14637,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13737,33 +14655,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/ens_deepslate": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:04:45 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_black": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_flourishing_sapling": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
     },
     "done": true
   },
@@ -13779,21 +14673,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/horn_grass": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/arcane_core": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 03:03:39 -0300"
     },
     "done": true
   },
@@ -13821,12 +14703,6 @@
     },
     "done": true
   },
-  "additionallanterns:recipes/misc/blackstone_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13845,18 +14721,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/compression_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_sword": "2026-01-04 02:28:24 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -13866,12 +14730,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_axe": {
-    "criteria": {
-      "has_tool": "2026-01-04 02:29:48 -0300"
     },
     "done": true
   },
@@ -13887,21 +14745,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2026-01-04 02:22:59 -0300"
     },
     "done": true
   },
@@ -13911,39 +14757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2026-01-04 02:30:38 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_light_blue": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
-    "criteria": {
-      "has_enchanted_book": "2026-01-04 02:29:18 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/tripwire_hook_from_crossbow": {
-    "criteria": {
-      "has_bow": "2026-01-04 02:27:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ens_ancient_debris": {
-    "criteria": {
-      "has_scrap": "2026-01-04 02:22:58 -0300"
     },
     "done": true
   },
@@ -14007,12 +14823,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2026-01-04 02:25:54 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -14022,12 +14832,6 @@
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:38:10 -0300"
     },
     "done": true
   },
@@ -14073,21 +14877,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_colorless": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
     },
     "done": true
   },
@@ -14097,39 +14889,15 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_boots": {
-    "criteria": {
-      "has_armor": "2026-01-04 02:22:59 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
-    "criteria": {
-      "has_tool": "2026-01-04 03:20:39 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2026-01-04 03:22:44 -0300"
     },
     "done": true
   },
@@ -14148,30 +14916,6 @@
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_crafting_upgrade_from_storage_crafting_upgrade": {
-    "criteria": {
-      "has_storage_upgrade": "2026-01-04 01:07:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_golden_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:23:00 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
     },
     "done": true
   },
@@ -14205,57 +14949,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
-    "criteria": {
-      "has_controller": "2026-01-04 00:40:51 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/enchanting_apparatus": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 03:02:21 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_orig_recipe": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_basic_to_diamond_tier_upgrade": "2026-01-04 00:47:56 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_horse_armor": {
-    "criteria": {
-      "has_horse_armor": "2026-01-04 02:44:27 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_chestplate": {
-    "criteria": {
-      "has_armor": "2026-01-04 02:23:00 -0300"
     },
     "done": true
   },
@@ -14274,24 +14976,6 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2026-01-04 02:27:24 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_orange": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
     },
     "done": true
   },
@@ -14355,18 +15039,6 @@
     },
     "done": true
   },
-  "additionallanterns:recipes/misc/normal_lantern_cyan": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
-    "criteria": {
-      "has_tool": "2026-01-04 02:27:27 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -14385,57 +15057,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2026-01-04 02:26:29 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2026-01-04 02:22:58 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_gray_petal_block": {
-    "criteria": {
-      "has_item": "2026-01-04 03:36:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_brown": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_interceptor": {
-    "criteria": {
-      "has_base_block": "2026-01-04 03:37:43 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -14454,12 +15078,6 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
     },
     "done": true
   },
@@ -14493,18 +15111,6 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_clock": {
-    "criteria": {
-      "has_clock": "2026-01-04 03:34:23 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -14529,39 +15135,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood": {
-    "criteria": {
-      "has_log": "2026-01-04 03:23:14 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/storage_io_from_output": {
-    "criteria": {
-      "has_storage_output": "2026-01-04 01:18:24 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
-    "criteria": {
-      "has_raw_lead": "2026-01-04 02:04:45 -0300"
     },
     "done": true
   },
@@ -14580,12 +15156,6 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2026-01-04 02:25:54 -0300"
     },
     "done": true
   },
@@ -14619,29 +15189,11 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 00:47:55 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
-  },
-  "ars_nouveau:recipes/misc/imbuement_chamber": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 02:57:43 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/trophies/blue_trophies": {
-    "criteria": {
-      "Squid": "2026-01-04 03:27:54 -0300"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
@@ -14673,75 +15225,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2026-01-04 02:22:59 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_stair": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/bone_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:26:16 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_gray": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/decoration_table": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_restoration": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sourcestone": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 03:02:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2026-01-04 02:23:00 -0300"
     },
     "done": true
   },
@@ -14829,33 +15321,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/archwood_chest": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 02:57:06 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
     },
     "done": true
   },
@@ -14895,24 +15363,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2026-01-04 02:26:29 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -14943,39 +15393,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_pillar_trim": {
-    "criteria": {
-      "has_blackstone_pillar_trim": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
-    "criteria": {
-      "iron_ingot": "2026-01-04 02:33:31 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_purple": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
     },
     "done": true
   },
@@ -15003,18 +15423,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2026-01-04 02:12:54 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -15033,51 +15441,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/simple_hats/181_200": {
-    "criteria": {
-      "scouter": "2026-01-04 01:50:29 -0300"
-    },
-    "done": false
-  },
-  "ae2:recipes/misc/network/parts/cable_anchor": {
-    "criteria": {
-      "has_knife": "2026-01-04 02:05:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2026-01-04 03:29:31 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2026-01-04 02:25:54 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2026-01-04 01:53:31 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2026-01-04 03:36:54 -0300"
     },
     "done": true
   },
@@ -15087,33 +15453,15 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/turntable": {
-    "criteria": {
-      "has_alt_item": "2026-01-04 01:53:31 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_andesite_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:04:45 -0300"
     },
     "done": true
   },
@@ -15126,18 +15474,6 @@
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_helmet": {
-    "criteria": {
-      "has_armor": "2026-01-04 02:30:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15159,18 +15495,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/source_jar": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 03:06:54 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -15180,12 +15504,6 @@
   "ars_nouveau:recipes/misc/mundane_belt": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
-    "criteria": {
-      "has_tool": "2026-01-04 03:20:45 -0300"
     },
     "done": true
   },
@@ -15201,21 +15519,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_horse_armor": {
-    "criteria": {
-      "has_horse_armor": "2026-01-04 02:47:18 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
     },
     "done": true
   },
@@ -15228,78 +15534,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/ens_andesite": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:04:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_0": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_1": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_2": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_3": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_4": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_5": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_6": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_7": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_8": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_9": {
-    "criteria": {
-      "has_item": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2026-01-04 03:22:44 -0300"
     },
     "done": true
   },
@@ -15333,33 +15567,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/basalt_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:12:54 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/nether_bricks": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:38:10 -0300"
     },
     "done": true
   },
@@ -15405,18 +15615,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2026-01-04 02:12:54 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_dust": "2026-01-04 02:04:45 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -15429,69 +15627,15 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
-    "criteria": {
-      "has_tool": "2026-01-04 03:20:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/cooked_porkchop_to_mutton": {
-    "criteria": {
-      "has_porkchop": "2026-01-04 02:27:03 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-01-04 02:22:59 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/arcane_pedestal": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 03:07:33 -0300"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2026-01-04 03:22:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2026-01-04 02:26:29 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood_planks": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15507,33 +15651,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/cherry_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-01-04 03:22:44 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2026-01-04 02:25:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2026-01-04 00:23:03 -0300"
     },
     "done": true
   },
@@ -15543,39 +15663,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/mana_spreader": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray": {
-    "criteria": {
-      "has_alt_item": "2026-01-04 03:36:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2026-01-04 02:23:00 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_corner_trim": {
-    "criteria": {
-      "has_blackstone_corner_trim": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15585,57 +15675,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_yellow": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2026-01-04 02:26:24 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/tools/ens_nether_brick_crook": {
-    "criteria": {
-      "has_pebble": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_pink": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2026-01-04 02:33:59 -0300"
     },
     "done": true
   },
@@ -15648,12 +15696,6 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2026-01-04 02:39:04 -0300"
     },
     "done": true
   },
@@ -15681,18 +15723,6 @@
     },
     "done": true
   },
-  "additionallanterns:recipes/misc/normal_lantern_red": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 02:27:02 -0300"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/machine_base": {
-    "criteria": {
-      "gold": "2026-01-04 02:23:00 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -15705,57 +15735,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2026-01-04 02:26:24 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/glimmering_livingwood_log": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2026-01-04 00:20:26 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:38:10 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15768,12 +15750,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15795,33 +15771,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_light_gray_double": {
-    "criteria": {
-      "has_alt_item": "2026-01-04 03:36:54 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/red_to_brown_mushroom": {
-    "criteria": {
-      "has_red_mushroom": "2026-01-04 02:23:19 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/incense_plate": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
     },
     "done": true
   },
@@ -15849,18 +15801,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2026-01-04 02:14:41 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -15870,12 +15810,6 @@
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_blasting_upgrade_from_backpack_blasting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-01-04 00:28:15 -0300"
     },
     "done": true
   },
@@ -15897,21 +15831,9 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/trophies/lime_trophies": {
-    "criteria": {
-      "Slime": "2026-01-04 01:49:58 -0300"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingwood_twig": {
-    "criteria": {
-      "has_item": "2026-01-04 03:23:14 -0300"
     },
     "done": true
   },
@@ -15924,12 +15846,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2026-01-04 02:14:41 -0300"
     },
     "done": true
   },
@@ -15957,27 +15873,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-04 00:22:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2026-01-04 02:12:54 -0300"
     },
     "done": true
   },
@@ -15987,45 +15885,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
-    "criteria": {
-      "has_golden_wide_pot": "2026-01-04 02:25:54 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
   },
-  "silentgear:recipes/misc/coating_smithing_template": {
-    "criteria": {
-      "has_item": "2026-01-04 02:30:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2026-01-04 02:28:24 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/inscribers": {
-    "criteria": {
-      "has_the_recipe": "2026-01-04 01:56:22 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2026-01-04 01:10:47 -0300"
     },
     "done": true
   },
@@ -16040,24 +15908,6 @@
       "has_journal": "2026-01-04 03:19:45 -0300"
     },
     "done": true
-  },
-  "additionallanterns:recipes/misc/smooth_stone_chain": {
-    "criteria": {
-      "recipe_condition": "2026-01-04 00:20:26 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_blasting_upgrade_from_storage_blasting_upgrade": {
-    "criteria": {
-      "has_storage_upgrade": "2026-01-04 00:23:03 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/trophies/orange_trophies": {
-    "criteria": {
-      "Blaze": "2026-01-04 00:15:23 -0300"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/mirrorweave": {
     "criteria": {
@@ -16077,12 +15927,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-01-04 02:13:40 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
@@ -16098,6 +15942,850 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-01-04 03:19:45 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2026-01-04 03:20:39 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2026-01-04 03:20:45 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2026-01-04 03:20:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_cherry_crucible": {
+    "criteria": {
+      "has_logs": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-04 03:22:44 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2026-01-04 03:23:14 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/blue_trophies": {
+    "criteria": {
+      "Squid": "2026-01-04 03:27:54 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-01-04 03:29:31 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2026-01-04 03:31:08 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_clock": {
+    "criteria": {
+      "has_clock": "2026-01-04 03:34:23 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2026-01-04 03:36:54 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2026-01-04 03:36:54 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2026-01-04 03:36:54 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_alt_item": "2026-01-04 03:36:54 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2026-01-04 03:36:54 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2026-01-04 03:37:43 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2026-01-04 17:16:28 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2026-01-04 17:17:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/quartz_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/logic_chip_raw": {
+    "criteria": {
+      "has_quartz": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-01-04 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/diorite_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-04 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/granite_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2026-01-04 21:09:52 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_armor": "2026-01-04 23:05:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-01-04 23:14:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-01-04 23:15:13 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
+    "criteria": {
+      "has_bow": "2026-01-04 23:15:13 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/21_40": {
+    "criteria": {
+      "bigcrown": "2026-01-04 23:20:29 -0300"
+    },
+    "done": false
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/magenta_titan_gateways": {
+    "criteria": {
+      "starbuncle": "2026-01-05 00:04:08 -0300",
+      "magenta_vein_creeper": "2026-01-05 00:04:06 -0300",
+      "crystal_zombie": "2026-01-05 00:04:06 -0300"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/purple_titan_gateways": {
+    "criteria": {
+      "shulker": "2026-01-04 23:54:02 -0300",
+      "endermite": "2026-01-04 23:54:03 -0300",
+      "purple_vein_creeper": "2026-01-04 23:54:02 -0300",
+      "bone_spider": "2026-01-04 23:54:03 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/food/ens_end_cake": {
+    "criteria": {
+      "has_ender_pearl": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "wormhole:recipes/misc/portal_stabilizer": {
+    "criteria": {
+      "recipe_condition": "2026-01-04 23:29:42 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/magenta_normal_gateways": {
+    "criteria": {
+      "starbuncle": "2026-01-05 00:04:07 -0300",
+      "magenta_vein_creeper": "2026-01-05 00:04:07 -0300",
+      "crystal_zombie": "2026-01-05 00:04:06 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/purple_normal_gateways": {
+    "criteria": {
+      "shulker": "2026-01-04 23:46:03 -0300",
+      "endermite": "2026-01-04 23:46:04 -0300",
+      "purple_vein_creeper": "2026-01-04 23:46:04 -0300",
+      "bone_spider": "2026-01-04 23:46:03 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/megenta_trophies": {
+    "criteria": {
+      "Starbuncle": "2026-01-05 00:07:10 -0300"
+    },
+    "done": false
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2026-01-04 23:29:42 -0300"
     },
     "done": true
   },
