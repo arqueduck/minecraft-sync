@@ -4532,6 +4532,7 @@
   },
   "skyfactory_5:tracking_advancements/trophies/black_trophies": {
     "criteria": {
+      "Spider": "2026-01-06 16:15:58 -0300",
       "Wither Skeleton": "2025-12-27 16:43:11 -0300"
     },
     "done": false
@@ -5962,6 +5963,7 @@
   "skyfactory_5:tracking_advancements/simple_hats/221_238": {
     "criteria": {
       "triangleshades": "2025-12-30 13:03:30 -0300",
+      "tvhead": "2026-01-06 16:36:06 -0300",
       "zigzagwitchhat": "2025-12-30 12:59:32 -0300"
     },
     "done": false
@@ -11397,7 +11399,8 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/101_120": {
     "criteria": {
-      "fro": "2026-01-02 01:43:34 -0300"
+      "fro": "2026-01-02 01:43:34 -0300",
+      "foxhat": "2026-01-06 16:31:17 -0300"
     },
     "done": false
   },
@@ -17220,57 +17223,15 @@
     },
     "done": false
   },
-  "sophisticatedstorage:recipes/misc/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2026-01-05 23:25:55 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2026-01-05 23:36:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brewery": {
-    "criteria": {
-      "has_alt_item": "2026-01-06 00:22:10 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/trophies/purple_trophies": {
-    "criteria": {
-      "Shulker": "2026-01-05 23:27:25 -0300"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2026-01-06 00:20:46 -0300"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_ingot": {
-    "criteria": {
-      "has_item": "2026-01-05 23:36:07 -0300"
-    },
-    "done": true
-  },
   "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
     "criteria": {
       "has_enchanting_table": "2026-01-05 23:15:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-01-05 23:25:55 -0300"
     },
     "done": true
   },
@@ -17280,15 +17241,21 @@
     },
     "done": true
   },
-  "forbiddensmoothies:recipes/decorations/ugly_steel_plating": {
+  "skyfactory_5:tracking_advancements/trophies/purple_trophies": {
     "criteria": {
-      "has_potato": "2026-01-06 00:20:46 -0300"
+      "Shulker": "2026-01-05 23:27:25 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-01-05 23:36:07 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "silentgear:recipes/misc/blaze_gold_ingot": {
     "criteria": {
-      "has_potato": "2026-01-06 00:20:46 -0300"
+      "has_item": "2026-01-05 23:36:07 -0300"
     },
     "done": true
   },
@@ -17298,76 +17265,15 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/normal_gateways/light_blue_normal_gateways": {
-    "criteria": {
-      "dolphin": "2026-01-06 00:16:03 -0300",
-      "tuna": "2026-01-06 00:16:03 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2026-01-06 00:20:46 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/trophies/cyan_trophies": {
-    "criteria": {
-      "Drygmy": "2026-01-06 00:08:18 -0300"
-    },
-    "done": false
-  },
-  "skyfactory_5:tracking_advancements/trophies/light_blue_trophies": {
-    "criteria": {
-      "Tuna": "2026-01-06 00:17:26 -0300"
-    },
-    "done": false
-  },
-  "skyfactory_5:tracking_advancements/titan_gateways/light_blue_titan_gateways": {
-    "criteria": {
-      "fairy": "2026-01-06 00:16:03 -0300"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2026-01-06 00:20:46 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2026-01-05 23:36:07 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2026-01-05 23:57:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2026-01-05 23:36:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2026-01-06 00:20:46 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_cushion": {
-    "criteria": {
-      "has_cyan_cushion": "2026-01-05 23:57:44 -0300"
     },
     "done": true
   },
@@ -17391,9 +17297,311 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2026-01-05 23:57:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-01-05 23:57:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2026-01-05 23:57:44 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/cyan_trophies": {
+    "criteria": {
+      "Drygmy": "2026-01-06 00:08:18 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/light_blue_normal_gateways": {
+    "criteria": {
+      "dolphin": "2026-01-06 00:16:03 -0300",
+      "tuna": "2026-01-06 00:16:03 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/light_blue_titan_gateways": {
+    "criteria": {
+      "fairy": "2026-01-06 00:16:03 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/trophies/light_blue_trophies": {
+    "criteria": {
+      "Tuna": "2026-01-06 00:17:26 -0300"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "forbiddensmoothies:recipes/decorations/ugly_steel_plating": {
+    "criteria": {
+      "has_potato": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-01-06 00:20:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2026-01-06 00:22:10 -0300"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2026-01-06 00:22:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-01-06 09:39:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/mossy_cobblestone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-06 09:44:49 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/161_180": {
+    "criteria": {
+      "rgbbigribbon": "2026-01-06 14:10:16 -0300",
+      "rgbbowler": "2026-01-06 11:33:04 -0300"
+    },
+    "done": false
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 14:44:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-01-06 16:17:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-01-06 16:17:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2026-01-06 16:21:04 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk_cloth": {
+    "criteria": {
+      "has_item": "2026-01-06 16:19:49 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_anvil": "2026-01-06 15:34:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 14:44:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk": {
+    "criteria": {
+      "has_item": "2026-01-06 16:19:49 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2026-01-06 16:19:11 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 14:44:26 -0300"
     },
     "done": true
   },

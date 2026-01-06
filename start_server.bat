@@ -19,6 +19,14 @@ if errorlevel 1 (
   exit
 )
 
+REM --- verifica lock ---
+if exist server.lock (
+  echo ❌ Servidor ja esta em uso.
+  type server.lock
+  pause
+  exit
+)
+
 REM --- cria lock ---
 echo HOST=%COMPUTERNAME% > server.lock
 echo STARTED_AT=%DATE% %TIME% >> server.lock

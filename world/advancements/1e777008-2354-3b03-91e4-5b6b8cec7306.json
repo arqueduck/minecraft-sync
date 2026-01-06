@@ -5133,7 +5133,8 @@
     "criteria": {
       "fakeblight": "2025-12-30 13:48:24 -0300",
       "festiveribbon": "2026-01-02 17:39:36 -0300",
-      "dumhat": "2026-01-02 17:39:28 -0300"
+      "dumhat": "2026-01-02 17:39:28 -0300",
+      "easterhead": "2026-01-06 13:20:48 -0300"
     },
     "done": false
   },
@@ -11377,7 +11378,9 @@
   "skyfactory_5:tracking_advancements/simple_hats/161_180": {
     "criteria": {
       "rabi_en_rose": "2026-01-02 17:39:36 -0300",
-      "puchiko": "2026-01-02 17:39:37 -0300"
+      "rgbbigribbon": "2026-01-06 15:00:03 -0300",
+      "puchiko": "2026-01-02 17:39:37 -0300",
+      "rednose": "2026-01-06 13:20:48 -0300"
     },
     "done": false
   },
@@ -14836,6 +14839,366 @@
   "minecraft:recipes/misc/storage_io_from_output": {
     "criteria": {
       "has_storage_output": "2026-01-05 17:04:18 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "forbiddensmoothies:recipes/decorations/ugly_steel_plating": {
+    "criteria": {
+      "has_potato": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-01-06 09:38:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-01-06 09:39:28 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-06 13:00:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-06 13:00:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2026-01-06 13:00:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2026-01-06 13:00:26 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/21_40": {
+    "criteria": {
+      "bigcrown": "2026-01-06 13:20:48 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/181_200": {
+    "criteria": {
+      "shrekears": "2026-01-06 13:20:49 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/221_238": {
+    "criteria": {
+      "worms_mine": "2026-01-06 13:20:49 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-06 13:48:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-06 13:48:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-06 13:48:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-06 13:48:05 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/soul_wafer": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 17:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-01-06 15:07:14 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2026-01-06 15:03:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2026-01-06 15:07:14 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 17:37:17 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_armor": "2026-01-06 16:41:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2026-01-06 15:03:04 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2026-01-06 15:07:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/quartz_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2026-01-06 15:03:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/logic_chip_raw": {
+    "criteria": {
+      "has_quartz": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_fiber": {
+    "criteria": {
+      "has_the_recipe": "2026-01-06 16:47:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 17:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-01-06 15:07:14 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2026-01-06 15:03:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-01-06 15:07:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2026-01-06 15:03:15 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/fire_essence_to_charge": {
+    "criteria": {
+      "has_the_recipe": "2026-01-06 17:39:07 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/empty_upgrade": {
+    "criteria": {
+      "has_amethyst_shard": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-01-06 15:11:20 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2026-01-06 17:29:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2026-01-06 15:03:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 17:37:17 -0300"
     },
     "done": true
   },
