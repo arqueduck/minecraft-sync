@@ -14689,5 +14689,155 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_gold_trapdoor": "2026-01-05 12:04:44 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2026-01-05 12:06:18 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2026-01-05 12:06:18 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc": {
+    "criteria": {
+      "has_the_recipe": "2026-01-05 14:52:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-01-05 15:03:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_feather": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
+    "criteria": {
+      "has_chicken": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-01-05 15:03:18 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_porkchop_to_mutton": {
+    "criteria": {
+      "has_porkchop": "2026-01-05 15:04:10 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2_from_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1_plus": "2026-01-05 15:41:22 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_starter_tier_from_storage_stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2026-01-05 15:41:22 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2026-01-05 15:42:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2026-01-05 15:42:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2026-01-05 15:49:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-05 17:04:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-05 17:04:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-01-05 17:04:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2026-01-05 17:04:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/storage_io_from_output": {
+    "criteria": {
+      "has_storage_output": "2026-01-05 17:04:18 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
