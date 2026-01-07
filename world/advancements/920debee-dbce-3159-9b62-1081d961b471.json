@@ -3795,9 +3795,14 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/black_normal_gateways": {
     "criteria": {
+      "umbra_cow": "2026-01-07 12:40:05 -0300",
+      "ender_dragon": "2026-01-07 12:40:04 -0300",
+      "black_vein_creeper": "2026-01-07 12:40:05 -0300",
       "wither_skeleton": "2025-12-27 01:37:42 -0300",
       "spider": "2025-12-27 01:37:41 -0300",
-      "enderman": "2025-12-27 00:09:31 -0300"
+      "wither": "2026-01-07 13:15:36 -0300",
+      "enderman": "2025-12-27 00:09:31 -0300",
+      "ender_tot": "2026-01-07 12:40:05 -0300"
     },
     "done": false
   },
@@ -3809,6 +3814,7 @@
   },
   "skyfactory_5:tracking_advancements/trophies/brown_trophies": {
     "criteria": {
+      "Rabbit": "2026-01-07 14:18:49 -0300",
       "Cow": "2025-12-27 01:26:05 -0300"
     },
     "done": false
@@ -3929,8 +3935,14 @@
   },
   "skyfactory_5:tracking_advancements/titan_gateways/black_titan_gateways": {
     "criteria": {
+      "umbra_cow": "2026-01-07 13:15:36 -0300",
+      "black_vein_creeper": "2026-01-07 13:15:35 -0300",
       "wither_skeleton_wolf": "2025-12-27 01:37:42 -0300",
-      "wither_skeleton": "2025-12-27 01:37:43 -0300"
+      "wither_skeleton": "2025-12-27 01:37:43 -0300",
+      "cave_spider": "2026-01-07 13:15:36 -0300",
+      "adelie_penguin": "2026-01-07 13:15:35 -0300",
+      "spider": "2026-01-07 13:15:36 -0300",
+      "enderman": "2026-01-07 12:40:04 -0300"
     },
     "done": false
   },
@@ -3996,6 +4008,7 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/1_20": {
     "criteria": {
+      "acornhat": "2026-01-07 09:57:18 -0300",
       "bandanargb": "2026-01-05 12:50:44 -0300",
       "baseballeaster": "2025-12-27 01:55:44 -0300"
     },
@@ -4004,7 +4017,8 @@
   "skyfactory_5:tracking_advancements/simple_hats/201_220": {
     "criteria": {
       "swimmer": "2026-01-02 23:30:15 -0300",
-      "spyzombie": "2025-12-27 01:55:46 -0300"
+      "spyzombie": "2025-12-27 01:55:46 -0300",
+      "sonichood": "2026-01-07 09:57:01 -0300"
     },
     "done": false
   },
@@ -4532,6 +4546,7 @@
   },
   "skyfactory_5:tracking_advancements/trophies/black_trophies": {
     "criteria": {
+      "Wither": "2026-01-07 14:07:23 -0300",
       "Spider": "2026-01-06 16:15:58 -0300",
       "Wither Skeleton": "2025-12-27 16:43:11 -0300"
     },
@@ -5964,7 +5979,8 @@
     "criteria": {
       "triangleshades": "2025-12-30 13:03:30 -0300",
       "tvhead": "2026-01-06 16:36:06 -0300",
-      "zigzagwitchhat": "2025-12-30 12:59:32 -0300"
+      "zigzagwitchhat": "2025-12-30 12:59:32 -0300",
+      "tricorne": "2026-01-07 09:57:18 -0300"
     },
     "done": false
   },
@@ -11400,6 +11416,7 @@
   "skyfactory_5:tracking_advancements/simple_hats/101_120": {
     "criteria": {
       "fro": "2026-01-02 01:43:34 -0300",
+      "halo": "2026-01-07 09:57:18 -0300",
       "foxhat": "2026-01-06 16:31:17 -0300"
     },
     "done": false
@@ -16935,6 +16952,7 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/121_140": {
     "criteria": {
+      "milady_doll": "2026-01-07 09:57:01 -0300",
       "hockeymask": "2026-01-07 00:14:30 -0300",
       "kirbymouthful": "2026-01-05 12:35:28 -0300"
     },
@@ -17606,9 +17624,51 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/lime_floating_flower": {
+  "vinery:recipes/wine_bottle": {
     "criteria": {
-      "has_item": "2026-01-07 01:08:20 -0300"
+      "has_glass_bottle": "2026-01-06 21:10:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-01-07 00:53:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-01-07 00:53:25 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:48 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:48 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2026-01-07 00:59:35 -0300"
     },
     "done": true
   },
@@ -17618,21 +17678,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/redstone_spreader": {
-    "criteria": {
-      "has_item": "2026-01-07 01:07:11 -0300"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2026-01-07 01:05:41 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/mutated_seeds": {
-    "criteria": {
-      "has_item": "2026-01-07 01:07:31 -0300"
     },
     "done": true
   },
@@ -17648,33 +17696,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/purple_shiny_flower": {
-    "criteria": {
-      "has_item": "2026-01-07 00:58:48 -0300"
-    },
-    "done": true
-  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_alt_item": "2026-01-07 01:05:41 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_relay": {
-    "criteria": {
-      "has_base_block": "2026-01-07 01:07:11 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2026-01-07 00:53:25 -0300"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2026-01-06 21:10:17 -0300"
     },
     "done": true
   },
@@ -17702,12 +17726,6 @@
     },
     "done": true
   },
-  "botania:recipes/misc/golden_seeds": {
-    "criteria": {
-      "has_item": "2026-01-07 01:07:31 -0300"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/black_pavement": {
     "criteria": {
       "has_item": "2026-01-07 01:05:41 -0300"
@@ -17720,21 +17738,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/red_shiny_flower": {
-    "criteria": {
-      "has_item": "2026-01-07 00:58:46 -0300"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/diluted_pool": {
     "criteria": {
       "has_item": "2026-01-07 01:05:41 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2026-01-07 01:10:13 -0300"
     },
     "done": true
   },
@@ -17750,39 +17756,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2026-01-07 00:53:25 -0300"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/green_pavement": {
     "criteria": {
       "has_item": "2026-01-07 01:05:41 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/vivid_seeds": {
-    "criteria": {
-      "has_item": "2026-01-07 01:07:31 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2026-01-07 00:58:48 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/scorched_seeds": {
-    "criteria": {
-      "has_item": "2026-01-07 01:07:31 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/food/snow_cookie": {
-    "criteria": {
-      "has_snowball": "2026-01-07 01:10:13 -0300"
     },
     "done": true
   },
@@ -17792,15 +17768,45 @@
     },
     "done": true
   },
-  "botania:recipes/misc/infused_seeds": {
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:11 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2026-01-07 01:07:11 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mutated_seeds": {
     "criteria": {
       "has_item": "2026-01-07 01:07:31 -0300"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_red": {
+  "botania:recipes/misc/golden_seeds": {
     "criteria": {
-      "has_item": "2026-01-07 00:58:46 -0300"
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/vivid_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/scorched_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/infused_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
     },
     "done": true
   },
@@ -17810,15 +17816,348 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/floating_pure_daisy": {
+  "botania:recipes/decorations/lime_floating_flower": {
     "criteria": {
-      "has_item": "2026-01-07 00:59:35 -0300"
+      "has_item": "2026-01-07 01:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-01-07 01:10:13 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/snow_cookie": {
+    "criteria": {
+      "has_snowball": "2026-01-07 01:10:13 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2026-01-07 01:10:13 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/light_gray_trophies": {
+    "criteria": {
+      "Witch": "2026-01-07 09:12:49 -0300"
+    },
+    "done": false
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_horse_armor": "2026-01-07 12:13:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-01-07 12:13:18 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stone_gear_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:13:19 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2026-01-07 12:23:11 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2026-01-07 12:23:12 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/purpur_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-01-07 12:24:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-01-07 12:24:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 12:31:10 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_armor": "2026-01-07 12:31:11 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_magnet_upgrade_from_backpack_advanced_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-07 12:32:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/end_stone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-07 12:41:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:19:44 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/pink_titan_gateways": {
+    "criteria": {
+      "jumbo_rabbit": "2026-01-07 14:29:24 -0300",
+      "axolotl": "2026-01-07 14:29:27 -0300",
+      "zoglin": "2026-01-07 14:29:25 -0300",
+      "zombified_pig": "2026-01-07 14:29:27 -0300",
+      "piglin_brute": "2026-01-07 14:29:26 -0300",
+      "zombified_piglin": "2026-01-07 14:29:28 -0300",
+      "hoglin": "2026-01-07 14:29:24 -0300",
+      "piglin": "2026-01-07 14:29:24 -0300",
+      "teacup_pig": "2026-01-07 14:29:24 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-01-07 14:05:46 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/pink_normal_gateways": {
+    "criteria": {
+      "axolotl": "2026-01-07 14:29:25 -0300",
+      "shrimp": "2026-01-07 14:29:24 -0300",
+      "pig": "2026-01-07 14:29:23 -0300",
+      "zombified_piglin": "2026-01-07 14:29:26 -0300",
+      "hoglin": "2026-01-07 14:29:25 -0300",
+      "piglin": "2026-01-07 14:29:23 -0300",
+      "moolip": "2026-01-07 14:29:27 -0300",
+      "teacup_pig": "2026-01-07 14:29:25 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:19:44 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2026-01-07 14:05:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:19:44 -0300"
     },
     "done": true
   },
