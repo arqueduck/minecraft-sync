@@ -16935,6 +16935,7 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/121_140": {
     "criteria": {
+      "hockeymask": "2026-01-07 00:14:30 -0300",
       "kirbymouthful": "2026-01-05 12:35:28 -0300"
     },
     "done": false
@@ -17491,15 +17492,33 @@
     },
     "done": false
   },
-  "botania:recipes/tools/tiny_planet": {
-    "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2026-01-06 14:44:26 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 14:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-06 14:44:26 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_anvil": "2026-01-06 15:34:05 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
     },
     "done": true
   },
@@ -17510,6 +17529,42 @@
     "done": true
   },
   "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2026-01-06 16:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
     "criteria": {
       "has_item": "2026-01-06 16:10:06 -0300"
     },
@@ -17527,15 +17582,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
+  "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
-      "has_sugar": "2026-01-06 16:21:04 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/ender_dagger": {
-    "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
+      "has_milk": "2026-01-06 16:19:11 -0300"
     },
     "done": true
   },
@@ -17545,63 +17594,231 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/abstruse_platform": {
-    "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
-    "criteria": {
-      "has_anvil": "2026-01-06 15:34:05 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/tiny_tnt": {
-    "criteria": {
-      "has_gunpowder": "2026-01-06 14:44:26 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar": {
-    "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
-    },
-    "done": true
-  },
   "silentgear:recipes/misc/fine_silk": {
     "criteria": {
       "has_item": "2026-01-06 16:19:49 -0300"
     },
     "done": true
   },
-  "botania:recipes/tools/mana_tablet": {
+  "supplementaries:recipes/sugar_cube": {
     "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
+      "has_sugar": "2026-01-06 16:21:04 -0300"
     },
     "done": true
   },
-  "botania:recipes/decorations/tiny_planet_block": {
+  "botania:recipes/decorations/lime_floating_flower": {
     "criteria": {
-      "has_alt_item": "2026-01-06 16:10:06 -0300"
+      "has_item": "2026-01-07 01:08:20 -0300"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/cheese": {
+  "botania:recipes/misc/livingrock_wall": {
     "criteria": {
-      "has_milk": "2026-01-06 16:19:11 -0300"
+      "has_item": "2026-01-07 01:05:41 -0300"
     },
     "done": true
   },
-  "botania:recipes/tools/invisibility_cloak": {
+  "botania:recipes/redstone/redstone_spreader": {
     "criteria": {
-      "has_item": "2026-01-06 16:10:06 -0300"
+      "has_item": "2026-01-07 01:07:11 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
-      "has_gunpowder": "2026-01-06 14:44:26 -0300"
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mutated_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:48 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2026-01-07 01:07:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-01-07 00:53:25 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2026-01-06 21:10:17 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/golden_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-01-07 01:10:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-01-07 00:53:25 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/vivid_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:48 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/scorched_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/snow_cookie": {
+    "criteria": {
+      "has_snowball": "2026-01-07 01:10:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2026-01-07 01:05:41 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/infused_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2026-01-07 00:58:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dry_seeds": {
+    "criteria": {
+      "has_item": "2026-01-07 01:07:31 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2026-01-07 00:59:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-01-07 01:10:13 -0300"
     },
     "done": true
   },
