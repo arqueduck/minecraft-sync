@@ -14922,6 +14922,7 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/221_238": {
     "criteria": {
+      "tophat": "2026-01-07 14:38:53 -0300",
       "worms_mine": "2026-01-06 13:20:49 -0300"
     },
     "done": false
@@ -17959,6 +17960,414 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2026-01-07 14:28:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:42:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:42:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:42:51 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2026-01-07 14:56:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-07 14:56:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2026-01-07 14:56:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2026-01-07 14:56:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-07 14:56:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2026-01-07 14:56:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_magnet_upgrade_from_backpack_advanced_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-01-07 14:56:58 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_spruce_crucible": {
+    "criteria": {
+      "has_logs": "2026-01-07 16:04:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-01-07 16:17:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-01-07 16:17:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_spruce_sieve": {
+    "criteria": {
+      "has_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_spruce_barrel": {
+    "criteria": {
+      "has_walls": "2026-01-07 16:57:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2026-01-07 16:57:54 -0300"
     },
     "done": true
   },

@@ -18104,48 +18104,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2026-01-07 14:19:44 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/titan_gateways/pink_titan_gateways": {
-    "criteria": {
-      "jumbo_rabbit": "2026-01-07 14:29:24 -0300",
-      "axolotl": "2026-01-07 14:29:27 -0300",
-      "zoglin": "2026-01-07 14:29:25 -0300",
-      "zombified_pig": "2026-01-07 14:29:27 -0300",
-      "piglin_brute": "2026-01-07 14:29:26 -0300",
-      "zombified_piglin": "2026-01-07 14:29:28 -0300",
-      "hoglin": "2026-01-07 14:29:24 -0300",
-      "piglin": "2026-01-07 14:29:24 -0300",
-      "teacup_pig": "2026-01-07 14:29:24 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2026-01-07 14:05:46 -0300"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/normal_gateways/pink_normal_gateways": {
-    "criteria": {
-      "axolotl": "2026-01-07 14:29:25 -0300",
-      "shrimp": "2026-01-07 14:29:24 -0300",
-      "pig": "2026-01-07 14:29:23 -0300",
-      "zombified_piglin": "2026-01-07 14:29:26 -0300",
-      "hoglin": "2026-01-07 14:29:25 -0300",
-      "piglin": "2026-01-07 14:29:23 -0300",
-      "moolip": "2026-01-07 14:29:27 -0300",
-      "teacup_pig": "2026-01-07 14:29:25 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2026-01-07 14:19:44 -0300"
     },
     "done": true
   },
@@ -18155,9 +18116,100 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:19:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-01-07 14:19:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2026-01-07 14:19:44 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/pink_normal_gateways": {
+    "criteria": {
+      "axolotl": "2026-01-07 14:29:25 -0300",
+      "shrimp": "2026-01-07 14:29:24 -0300",
+      "zoglin": "2026-01-07 15:23:26 -0300",
+      "zombified_pig": "2026-01-07 15:23:24 -0300",
+      "pig": "2026-01-07 14:29:23 -0300",
+      "zombified_piglin": "2026-01-07 14:29:26 -0300",
+      "hoglin": "2026-01-07 14:29:25 -0300",
+      "piglin": "2026-01-07 14:29:23 -0300",
+      "moolip": "2026-01-07 14:29:27 -0300",
+      "teacup_pig": "2026-01-07 14:29:25 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/pink_titan_gateways": {
+    "criteria": {
+      "jumbo_rabbit": "2026-01-07 14:29:24 -0300",
+      "axolotl": "2026-01-07 14:29:27 -0300",
+      "shrimp": "2026-01-07 15:23:28 -0300",
+      "zoglin": "2026-01-07 14:29:25 -0300",
+      "zombified_pig": "2026-01-07 14:29:27 -0300",
+      "piglin_brute": "2026-01-07 14:29:26 -0300",
+      "pink_vein_creeper": "2026-01-07 15:23:26 -0300",
+      "zombified_piglin": "2026-01-07 14:29:28 -0300",
+      "hoglin": "2026-01-07 14:29:24 -0300",
+      "piglin": "2026-01-07 14:29:24 -0300",
+      "teacup_pig": "2026-01-07 14:29:24 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-01-07 14:41:23 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2026-01-07 21:02:22 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2026-01-07 21:00:16 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
+    "criteria": {
+      "has_constantan_ingot": "2026-01-07 21:00:16 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2026-01-07 21:02:22 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/signalum_dust_from_ingot": {
+    "criteria": {
+      "has_signalum_ingot": "2026-01-07 21:02:46 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2026-01-07 21:00:03 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-07 21:08:02 -0300"
     },
     "done": true
   },
