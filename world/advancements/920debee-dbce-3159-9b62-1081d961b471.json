@@ -18171,9 +18171,9 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
     "criteria": {
-      "has_silver_dust": "2026-01-07 21:02:22 -0300"
+      "has_nickel_dust": "2026-01-07 21:00:03 -0300"
     },
     "done": true
   },
@@ -18189,6 +18189,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2026-01-07 21:02:22 -0300"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
     "criteria": {
       "has_silver_dust": "2026-01-07 21:02:22 -0300"
@@ -18201,15 +18207,39 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
-    "criteria": {
-      "has_nickel_dust": "2026-01-07 21:00:03 -0300"
-    },
-    "done": true
-  },
   "additionallanterns:recipes/misc/amethyst_chain": {
     "criteria": {
       "recipe_condition": "2026-01-07 21:08:02 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/titan_gateways/gray_titan_gateways": {
+    "criteria": {
+      "cat": "2026-01-07 23:36:55 -0300",
+      "silverfish": "2026-01-07 23:41:41 -0300",
+      "abyssologer": "2026-01-07 23:36:54 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/gray_normal_gateways": {
+    "criteria": {
+      "pillager": "2026-01-07 23:36:54 -0300",
+      "ravager": "2026-01-07 23:41:41 -0300",
+      "evoker": "2026-01-07 23:41:41 -0300",
+      "cat": "2026-01-07 23:36:54 -0300",
+      "abyssologer": "2026-01-07 23:36:54 -0300"
+    },
+    "done": false
+  },
+  "skyfactory_5:tracking_advancements/trophies/gray_trophies": {
+    "criteria": {
+      "Evoker": "2026-01-07 23:43:39 -0300"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2026-01-07 23:43:09 -0300"
     },
     "done": true
   },
