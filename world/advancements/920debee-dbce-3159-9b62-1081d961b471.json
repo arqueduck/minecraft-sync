@@ -3815,6 +3815,7 @@
   "skyfactory_5:tracking_advancements/trophies/brown_trophies": {
     "criteria": {
       "Rabbit": "2026-01-07 14:18:49 -0300",
+      "Villager": "2026-01-08 16:03:33 -0300",
       "Cow": "2025-12-27 01:26:05 -0300"
     },
     "done": false
@@ -13449,6 +13450,8 @@
   },
   "skyfactory_5:tracking_advancements/trophies/lime_trophies": {
     "criteria": {
+      "Creeper": "2026-01-08 16:06:01 -0300",
+      "Creeper Tot": "2026-01-08 16:04:50 -0300",
       "Slime": "2026-01-04 01:49:58 -0300"
     },
     "done": false
@@ -17348,7 +17351,12 @@
   },
   "skyfactory_5:tracking_advancements/trophies/cyan_trophies": {
     "criteria": {
-      "Drygmy": "2026-01-06 00:08:18 -0300"
+      "Drygmy": "2026-01-06 00:08:18 -0300",
+      "Fancy Chicken": "2026-01-08 15:53:28 -0300",
+      "Stray Bone Spider": "2026-01-08 15:54:48 -0300",
+      "Glow Squid": "2026-01-08 15:51:13 -0300",
+      "Cyan Vein Creeper": "2026-01-08 15:57:22 -0300",
+      "Glow Skeleton": "2026-01-08 15:52:35 -0300"
     },
     "done": false
   },
@@ -17842,6 +17850,8 @@
   },
   "skyfactory_5:tracking_advancements/trophies/light_gray_trophies": {
     "criteria": {
+      "Iron Golem": "2026-01-08 16:00:50 -0300",
+      "Wolf": "2026-01-08 16:02:05 -0300",
       "Witch": "2026-01-07 09:12:49 -0300"
     },
     "done": false
@@ -18231,15 +18241,171 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2026-01-07 23:43:09 -0300"
+    },
+    "done": true
+  },
   "skyfactory_5:tracking_advancements/trophies/gray_trophies": {
     "criteria": {
       "Evoker": "2026-01-07 23:43:39 -0300"
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_cauldron": {
     "criteria": {
-      "has_copper_backpack": "2026-01-07 23:43:09 -0300"
+      "has_cauldron": "2026-01-08 09:29:52 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_hoe": {
+    "criteria": {
+      "has_tool": "2026-01-08 11:23:02 -0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_sandstone_chain": {
+    "criteria": {
+      "recipe_condition": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-01-08 17:11:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-01-08 16:38:48 -0300"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-01-08 16:32:50 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
+    "criteria": {
+      "has_tool": "2026-01-08 17:09:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/pink_trophies": {
+    "criteria": {
+      "Teacup Pig": "2026-01-08 16:12:20 -0300",
+      "Zombified Piglin": "2026-01-08 16:11:26 -0300",
+      "Hoglin": "2026-01-08 16:16:36 -0300",
+      "Piglin": "2026-01-08 16:28:22 -0300",
+      "Axolotl": "2026-01-08 16:22:51 -0300",
+      "Shrimp": "2026-01-08 16:17:36 -0300",
+      "Zoglin": "2026-01-08 16:13:29 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
     },
     "done": true
   },
