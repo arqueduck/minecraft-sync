@@ -18249,7 +18249,9 @@
   },
   "skyfactory_5:tracking_advancements/trophies/gray_trophies": {
     "criteria": {
-      "Evoker": "2026-01-07 23:43:39 -0300"
+      "Cat": "2026-01-08 20:55:39 -0300",
+      "Evoker": "2026-01-07 23:43:39 -0300",
+      "Pillager": "2026-01-08 20:56:49 -0300"
     },
     "done": false
   },
@@ -18325,30 +18327,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2026-01-08 17:11:59 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2026-01-08 16:38:48 -0300"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2026-01-08 16:32:50 -0300"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
-    "criteria": {
-      "has_tool": "2026-01-08 17:09:00 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2026-01-08 14:58:01 -0300"
@@ -18391,21 +18369,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-01-08 14:58:01 -0300"
+    },
+    "done": true
+  },
   "skyfactory_5:tracking_advancements/trophies/pink_trophies": {
     "criteria": {
       "Teacup Pig": "2026-01-08 16:12:20 -0300",
+      "Pig": "2026-01-08 20:51:49 -0300",
+      "Moolip": "2026-01-08 20:50:49 -0300",
       "Zombified Piglin": "2026-01-08 16:11:26 -0300",
       "Hoglin": "2026-01-08 16:16:36 -0300",
       "Piglin": "2026-01-08 16:28:22 -0300",
+      "Zombified Pig": "2026-01-08 20:52:58 -0300",
       "Axolotl": "2026-01-08 16:22:51 -0300",
       "Shrimp": "2026-01-08 16:17:36 -0300",
       "Zoglin": "2026-01-08 16:13:29 -0300"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
-      "has_sandstone": "2026-01-08 14:58:01 -0300"
+      "has_rotten_flesh": "2026-01-08 16:32:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-01-08 16:38:48 -0300"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
+    "criteria": {
+      "has_tool": "2026-01-08 17:09:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-01-08 17:11:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-01-08 20:19:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-01-08 20:19:04 -0300"
     },
     "done": true
   },
