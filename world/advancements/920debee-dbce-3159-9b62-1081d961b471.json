@@ -4011,6 +4011,7 @@
     "criteria": {
       "acornhat": "2026-01-07 09:57:18 -0300",
       "bandanargb": "2026-01-05 12:50:44 -0300",
+      "bandana": "2026-01-09 23:40:05 -0300",
       "baseballeaster": "2025-12-27 01:55:44 -0300"
     },
     "done": false
@@ -4019,7 +4020,8 @@
     "criteria": {
       "swimmer": "2026-01-02 23:30:15 -0300",
       "spyzombie": "2025-12-27 01:55:46 -0300",
-      "sonichood": "2026-01-07 09:57:01 -0300"
+      "sonichood": "2026-01-07 09:57:01 -0300",
+      "supersandhat": "2026-01-09 23:33:48 -0300"
     },
     "done": false
   },
@@ -5981,13 +5983,15 @@
       "triangleshades": "2025-12-30 13:03:30 -0300",
       "tvhead": "2026-01-06 16:36:06 -0300",
       "zigzagwitchhat": "2025-12-30 12:59:32 -0300",
-      "tricorne": "2026-01-07 09:57:18 -0300"
+      "tricorne": "2026-01-07 09:57:18 -0300",
+      "worms_mine": "2026-01-09 23:33:49 -0300"
     },
     "done": false
   },
   "skyfactory_5:tracking_advancements/simple_hats/141_160": {
     "criteria": {
-      "pighead": "2025-12-30 13:03:26 -0300"
+      "pighead": "2025-12-30 13:03:26 -0300",
+      "paperbag": "2026-01-09 23:40:05 -0300"
     },
     "done": false
   },
@@ -11418,7 +11422,8 @@
     "criteria": {
       "fro": "2026-01-02 01:43:34 -0300",
       "halo": "2026-01-07 09:57:18 -0300",
-      "foxhat": "2026-01-06 16:31:17 -0300"
+      "foxhat": "2026-01-06 16:31:17 -0300",
+      "fishonhead": "2026-01-09 23:40:03 -0300"
     },
     "done": false
   },
@@ -11874,7 +11879,9 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/61_80": {
     "criteria": {
-      "dimmahat": "2026-01-02 22:49:10 -0300"
+      "cowboyrgb": "2026-01-10 00:06:40 -0300",
+      "dimmahat": "2026-01-02 22:49:10 -0300",
+      "cuphead": "2026-01-09 23:40:09 -0300"
     },
     "done": false
   },
@@ -13458,7 +13465,9 @@
   },
   "skyfactory_5:tracking_advancements/simple_hats/181_200": {
     "criteria": {
-      "scouter": "2026-01-04 01:50:29 -0300"
+      "santaclaus": "2026-01-09 23:40:03 -0300",
+      "scouter": "2026-01-04 01:50:29 -0300",
+      "shrekears": "2026-01-09 23:33:50 -0300"
     },
     "done": false
   },
@@ -16957,6 +16966,7 @@
     "criteria": {
       "milady_doll": "2026-01-07 09:57:01 -0300",
       "hockeymask": "2026-01-07 00:14:30 -0300",
+      "largehorns": "2026-01-09 23:40:06 -0300",
       "kirbymouthful": "2026-01-05 12:35:28 -0300"
     },
     "done": false
@@ -17514,6 +17524,7 @@
   "skyfactory_5:tracking_advancements/simple_hats/161_180": {
     "criteria": {
       "rgbbigribbon": "2026-01-06 14:10:16 -0300",
+      "rednose": "2026-01-09 23:33:48 -0300",
       "rgbbowler": "2026-01-06 11:33:04 -0300"
     },
     "done": false
@@ -18249,6 +18260,7 @@
   },
   "skyfactory_5:tracking_advancements/trophies/gray_trophies": {
     "criteria": {
+      "Abyssologer": "2026-01-09 20:51:15 -0300",
       "Cat": "2026-01-08 20:55:39 -0300",
       "Evoker": "2026-01-07 23:43:39 -0300",
       "Pillager": "2026-01-08 20:56:49 -0300"
@@ -18423,6 +18435,369 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2026-01-08 20:19:04 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cloud_pendant": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_eerie_mask": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
+    "criteria": {
+      "has_uranium_ingot": "2026-01-09 23:48:07 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2026-01-09 23:47:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_questgiver_mark": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2026-01-09 23:47:46 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thick_eyebrows": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_bowtie": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_orange_shades": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_cat_ears": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_googly_eyes": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
+    "criteria": {
+      "has_ingot_uranium": "2026-01-09 23:48:07 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_blue_butterfly": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-09 23:51:36 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2026-01-09 23:51:36 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2026-01-10 00:09:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2026-01-09 23:47:47 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-01-09 23:51:36 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2026-01-09 23:47:47 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_devil_horns": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_groucho_glasses": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_puffy_scarf": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/41_60": {
+    "criteria": {
+      "chefshat": "2026-01-09 23:40:06 -0300",
+      "cheeseslice": "2026-01-09 23:40:05 -0300",
+      "camerabeard": "2026-01-09 23:40:09 -0300",
+      "chalk_stick": "2026-01-09 23:40:05 -0300"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/manaweave_cloth": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thinking_hand": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-09 23:51:36 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_witch_pin": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_ingot_uranium": {
+    "criteria": {
+      "has_storage_uranium": "2026-01-09 23:48:07 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_red_ribbons": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_alien_antenna": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_polka_dotted_bows": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lumium_dust_from_ingot": {
+    "criteria": {
+      "has_lumium_ingot": "2026-01-09 23:45:21 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_kamui_eye": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_unicorn_horn": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_clock_eye": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_ancient_mask": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_engineer_goggles": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_anaglyph_glasses": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2026-01-09 23:48:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-01-09 23:51:36 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2026-01-09 23:48:35 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_tiny_potato_mask": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_wicked_eyepatch": {
+    "criteria": {
+      "has_item": "2026-01-10 00:10:06 -0300"
     },
     "done": true
   },
