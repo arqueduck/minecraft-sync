@@ -12362,6 +12362,7 @@
   "skyfactory_5:tracking_advancements/simple_hats/81_100": {
     "criteria": {
       "fakeblight": "2026-01-02 23:02:16 -0300",
+      "dragonskull": "2026-01-11 11:06:12 -0300",
       "fireworks": "2026-01-05 23:07:42 -0300",
       "easterhead": "2026-01-02 23:30:13 -0300"
     },
@@ -18798,6 +18799,234 @@
   "botania:recipes/misc/cosmetic_wicked_eyepatch": {
     "criteria": {
       "has_item": "2026-01-10 00:10:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2026-01-11 11:06:55 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/structure_absorber": {
+    "criteria": {
+      "sponge": "2026-01-11 11:06:56 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/fluid_absorber": {
+    "criteria": {
+      "sponge": "2026-01-11 11:06:56 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/biome_absorber": {
+    "criteria": {
+      "sponge": "2026-01-11 11:06:56 -0300"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/block_absorber": {
+    "criteria": {
+      "sponge": "2026-01-11 11:06:56 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2026-01-11 11:10:29 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-11 11:10:29 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-01-11 11:10:29 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2026-01-11 11:10:29 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-01-11 14:23:36 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2026-01-11 15:57:17 -0300"
     },
     "done": true
   },
