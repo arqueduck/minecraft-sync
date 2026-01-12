@@ -19030,5 +19030,23 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_ingredient": "2026-01-12 15:08:22 -0300"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/red_trophies": {
+    "criteria": {
+      "Parrot": "2026-01-12 15:15:27 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-01-12 15:08:22 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
