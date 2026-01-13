@@ -19056,5 +19056,29 @@
     },
     "done": false
   },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_uranium_block": "2026-01-13 00:31:34 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
+    "criteria": {
+      "has_graphite_ingot": "2026-01-13 00:13:49 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-01-13 00:33:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-01-13 00:33:10 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
