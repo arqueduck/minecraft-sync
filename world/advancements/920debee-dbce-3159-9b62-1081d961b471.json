@@ -4848,13 +4848,16 @@
   },
   "skyfactory_5:tracking_advancements/normal_gateways/white_normal_gateways": {
     "criteria": {
+      "panda": "2026-01-12 20:43:18 -0300",
       "goat": "2026-01-02 23:19:12 -0300",
       "polar_bear": "2026-01-02 23:39:55 -0300",
       "white_vein_creeper": "2026-01-02 23:39:56 -0300",
       "baby_ghast": "2026-01-02 23:39:57 -0300",
       "llama": "2026-01-02 23:22:35 -0300",
       "skeleton": "2026-01-02 23:39:57 -0300",
+      "skeleton_wolf": "2026-01-12 20:35:27 -0300",
       "snow_golem": "2025-12-27 18:12:58 -0300",
+      "opalescent_eye": "2026-01-12 20:43:16 -0300",
       "ghast": "2026-01-02 23:22:35 -0300"
     },
     "done": false
@@ -12592,12 +12595,16 @@
   },
   "skyfactory_5:tracking_advancements/titan_gateways/white_titan_gateways": {
     "criteria": {
+      "chicken": "2026-01-12 20:43:18 -0300",
       "melon_golem": "2026-01-02 23:39:55 -0300",
+      "horned_sheep": "2026-01-12 20:43:19 -0300",
       "goat": "2026-01-02 23:39:55 -0300",
       "polar_bear": "2026-01-02 23:24:53 -0300",
+      "white_vein_creeper": "2026-01-12 20:43:17 -0300",
       "llama": "2026-01-02 23:34:29 -0300",
       "skeleton": "2026-01-02 23:39:56 -0300",
       "skeleton_wolf": "2026-01-02 23:39:55 -0300",
+      "baby_ghast": "2026-01-12 20:43:17 -0300",
       "opalescent_eye": "2026-01-02 23:19:12 -0300"
     },
     "done": false
@@ -18239,6 +18246,7 @@
     "criteria": {
       "cat": "2026-01-07 23:36:55 -0300",
       "silverfish": "2026-01-07 23:41:41 -0300",
+      "gray_vein_creeper": "2026-01-12 20:43:15 -0300",
       "abyssologer": "2026-01-07 23:36:54 -0300"
     },
     "done": false
@@ -19036,17 +19044,17 @@
     },
     "done": true
   },
-  "skyfactory_5:tracking_advancements/trophies/red_trophies": {
-    "criteria": {
-      "Parrot": "2026-01-12 15:15:27 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2026-01-12 15:08:22 -0300"
     },
     "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/red_trophies": {
+    "criteria": {
+      "Parrot": "2026-01-12 15:15:27 -0300"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
